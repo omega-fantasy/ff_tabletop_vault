@@ -1,0 +1,5 @@
+I didn't find a proper way to create a backup of the webpage for FFRPG 1e.
+If you know how to do this, please let me know.
+We currently only have access to it through the following archived page:
+
+https://web.archive.org/web/20000302162949/http://returners.simplenet.com/FFRPG/Table_of_Contents.html
