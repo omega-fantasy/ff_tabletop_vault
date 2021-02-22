@@ -1,0 +1,937 @@
+Session Start: Sun Jul 29 16:17:41 2001
+*** Now talking in #returners
+*** Topic is 'The official channel of Returner Games Inc. This channel is dedicated to the 
+discussion & development of the Returner Final Fantasy RPG. For more information, feel free to 
+visit our web page at http://www.returnergames.com/.'
+*** Set by Hiro on Fri Jul 20 18:34:26
+*** ChanServ sets mode: +o Genoce
+*** eldersphinx has joined #returners
+*** ChanServ sets mode: +o eldersphinx
+<eldersphinx> M: Should the Knight Swords be on the agenda? Is there anything you'd like to
+ pitch on them, or would you rather wait until you have a write-up?
+<Genoce> I had a writeup, but your Artifact Swords put a few holes in it.
+<Genoce> That, and I was busy finishing up the new Blue Magic and Explosives listings.
+<eldersphinx> Explosives? For the Chemist?
+<Genoce> No, for everybody.
+<Genoce> I ripped the first four entries out of the One-Shot Items table and stuck them under
+ Weapons instead.
+<eldersphinx> Huh... well, it sounds to me like there's not much that can be discussed on
+ Knight Swords - people can't pitch ideas, because you've already thought of them, and can't
+ comment on what you've written, because it isn't done yet.
+* Genoce nods.
+<Genoce> Unless people are willing to consider a third list of 'light Swords'?
+<eldersphinx> Do we have the weapons to make a complete list? IIRC, a lot of the 'sabre'
+ weapons are already in the Swords list.
+<Genoce> Yeah, but I've gone ahead and compiled a listing of every sword in the e-games,
+ period. 
+<Genoce> Lessee here: with 67 weapons in the e-games, I think we've got enough grounds.
+<eldersphinx> Hmmm... would 'light Sword' be considered a different weapon skill from regular
+ Swords in FF? (I'm assuming d8 damage dice?)
+<Genoce> I pegged two-handeds as d12, so yes.
+<Genoce> d8 puts them on par with Ninja Knives, though.
+<Genoce> Means that there's got to be something in the functionality.
+<eldersphinx> Well, what I'm wondering is how/why the light Swords get a different weapon
+ skill.
+<Genoce> They wouldn't.
+<eldersphinx> Then why make them a different weapon class? Just make a note that some lighter
+ Sword types use a d8, and put them on the Swords page.
+<Genoce> Because you can play around with the functionality behind it. Add in a special rule to
+ represent the lighter weight and flexibility of the sword. 
+<Genoce> Two-Handed Swords, for example, give you extra damage but prevent you from dual
+ wielding or carrying a shield.
+<Genoce> That way, it isn't just a different d[x] and a few new names.
+<eldersphinx> The 'prevent shield use' is prob. the one thing balancing out Two-Handed Sword +
+ Dispatch at level 1...
+<Genoce> Interesting question: what effect would Two Weapons have on, say, Cleave?
+<eldersphinx> Seriously, I'd rule that Two Weapons doesn't affect anything that doesn't work
+ off of a Fight command, just as the Offering didn't in FF6.
+<Genoce> Speaking of FF6, one item that I wanted to put on the agenda regarded Accessories. 
+<Genoce> Just kicking around the idea that the one-Accessory limit should be extended to one
+ Accessory from each group.
+<Genoce> I'd also like to budget the five seconds it'd take to talk over the equipment I
+ posted.
+<eldersphinx> It hit the list just last night, though. Gotta admit that I didn't see it until
+ this morning myself.
+<eldersphinx> If it sits for another day or two, we'd probably see some discussion on it. I've
+ actually got some thoughts on it...
+<Genoce> Share, by all means.
+<eldersphinx> Well, first comment: What exactly does a Sheath do, in terms of protection? Give
+ a player an arguing point if the GM aims a destructive attack at a weapon not in hand?
+<Genoce> More of an RP thing. 
+<Genoce> I considered it awarding a basic bonus against Damage/Break.
+<Genoce> Nothing unseemly. 2, 3% at the most.
+<eldersphinx> There's an idea for the Engineer. Some kind of 'Temper' command, grants a bonus
+ against Breakage or similar catastrophe for allies' equipment.
+<Genoce> That's Maintenance.
+<Genoce> Which already got thrown in a while back.
+<eldersphinx> Does Maintanence happen prior to damage, though? I was thinking something 
+proactive.
+<Genoce> For the Engineer's gear alone, though. 
+<Genoce> Actually, come to think of it, it's an idea.
+<eldersphinx> I don't think it would break the game to allow the Engineer to grant a bonus to 
+stop allies' equipment from Breaking - and it clears up that "Titanium sword from the 
+Engineer" blurb in Chapter 6.
+<Genoce> Ah, well. Chalk up one for the Engineer.
+<eldersphinx> Second comment on the equipment: Are the Fast Holsters and the Power Sleeves 
+cumulative?
+<Genoce> Yeah.
+<eldersphinx> Would either the Fast Holster or the Power Sleeves be usable if a character was 
+Hasted? Or Slowed, for that matter? That kind of synergy could get nasty quick...
+<Genoce> Wouldn't Haste or Slow override all other Initiative-enhancing mechanics anyway?
+<Genoce> Besides, it's only for the first Round.
+<Genoce> You can't actually cast Haste at the start of the battle unless you've got an 
+Accessory or Weapon that casts it on you automatically.
+<eldersphinx> Anyway, the chances of getting an 8 or better on your Initiative roll are 30%. 
+With a Fast-Draw Holster, that chance goes up to better than 50%.
+<eldersphinx> Allowing that kind of certainty to stack with Haste is something I'm not too keen 
+on.
+<Genoce> If everybody considers it such a bad idea, I'll just throw it out again.
+<eldersphinx> For a 2500 GP Rare item, it's not bad. I just don't want it adding to every other 
+ability in the bleedin' universe. :)
+<eldersphinx> Last comment: The Sniper Sight. Is this still considered an Accessory? Also, is 
+the 'base 100% Fight' chance fair?
+<Genoce> (A) No, since it's something you could picture being commonplace in higher-tech areas. 
+See FF8. 
+<Genoce> (B) That's exactly what the original writeup said, in as many words. They just said it 
+'hit automatically', or something to that effect.
+<eldersphinx> IIRC, Defense never factored into the Sniper Sight. You just hit with it. And I 
+*know* the last time it was revised was back when MCS monsters were lucky to have a Defense in 
+the mid-thirties...
+<Genoce> It seems like the less cheap alternative. 
+<Genoce> I'd rather not have players running around with laser-guided weapons, especially if 
+there are modifiers for ranges and such.
+<Genoce> That creates a big problem with your LOS suggestion. 
+<Genoce> 'Let's hit a target two kilometers away! With my Sniper Sight, I can't miss even 
+though it's the size of a pinhead in the scope!'
+<Genoce> That's the kind of thing I'm talking about here.
+<eldersphinx> That's one of the reasons why I'm wondering if the Sniper Scope should stop being 
+an accessory. As it stands, if you're using it, you get no Running Shoes, 108 Gems, or Hero 
+Ring.
+<Genoce> It doesn't necessarily have to be magical, per se.
+<Genoce> IR/Magnification can be as good as magic, in my opinion.
+*** Suoh_Akira has joined #returners
+<Genoce> Hey, Adam.
+<Suoh_Akira> Hello Hello Hello.
+<eldersphinx> Hey.
+<Demonic_Gerbil> Has anyone ever noticed that a Black Mage can't use knives?
+<Genoce> Can't he?
+<Demonic_Gerbil> Nope.  He's got books, boomerangs, cudgels, rods and whips
+<Genoce> Elisha - I guess that'll have to be amended.
+<Demonic_Gerbil> Yeah, M, what classes still need to be revised and which ones are 'done'?  
+I've lost track and would like a list. :)
+<Genoce> Lessee here.
+<Genoce> Archer -- Rob still needs to fix this.
+<Genoce> Geomancer -- broken.
+<Genoce> Artist -- needs limiters.
+<Genoce> Bard -- heavily in need of a good blunting to take some of the punch out of those 
+songs.
+<Genoce> Dancer -- still a little weak.
+<Genoce> Rune Knight -- unresolved.
+<Genoce> Magic Knight -- ditto.
+*** Hiro has joined #returners
+*** ChanServ sets mode: +o Hiro
+<Genoce> General -- waiting for some kind of resolution.
+<Genoce> Hey, Rob.
+<eldersphinx> Hey, Rob.
+<Demonic_Gerbil> Yo Rob.
+<Genoce> Black Belt -- we've got to figure out what to do with that replacement ability.
+<Hiro> Magic Knight/General: wait for Blair to finish his right-up.
+<Demonic_Gerbil> I have an idea for the Black Belt's replacement power:  Meteor Strike from 
+Zell...
+<Genoce> Elisha -- I'd been sighting those as Brawl-specific WMs once I get around to rewriting 
+that particular section of the rules.
+<Genoce> Actually, how interested would you be in working out a new four-string set of WMs for 
+the major weapon categories?
+<Hiro> Why four-string sets?
+<Genoce> 100%, 150%, 200%, 250%.
+<Demonic_Gerbil> Could you finish the list, M?
+<Genoce> Fighter -- Pretty much the red-headed stepchild of the professions, in all senses of 
+the word.
+<Genoce> Monster Trainer -- definitely broken.
+<Genoce> Beastmaster -- also broken.
+<Genoce> Engineer -- needs some more abilities to make levelling mean something.
+<Genoce> Elisha - that's about it from what I remember off the top of my head.
+<Demonic_Gerbil> What about the Gambler M?  I remember some talk about it.
+<Genoce> Damn, yeah. You're right.
+<Genoce> I keep meaning to do that writeup...
+*** Maxrpg has joined #returners
+<Genoce> Hey there.
+<Maxrpg> Hiya
+<Maxrpg> I decided to get a head start on the chat, if you guys don't mind :)
+<Genoce> No problem at all.
+<eldersphinx> Maxrpg: I don't think I've seen you around before?
+<Genoce> You haven't missed much.
+<Genoce> Rodger - he's from the board.
+<Maxrpg> Someone really needs to define the damage done by those Holy Sword techniques ;)
+<Maxrpg> Me and my friends have just multiplyed the damage by 1.5 or 1.6, and it worked that 
+way
+<eldersphinx> 133% of normal weapon damage?
+<Demonic_Gerbil> (Normal Damage x 1.5) x DC
+<eldersphinx> That's about the way it works.
+<Maxrpg> K.
+<Demonic_Gerbil> Hey, can we rename the Barbarian to Berserker?  I've been thinking about it 
+and it makes so much sense to me.
+<Genoce> Didn't we already approve it?
+<Maxrpg> DG: Yeah, I keep calling it Berserker myself (Too much FF5...)
+*** Xuenay has joined #returners
+<Maxrpg> Howdy Xuenay
+<Xuenay> Hi all
+<Genoce> Hey, Kaj.
+<Genoce> Anyway, Max -- since this is sort of 'open mike' moment right now, have anything in 
+particular that you'd want to throw in, suggestion/improvement-wise?
+<Maxrpg> Well, my friends are arguing about whether 01 should be a botch or not
+<Genoce> Hang on, let me dig up that particular line of text from the new edition. 
+<Genoce> Botches and Critical Successes
+<Genoce> Whenever a Percentile Roll is made, there is a chance that the result will either come 
+up as 100 (0 and 0) or 1 (a 0 and a 1). Results of this kind are called Botches and Critical 
+Successes, respectively  -- in game terms, this means that a character not only passes or 
+fails, but does so in an unusually spectacular fashion. 
+<Maxrpg> Ah, K.
+*** Herrick has joined #returners
+<eldersphinx> Hello.
+<Genoce> Hey, Andy.
+<Hiro> Hi Andy.
+<Suoh_Akira> Greetings.
+<Herrick> Hello
+<Genoce> Rodger, want to get us started?
+<eldersphinx> Next after Map Combat is the Dragoon... and Killer B isn't here to defend 
+himself.
+<Genoce> Yep.
+<Genoce> And the Thief.
+<eldersphinx> Rune Knight, then?
+<Demonic_Gerbil> Yep.  Rune Knight time.
+<Genoce> Anyway, Adam, get us started.
+<Suoh_Akira> Okay. Most people in this room have already weighed in on the choices, right?
+<Demonic_Gerbil> Yeah.  I suggested a progression, remember? ;-)
+<Hiro> I have a question: didn't Zalbag get a batch of attacks called Mind ruin or something 
+similar or am I thinking of a different FFT NPC?
+<Maxrpg> Zalbag, yes.
+<Maxrpg> Power Ruin = -5 Attack Power
+* Hiro nods
+<Genoce> Though Rob does bring up a good point. Mind Ruin might be a good addition to the Rune 
+Knight.
+<Genoce> Particularly as that first Status Attack Elisha set out.
+<Genoce> Max - we're going with an 'anti-Mage' motif for the RK.
+<Genoce> Or at least, that's my conception of it.
+<Hiro> That's the basic idea of the job. 
+<Genoce> OK, that's 'Destroy Sword'.
+<Genoce> Magic Ruin, Speed Ruin, Power Ruin and Mind Ruin.
+<Suoh_Akira> Run with... Magic and Mind Ruin?
+<eldersphinx> And the original Runic.
+<Hiro> Lv. 4 red magic, Runic, Destroy Sword.
+<Genoce> Power Ruin and Speed Ruin too?
+<eldersphinx> Well, if they're ten-stringing, then they need the four Runic abilities and six 
+more.
+<Genoce> All of the other partials don't have the full 10-string set.
+<Herrick> How many does the Palidian and Dark Knight Have?
+<Genoce> Paladin has six, if you include Cover.
+<Genoce> Dark Knight only has four.
+<Maxrpg> I think Dark Knight needs 2 more techniques
+<Genoce> If that's the case, then we'd have about six Abilities for the RK.
+<Genoce> That's the Runics and Ruins.
+<eldersphinx> IMHO, the Dark Knight doesn't need more sword techniques, but might be able to 
+use an additional support ability.
+<Herrick> How about at higher levels there attacks can dispell benifical spells
+<Genoce> How would that work?
+<Genoce> Hey, Despair.
+<Genoce> I think Andy's on to something, personally.
+<Hiro> What's Despair?
+<Genoce> Rob - Despair from FFT cancelled out all positive Status Effects on one target.
+<Hiro> That might work.
+<Maxrpg> Hmm..
+<Maxrpg> that's actually a good idea
+<Maxrpg> I like it myself
+* Maxrpg notes that when playing with the Paladin, it seems like he doesn't get much out of the 
+abilities
+<Maxrpg> Like the Paladin needs something else or I don't know
+<Genoce> Max - Any suggestions?
+<Maxrpg> Prayer?
+<Genoce> Restores random amount of HP, non-MP-based. It's not much, but it's an idea. 
+<Genoce> Hell, let's give Mighty Sword to the Fighter.
+<Genoce> Perfect solution.
+<Hiro> I also thing a greatsword/two-handed sword list might be a good idea for those in need 
+of a Buster Sword type giant sword.
+<Demonic_Gerbil> Give Mighty Sword to the fighter and you can get rid of the Weapon Masteries. 
+:)
+<Genoce> Yeah, it's a rather underpowered Job to say the least.
+<eldersphinx> Only problem I can see with Mighty Sword -> Fighter is the fact that the Fighter 
+is currently the character to run if you want to fight with a hammer, an axe, a whip...
+<Genoce> Max - The way I was thinking about it, Prayer could be changed from the rather 
+pathetic FF4 incarnation to a 'random blessing' kind of thing, where you roll a d10 and get 
+results like increasing your Str for a certain number of rounds, that kind of thing. It's a 
+wild idea, but it does keep with the character of the Paladin.
+<eldersphinx> I'm not sure that the Paladin needs anything more.
+<Genoce> Rodger -- It's a thought. 
+<Maxrpg> M, about your prayer thing: it's a good idea
+*** Kirmal has joined #Returners
+*** Captain_Vittles has joined #Returners
+<Captain_Vittles> hey
+<Genoce> Hey, Blair.
+<Herrick> Hi
+<Maxrpg> M: I could write up a list of the abilities the d10 could cause
+<Genoce> Max - Sure.
+<Genoce> Post it on the board.
+<Genoce> Anybody here want to write up a quick blurb for Despair?
+<Hiro> I'll handle it.
+<Hiro> Btw, does the Dark Knight get this automatically at level 1 or at a later level?
+<eldersphinx> Later level. Definitely.
+<Hiro> I take it there's a CoS?
+<Hiro> Say... (55 + Level + Magic, M. Defense)?
+*** killerb255 has joined #returners
+<eldersphinx> Sure.
+<Hiro> Hey
+<Xuenay> Hi there
+<Maxrpg> how3dy
+<Suoh_Akira> Brandon!
+<killerb255> I was off today, so I got in a bit earlier.
+<Herrick> Is the CoS for each spell or all of them?
+<Herrick> Hi
+<eldersphinx> Brandon! We were waiting on you! Dragoon and Thief are items 2 and 3 on the 
+agenda!
+<Genoce> Hey, Brandon.
+<killerb255> They were already posted on the list.
+<killerb255> ...unless anyone has probs with the revisions.
+<killerb255> the only problems I could see are the CoS's.
+<killerb255> For the Thief, against a PC, Level should be added to the CoS because PC Defense 
+doesn't factor in level
+<killerb255> ...like a monster's.
+<killerb255> ...otherwise, a Thief could just rob the party blind.
+<Hiro> At this point in the Dark Knight's carreer their mastery of dark energy has reached a 
+point where it can cancel out the positive status conditions and spells of their enemies. The 
+chance of success for Despair to work is (55 + Level + Magic, M. Defense)%. If successful, the 
+target loses ALL positive status conditions or spells.
+<Genoce> Brandon: We dropped Mighty Sword.
+<Herrick> Yep
+<Hiro>  If the conditions/spells are natural or automatic (say, a regen ring that grants the 
+Regeneration condition), the benefits are temporarily knocked out of commision for 3 rounds by 
+the use of the ability.
+<Genoce> We're using Destroy Sword now.
+<killerb255> Oh, the ________ Ruin abilities?
+<Genoce> Yep.
+<Genoce> Mighty Sword is bound for the Fighter. 
+<Herrick> What's the init penalties for Despair if any?
+<Hiro> let alone what level they get them.
+<killerb255> Since that makes five Dark Sword abilities, use the Paladin's progression, since 
+they have five Holy Sword abilities.
+<Hiro> Or 15, 29, 43, 57, 64.
+<killerb255> ...same with the Paladin?  Stasis Sword: 15, Split Punch: 29, Crush Punch: 43, 
+Lightning Stab: 57, Holy Explosion: 64?
+<Suoh_Akira> Okay. This is my idea for Destroy Sword. Magic Ruin= Physical damage+ Silence. Speed Ruin=Don'
+<Suoh_Akira> t Move + Physical damage, ect.
+<Maxrpg> M: think this CoS is fine? 55 + Level + Willpower?
+<Maxrpg> I chose Willpower because it seemed like the best stat because of Paladin's link with 
+the Light 
+<Suoh_Akira> Okay okay okay. Let
+<Suoh_Akira> s try this.
+<Suoh_Akira> Mp Runic. Runic Charge. Mind Ruin. Magic Ruin. Don't Move. Don't Act. Curse.
+<Suoh_Akira> 8 string.
+<killerb255> Sure.
+<killerb255> They don't have to be stringed to the same progression, though.
+<Herrick> I'd go for it
+<killerb255> If Runic and Destroy Sword are two different commands, you don't have to string 
+them together as if they were only one.
+<killerb255> ...actually, you don't even need to string them exactly, unless the Paladin and 
+the Dark Knight have some sort of pattern.
+<killerb255> ...that, and Red Magic can upset any gaps in power until around 50th level or so.
+<Captain_Vittles> If it's only L4 Red Magic then it's not that powerful.
+<killerb255> Exactly.  It upsets any gaps in power at low levels.
+<Suoh_Akira> But they get those status attacks, Blair.
+<killerb255> ...that's when the other abilities make up for the lacking magic at high levels.
+<killerb255> ...just like the Paladin and Dark Knight.
+<Suoh_Akira> Mp Runic (1), Runic Charge (Level 45?)
+<killerb255> 45 sounds good.
+<Suoh_Akira> Woah woah woah... Speed Ruin, Magic Ruin, Mind Ruin, Power Ruin...
+<Suoh_Akira> How do they function?
+<Hiro> R:4, 20% off Speed, Magic, and Strength (Speed Ruin, Magic Ruin, and Power Ruin). 
+<killerb255> How about Level/2% off?
+<Captain_Vittles> 20% isn't always -5
+<Hiro> Mind ruin has R:4 and does damage to MP equal to the character's weapon damage.
+<Hiro> Hmm. Might need to be 1/2.
+<Hiro> Kinda like Rasp.
+<killerb255> ...going with the tradition of flat CoS's with the Paladin and Dark Knight.
+<killerb255> How many Destroy Sword abilities are we talking?
+<killerb255> 8?
+<Suoh_Akira> Speed Ruin, Mind Ruin, Magic Ruin, Power Ruin, Don't Move, Don't Act, Curse.
+<Suoh_Akira> The latter three need to be named.
+<Captain_Vittles> Leg Ruin, Arm Ruin, Body Ruin
+<Hiro> That'd work.
+<Suoh_Akira> Or Ability Ruin.
+<Captain_Vittles> 1,8,16,24,32,40,48,56
+<killerb255> Hmmm...
+<Hiro> I'd probaby move it up farther so not to conlfict with the Knight's stat Breaks.
+<killerb255> Runic: 1, 45
+<Herrick> Drop Lvl 1
+<killerb255> Destroy Sword: 8, 16, 24, 32, 40, 48, 56
+<Hiro> 1, 8, 15, 22, 29, 36, 43, 50, 57, 64.
+<Hiro> 1 is Runic, 57 is Runic Charge.
+<killerb255> 57?  That depends on how powerful Runic Charge is.
+<Herrick> I like 8,16,24,32,40,48,56 better
+<Hiro> I gotta say, I'm worried about having the Ruins start at LVL 8.
+<Hiro> How about this: drop Don't Act & Don't Move. That moves us down to 8 powers.
+<Suoh_Akira> Speed, Mind, Magic Ruin. Don't Act, Curse.
+<Hiro> Change Don't Act to Silence.
+<Herrick> So together they would be 1(R),5,20,35,45(R),50,65?
+<Suoh_Akira> Well, gentlemen. It seems we have... A PWAN! ::Bad American Tail ref...::
+<Genoce> Rodger, what's next?
+<eldersphinx> Blair. Magic?
+<killerb255> How about Blue Magic in particular.
+*** Jared has joined #returners
+<Herrick> Hi
+<Pocky-kun> hi
+*** dave has joined #returners
+<Herrick> Hi
+<Captain_Vittles> hey dave
+<Genoce> Hi, David.
+<Pocky-kun> hi
+<Jared> Hey Dave.
+* dave nods
+<killerb255> Anyway, Blue Mage learning method: survive spell initially, then at higher levels, 
+be able to see spell and have chance of learning
+<Captain_Vittles> Getting hit and seeing at at higher levels are more than enough.
+<Jared> I personally think Strago's methods are the fairest to the blue mage.  A chance of 
+learning it by seeing it, and automatic learning if he actually feels it.
+<Captain_Vittles> Visual Lore only works at high levels
+<Jared> Can I bring up any questions on the beastmaster right now, or should I discuss it in 
+private with M?  
+<Jared> The method of learning powers seems a little confusing.  I had an alternate idea-powers 
+can be learned as the beastmaster levels up.  As an example, I'll use the Bomb, a classic FF 
+monster.
+<Jared> Alright.  Basically, a beastmaster might not have immediate access to all the powers 
+learned from a monster, but as he levels up, he can acquire new ones from that monster.  It'll 
+be easier to show than tell.
+<Jared> It also requires some GM approval for when the player writes up his beastmaster rage, 
+so the oncus is on the player to do this, and the GM to approve it, as writing up rages for 
+every single monster would be ridiculous.
+* Hiro nods
+<Genoce> So the GM has to police the players.
+<Jared> M: Trust me, it's not as bad as it looks.  returners@yahoogroups.com, right?  
+<Hiro> There's a problem here- beastmaster powers come from monsters.
+<Jared> Yeah, but possibly we could include a list of rages for every monster.  It wouldn't be 
+that hard-just two to four extra lines detailing what powers can be learned and at what level 
+the beastmaster gets them.
+<Genoce> That'd be ToM. 
+<Genoce> Tome of Monsters.
+<Jared> And a few sample lists in the beastmaster section.  
+<Hiro> You might want to check out the revised MCS.
+<eldersphinx> I wonder if it'd be possible to build a 'Rage Attack' ruleset into each 
+monster...
+<eldersphinx> As a part of the MCS. Likely.
+<Hiro> one of the major changes to the revised MCS is that powers are no longer 'bought'. Each 
+monster has different slots for powers based on the type of power, all of which are now 
+organized into categories.
+<Hiro> ie, Action Abilities, Support Abilities, Movement abilities, Status Abilities, Boss 
+Abilities, and Disadvantages.
+<Hiro> Each monster starts with 2 action abilities, 1 support ability, 1 movement ability, and 
+1 status ability.
+<killerb255> Should Disadvantages be divided into Action, Support, Movement, Status, and Boss 
+as well, or would that be redundant?
+<Hiro> If the monster is of sufficient XP LVL, they can buy the power provided they have a slot 
+left.
+<Hiro> There's not that many disadvantages that require splitting up disadvantages into smaller 
+groups.
+<killerb255> Ok then.  It would be redundant then. :)
+<Jared> Should a beastmaster's physical attacks be the same as the monster's?  
+<Jared> IOW, if a Behemoth does a lot of damage with its bite, should the beastmaster too?  
+<Captain_Vittles> Bite is bite.
+<Captain_Vittles> Just because he's emulating a behemoth doesn't mean he has the strength of 
+one.
+<Captain_Vittles> He just uses the attacks of one.
+<killerb255> Ok.  Fair enough.
+<killerb255> ...let the strength be determined by the Beastmaster's Level and DC.
+<killerb255> ...and obvious Strength stat.
+*** Haeru has joined #returners
+<Jared> Question: What are the "inherent" abilities of a monster called?
+<Genoce> Powers.
+<Jared> OK, but which of the MCS classifications do they go under?  
+<Hiro> They're status abilities.
+<Jared> So would it be out of line for a beastmaster to acquire his monster's status and 
+support abilities when using that rage?  He could, for example, absorb fire and be vulnerable 
+to ice and water attacks, just like the monster.  That's the way Gau did it.
+<Genoce> That's what my original writeup said, didn't it?
+<Jared> Oh yeah.  Just revising the way the powers are learnt.  It makes the beastmaster pick 
+and choose wisely which abilities he wants to keep and which ones he wants to forget.
+<Jared> That's the only thing I'm really changing.
+<Jared> OK, we'll need to tack on one small addendum in the ToM for each monster entry, which 
+won't be too hard.  Someone list a classic FF monster.
+<Genoce> Sahagin.
+<Jared> Sahagin, eh...?  OK, that one can probably teach three powers as follows:
+<Jared> 1-4 Physical Attack (1d12+3+StrengthxDC physical damage, LV 1), 5-8 Water (3d6
++MagicxMDC damage, LV 1) 9-12 Aqua Breath (?d?+magicxDC, LV 20).  
+<Jared> We'll need to do that for every monster, but it shouldn't be that hard.
+<Jared> If the beastmaster was under LV 20 when he used the rage, he could only use the first 
+two powers.  
+<Jared> And the spread would be 1-6 for the physical attack and 7-12 for the Water spell.
+<Jared> Making rage lists for each monster shouldn't be that hard, I think.  In some cases, we 
+can use attacks stronger than what the monster could actually use-Fire 3 for the Bomb, for 
+example.
+<Jared> If you want to keep every rage that the beastmaster learns like Gau did, that's fine 
+with me.
+<Jared> I just kept the rage number restriction from M's writeup.
+<Jared> And I think it also keeps beastmasters from mastering uber-powers too early if they 
+manage to nail a really powerful monster or something like that.
+<Jared> You might have had the luck to tame that Behemoth through a lot of luck, but you can't 
+use his Meteor power for quite a while yet.
+<Jared> It can give the beastmaster something to look forward to.
+<Genoce> OK. Anybody mind if I hijack discussion for five seconds?
+*** Deathcrow has joined #returners
+<Genoce> Hey, Crow.
+<Deathcrow> Hello
+<Demonic_Gerbil> Summon's Level?  When did Summoned Monster's get levels?  Or am I missing something here...
+<Genoce> Elisha - they have stats now.
+<Captain_Vittles> For Full Summoners only.
+<Captain_Vittles> Callers still only have slash and dash spells IIRC.
+<killerb255> ...but what if a partial Summoner wants a summon to perform a task?
+<Genoce> He's outta luck.
+<Genoce> That's what partials are for.
+<Demonic_Gerbil> I guess we should get to the Artist?  It's next on the Agenda.
+<Demonic_Gerbil> Uhhh...  What level will the Blue Mage get Visual Lore at?  I don't think we decided.
+*** agentrolf has joined #Returners
+<Genoce> Hey, Dustin.
+<agentrolf> hello
+<eldersphinx> We all know that at high levels, the FFRPG can become a matter of one attack = 
+one kill, if it hits.
+<Genoce> Let's not forget that Visual Lore is an essential part of the Blue Mage's 
+functionality.
+<Deathcrow> A ble mage without visual lore will be limited a lot in his choices for spells to 
+learn
+<Genoce> Yeah.
+<Genoce> Without Visual Lore, he's limited to attacks alone.
+<killerb255> Without VL, these would be hard to learn:
+<killerb255> White Wind
+<killerb255> Mighty Guard
+<killerb255> L? anything
+<killerb255> Roulette
+<killerb255> Death Force
+<Deathcrow> Dragon Force
+<Genoce> Doom.
+<killerb255> Angel Whisper
+<Deathcrow> Forcefield
+<Genoce> Pep Up.
+<Captain_Vittles> Blue Mages should have access to better weapons than other mages.  In FF5, 
+the true Blue Mages did.
+<Genoce> They're essentially limited to offense until they get Visual Lore.
+<agentrolf> At least a step up from the Black mage
+<Captain_Vittles> Keep visual lore, but keep it high level
+<Genoce> Why is that a problem?
+<Genoce> Wouldn't it just be easier to lower the Level requirements rather than have to work 
+around the problem with some elaborate conditional fix?
+<killerb255> Hmmm...
+<killerb255> ...well...
+<killerb255> ...Have Visual Lore from the beginning.
+<killerb255> ...but make it (typing)
+<killerb255> ...the CoS low enough for the Blue Mage to not be worth it at lower levels.
+<Genoce> That's a proposal I'll stand behind.
+<Captain_Vittles> It should be damn near zero at level 1 though
+<Haeru> ... 1% per level...
+* Haeru thinks.
+<Haeru> 1 or 2% per level straight out, no modifiers...
+<Captain_Vittles> 2%
+<Captain_Vittles> We could put a Visual Learning penalty in.
+<Demonic_Gerbil> If you put a Visual Learning penalty in, you could just base the chance to 
+learn as Magic% - Visual Learning Penalty. :)  Very simple formula.
+<Captain_Vittles> Magic% is too easy at low levels
+<eldersphinx> Admittedly, if you *could* Visual Lore Grand Train, you'd be a fool to step into 
+it.
+<Captain_Vittles> (Levelx2)% works, with mods on the high-end spells
+<killerb255> So at Level 1, 2% max.  That works.
+<killerb255> With magic%, it's be 101 + Mag max.
+<Captain_Vittles> exactly
+<killerb255> At Level 99, It'd be 198% max.
+<Captain_Vittles> The CoS should be capped at 100%.  Then standard magic penalties would be 
+applied (-15%, -30%, -45%, -60%).
+<eldersphinx> Works.
+<Haeru> Hmmm...
+<killerb255> ......
+<killerb255> ...okay.
+<agentrolf> So there would be four levels of Blue magic?
+<Captain_Vittles> Not all would have a penalty
+<agentrolf> oh
+<Captain_Vittles> Instead of levels, I'll do it on a spell by spell basis.
+<Hiro> Base it on MP costs.
+<Captain_Vittles> MP costs need a bit of fudging anyway.
+<Captain_Vittles> *ALL* MP costs.
+<Hiro> Blue magic or magic period?
+<Captain_Vittles> magic period.  There's some wacky ones in there.
+<Hiro> It'd probably best to come up with an average MP cost for all magic based on the spell 
+level and modify as necessary.
+<eldersphinx> The old MP costs are based off of FF6 and FF7 magic, IIRC.
+<killerb255> How about 5 MP per level, yet the MP goes up by 1 every level.  Sounds confusing, 
+but it amounts to this:
+<Captain_Vittles> 5, 11, 17, 23, etc?
+<Captain_Vittles> Exponents are so much easier, and better.
+<Captain_Vittles> But I'll give your method a shot
+<Genoce> Finally.
+<Xuenay_Sometimes_Present> ...why does everything have to be PDF these days...
+<killerb255> I thought the penalities were 0, -10, and -20 respectively.
+<Genoce> It said -10, -10, -30.
+<killerb255> ...a -30 penalty for a summon is just too high.
+<killerb255> ...especially since summoners are the only Job in the FFRPG that use MP and 
+Initiative penalties simultaneously.
+<killerb255> 0, -10, and -20 seems more reasonable.
+<eldersphinx> M - on getting SP, add one die roll to the character's Magic%?
+<eldersphinx> How about using several d10s to determine the total SP pool? And upping the SP 
+costs slightly to compensate?
+<Genoce> How many d10s, though?
+*** LordMagius has joined #returners
+<Genoce> Hey, Steven.
+<LordMagius> Mornin my children.
+<killerb255> good evening. :)
+<Genoce> Good morning.
+<eldersphinx> Well... if we assume that a Weak summon will generally have about 112 SP (low 
+Magic%, and a 1d6 roll), we could give it a 6d10 roll, up the average SP to around 140, and 
+increase action costs by 25% across the board.
+<Genoce> So where does this leave the Medium and Strong summonings?
+<eldersphinx> Medium summons would use 8d10, and Strong summons 10d10.
+<Genoce> And more importantly, why roll so many dice?
+<killerb255> ...or forget the dice...use something else like Summon Magic Lore...
+<Captain_Vittles> Lore skills get too high at high levels
+<Genoce> That's why I wanted to use Magic%.
+<Captain_Vittles> dice 'keep it real' so to speak
+<Genoce> Yeah, but they create far too much fluctuation in values.
+<Genoce> And rolling dice takes time.
+<killerb255> How about Magic% for Weak, Magic% x 1.5 for Medium, x2 for Strong?
+*** Adam_Is_Afk is now known as Suoh_Akira
+<Genoce> How about Magic%x.5 for Weak and upwards?
+<eldersphinx> That would work.
+*** Jared has joined #returners
+<Haeru> Hmm.
+<killerb255> Hmmm...a level 27 Golem having 1224 HP?
+<Captain_Vittles> Golem's power is to take hits.
+<Captain_Vittles> It needs HP to take hits.
+<Genoce> Plus I considered all Summons Bosses, so they get double the normal HP.
+<Hiro> That explains the high HP.
+<Genoce> Yeah. 
+<Genoce> Bahamut has 7000.
+<Deathcrow> At which lvl?
+<Genoce> 100.
+<Genoce> That's the formula I used to arrive at the Level values.
+<Genoce> If Bahamut, at 150 MP is Level 100, then 1.5 MP = 1 Level.
+<eldersphinx> Next on the agenda is probably the Artifact Swords.
+<killerb255> Why do we need so many swords anyway?
+<Genoce> Brandon - because a large portion of the FFRPG's Jobs use them.
+<eldersphinx> A large PC party with five sword-wielding characters gets one person stuck with a 
+3d blade.
+<eldersphinx> No, 3d. 4d weapons are the artifacts.
+<Genoce> Because all the 4d weapons are taken by the rest of the group.
+<killerb255> What you guys were talking about just *now* struck a light...
+<killerb255> As in "NOW I GET IT!!!"
+<Genoce> If it's finalised, I can go ahead and finish my Two-Handed Swords list.
+<eldersphinx> M: Move on to the Weapon Accessories?
+*** miamiw has joined #returners
+<Genoce> Part of the expanded equipment listings we agreed to do.
+<Genoce> Anybody have anything to add to the Bow/Crossbow/Arrow lists I posted earlier this 
+week?
+<eldersphinx> Would it be possible to rename a couple of the Arrow types? Make the +1 arrow an 
+Iron arrow, and the +2 arrow a Mithril arrow? Or something similar?
+<Genoce> Well, we can go with Wooden/Iron/Samurai.
+<Genoce> So Wooden Arrows do -1, Iron Arrows are standard, Samurai are +1 to basic Bow damage.
+<eldersphinx> Sounds good. Max Crossbow damage would then be 4d10+4, using that monster 
+crossbow and Samurai Arrows?
+<Genoce> The Gastrafitis. 
+<Genoce> Yeah. 
+<Genoce> That's not too outrageous.
+<eldersphinx> Condensed form: +1 damage to all non-artifact bows, -1 damage to all arrow types.
+*** Andrew`` has joined #returners
+<Andrew``> hey kids.
+<Xuenay> Hi there
+<Deathcrow> hello
+<eldersphinx> Yo.
+<killerb255> sup
+<Genoce> Hey, Andrew. 
+<Haeru> Why shouldn't crossbows be strong...?
+<Captain_Vittles> Because Longbows are better
+<Haeru> Crossbows usually need to be cranked with some mechanism to pull the string back... 
+they are quite strong...
+<Andrew``> I always though there should be a plain advantage to using a  bow, and one to using 
+a crossbow....
+<miamiw> it should go more Crossbows deal more damage, Bows should have longer range
+<Captain_Vittles> Crossbows are in the end stronger, but longbows draw faster and their arrows 
+can pierce armor.
+<Captain_Vittles> So unless we take firing time into account, longbows should be stronger.
+<Genoce> Longbows are STR dependent.
+<Genoce> Crossbows are AGI dependent.
+<Deathcrow> crossbows can easily punch through armor, just like arrows. They are basically the 
+same design
+<Genoce> That's why Crossbows are d10 and take a turn to reload.
+<Genoce> The advantage is pretty obvious.
+<Captain_Vittles> Oh, they take time to reload
+<Captain_Vittles> In that case I'll shut up
+<Genoce> Last suggestion before clearing out of Chapter 5 -- if we need it, is it worth the 
+time making a third list of Swords?
+<Genoce> For weapons like rapiers, sabres, etc.
+<Xuenay> Yeah, why not. Variety is good.
+<Hiro> Actually, I think it might be a good idea.
+<killerb255> sure
+<Andrew``> Can I make the weapon list?
+<Genoce> Andrew - knock yourself out.
+<Suoh_Akira> What sort of benefits do LIght Swords have over the heavier ones?
+<Captain_Vittles> They should depends on Agi rather than Str IMO
+<Hiro> Hmm. That might work.
+<Deathcrow> How  about a penalty to armor or an initiative bonus? Light swords are faster and 
+can hit faster and at weak spots.
+<Andrew``> If it's something like a rapier, it's all about how fast you can swing it, not the 
+force behind it.
+<Suoh_Akira> They could give a boost to speed or agility, perhaps.
+<Genoce> Initiative Bonus is what I'd say.
+<Genoce> Or +1 AGI.
+<miamiw> make weapon sub types in heavy to light to go with a weappon
+<Genoce> Or specialisations.
+<Genoce> Guns will need it.
+<Genoce> Swords will need it.
+<Genoce> Throwing Weapons will need it.
+<killerb255> +1 AGI sounds good (+2 with more powerful weapons)
+<Suoh_Akira> So what types of swords do we have? Light, Normal, and Two Handed/Great??
+<Genoce> Yeah.
+<Hiro> Actually, the mod should effect their skill level. 
+<Hiro> Light: +5%, Medium: +0%, Heavy: -5%.
+<Suoh_Akira> I dunno, Rob...
+<Genoce> Rob - isn't the fact that you're using two hands to hold it already taking that into 
+account?
+<Demonic_Gerbil> Can we here Blair's tiamat research now?
+<Demonic_Gerbil> here = hear
+<killerb255> Yeah.
+<eldersphinx> Right, forgot about that.
+<Genoce> Go ahead, Blair.
+<Captain_Vittles> Anyways, the question was ranges and bows.  From previous playing of FFT, I 
+know that Crossbows have a range of 5, and nothing affects that... (more)
+<Captain_Vittles> As I tested, Guns are also unaffected by height.  They're set at 8... (more)
+<eldersphinx> We're discussing Blair's research first.
+<Captain_Vittles> I went to End in the Deep Dungeon.  It's a good choice, as the chars start at 
+height one but with Fly, then can move to height 15... (more)
+<killerb255> Crossbows flat 5, Guns flat 8, ok...
+<Genoce> That's pretty much the values we have right now.
+<Xuenay> Because the Era WB is the only subject that I'm really interested in, that's why...
+<Genoce> Which means we're back to where we started.
+<Captain_Vittles> I had an Archer with a Perseus Bow (range 5).  At height 1, he only had a 
+range of 4, because the rest of the terrain was higher than him... (more)
+<Captain_Vittles> When he moved up to height 15, his range increased to 9!  As a side, I also 
+tested damage.  The added height did *not* increase his damage, as I suspected.  But regular 
+damage was enough to poach a Tiamat.  the End.
+<Captain_Vittles> Bows have increased range when relative height increases
+<LordMagius> Makes sense, you don't shoot as far uphill, but shooting downhill adds to the 
+range.
+<Suoh_Akira> HOWEVER.
+<Suoh_Akira> Being higher would mean the arrow travelled further, gaining speed.
+<Suoh_Akira> Therefore it should cause more damage.
+<Hiro> A range bonus based on a higher elevation would be a good idea.
+<killerb255> More critical hits is something to consider.
+<Captain_Vittles> But only for bows.  Guns and Crossbows fire straight and have a set range.
+<eldersphinx> It's something to consider when writing the Bows up and doing the Map Combat 
+conversions. Probably too complex to discuss immediately.
+<Genoce> Yeah.
+<Genoce> Artist and Bard discussion now, if nobody objects.
+<Suoh_Akira> Bard first.
+*** Hiro is now known as Lucas`
+<Genoce> First of all, where are the problem areas?
+<Genoce> Aside from the hideously overpowered abilities?
+<Suoh_Akira> I say lower healing abilities. Leave offensive and stat boosters intact.
+*** Andrew`` is now known as Eric
+<Genoce> And we should see about getting rid of some of the higher-level cheese.
+<Genoce> Or toning it down.
+<Suoh_Akira> The main problem I think is the healing powers. So let's leave the offensive 
+powers alone.
+<Genoce> Brandon, give them a quick recap of your Bard analysis.
+<killerb255> Well...
+<killerb255> If I remember right:
+<killerb255> Many of the stat-boosting abilities were rather insane, which could pretty much 
+justify removing a few abilities.
+<killerb255> ...such as the healing ones.
+<killerb255> ...which I don't want to get back into the forbidden issue again...
+<Suoh_Akira> I say we lower the effectiveness of stat boosters and keep the healing spells.
+<Haeru> I do not say that the Bard should not have offensive capabilities, it's just they 
+usually are of a sort to more status-smash their opponent and let their allies finish them 
+off...
+<Lucas`> As I said earlier, the stat boosters are going down to Magic/3.
+<Suoh_Akira> So let's leave the Bard alone. We're implementing some form of equalizer anyway.
+<Suoh_Akira> We need to either remove powers, or implement equalizers. Both would blunt the 
+bard too much.
+<Lucas`> We could also limit the effectiveness of them by only allowing the effects of the song 
+happen once. No stacking multiple songs.
+<Captain_Vittles> The FFT bard works very well if you tone down the init penalties...
+* Lucas` nods
+<Haeru> Seems to be a few approaches to this... 1) Tone down the boosts. 2) Ditch the healing. 
+3) Tone down the straight-offensive...
+<Suoh_Akira> Tone down boosts.
+<Suoh_Akira> Healing should stay.
+<Lucas`> Offensive stuff I could live with out, as adverse to losing healing songs.
+<Suoh_Akira> Alright.
+<Suoh_Akira> I say ditch Tower of Sorrows first off.
+<Captain_Vittles> What does Tower of Sorrows do?
+<Genoce> Somebody got the writeup at hand?
+<killerb255> http://groups.yahoo.com/group/returners/message/19952
+<killerb255> Found it!
+<killerb255> ...was trying to prove to Richard that the Bard wasn't just a one-trick pony...
+<Suoh_Akira> Let's eliminate redudnant powers, and boost the original. 
+<Suoh_Akira> Like, there are several different spells to cause Sleep.
+<Suoh_Akira> Let's just make one, and find the middle ground.
+<Lucas`> This song shifts the background to a moonlit tower. The target is removed from the 
+battle, and cannot be attacked by anyone. This is not an escape, however, as he finds himself 
+trapped in the tower, where he is confronted with his worst fear made flesh and must either 
+fight that fear or escape the illusions of the tower to escape. Each round, the target must 
+make a Difficult Spirit check to escape the Tower of Sorrows.
+<Suoh_Akira> Does my proposal actually make sense? >.o
+<killerb255> One thing was at Level 8, a couple of songs became redundant with each other 
+(again, see analysis).
+<Lucas`> If he fails, he suffers (4d6 + Spirit) x MDC non-elemental damage. In addition, he has 
+a 50 + (Level/3) + (Spirit/2)% chance to be inflicted with one of the following status 
+conditions (choose randomly): Poison, Slowness, Silence, Mini, Berserk, Confusion. For 
+simplicity's sake, assume that monsters trapped in the tower when the battle ends are killed. 
+Tower of Sorrows affects only one target each time it is used, and Boss monsters 
+<Haeru> ... wait a second..
+<Haeru> ... Damage -and- status -and- removing them from effective combat...
+<Genoce> Yep, it's probably the single cheesiest Ability in the CR, bar none.
+<killerb255> Aside from that, there are too many 8th Level Songs that have the exact same 
+effect.
+<killerb255> 'Song of the Beast'
+<killerb255> ...basically the FF5 Magic Lamp
+<Genoce> How are you supposed to do a 'random Summoning'?
+<Genoce> There's no set list for a campaign.
+<Genoce> Unless the GM prepares one ahead of time.
+<Genoce> Then you have to draw up a table based on that, and roll, which could waste up to 15 
+to 20 minutes of game time.
+<Genoce> Random Summons just don't work. Period.
+<Haeru> Too much paperwork, yep.
+<Genoce> Unless the table's there to begin with, I don't want to see it.
+<Genoce> End of story.
+<Suoh_Akira> Alright. What about my idea? Consolidating redundant abilities?
+<Genoce> Worth doing.
+<killerb255> That will work.
+<killerb255> ...start with the Level 8 abilities.  There's plenty of them there.
+<Suoh_Akira> requesting permission to work on a power lineup for the Bard.
+<Suoh_Akira> ::Rubs his hands together:: I'll try and have something by next week.
+<Suoh_Akira> Rune Knight will definately be done.
+<Lucas`> That being no limiters, but a big fat WARNING paragraph in the beginning of chapter 
+three about abusing healing powers.
+<killerb255> Didn't M say to account for the healing thingy each individual power instead of a 
+universal solution?
+<Genoce> Placing the onus on the GM is not the way to go.
+<Genoce> That was my call for it.
+<Genoce> You can't find a single rationale for everything.
+<Lucas`> Nor will they really make that much sense. "Why can't my Chemist heal 100% HP? The 
+White Mage can!"
+<Captain_Vittles> Why can't a chemist heal 100% HP?  If they have an XPotion they should be 
+able to.
+<killerb255> ...then again, XPotion, W-Item, Double Effect can heal 1000 HP.
+<Captain_Vittles> XPotions only heal 250 HP?
+<killerb255> Yep.
+<killerb255> Pathetic, isn't it?
+<Captain_Vittles> What do Potions and HiPotions heal?
+<killerb255> 50 and 100 respectively
+<Lucas`> They need to be beefed up.
+<Captain_Vittles> I say effect x 1.5
+<Lucas`> keep Potion at 50, bump Hi Potion to 250 and X Potion to 500.
+<Genoce> Prices stay the same?
+<Lucas`> yeah.
+<killerb255> ...and Auto-Potioning X-Potions means that the Chemist will never die.
+<Genoce> Chemists don't have Auto-Potion.
+<Genoce> I settled for Distribute.
+<Suoh_Akira> Okay. I have an idea for one general healing power.
+<Genoce> Go ahead, Adam.
+<Suoh_Akira> Restores 1+(Level/11)d_xMDC HP.
+<Suoh_Akira> So, default is 2d*.
+<Suoh_Akira> Like Angel Psalm.
+<Genoce> Level/11?
+<Suoh_Akira> Err... River of Life.
+<Genoce> That's a hell of a clunky equation.
+<killerb255> You know what?
+<Lucas`> Yeah it is.
+<Suoh_Akira> I'm open to suggestions.
+<killerb255> I'm having second thoughts about Chemists getting out-of-the-blue healing powers 
+now.
+<Lucas`> What song level is this for?
+<killerb255> ...not because of the OOC reasons.
+<killerb255> ...but because it's almost as strange for a Chemist to have divine healing powers 
+without an item.
+<Captain_Vittles> Level/11 is good because the upper limit is a solid 9
+<killerb255> ...as it is for Auto Potion in a PnP game.
+<Suoh_Akira> Well, level one. But it grows with the Bard, eliminating the need for redundant 
+powers.
+<Suoh_Akira> Maybe level 2?
+<Captain_Vittles> Chemists should have Healer-powers with a material cost.
+<Suoh_Akira> I'll run with level 2.
+<killerb255> Distribute seems to be the best way to give the Chemist a handy healing power 
+with a material cost.
+<Genoce> Restore and Revive get thrown out.
+*** Morbieus has joined #returners
+<Genoce> Onto the Artist. 
+<killerb255> Progression is horribly skewed, for one thing.
+<killerb255> Level 85 for its final power?
+<Lucas`> No power, not even magic, requires more than 64.
+<Genoce> So the first step is to move them to Level 64 maximum. 
+<killerb255> Oh yeah, the Bard...
+<killerb255> ...I'd say fix that one while you're at it, Adam.
+<killerb255> ...all the Magic users have been fixed.
+<Suoh_Akira> OH!
+<killerb255> ...as per the new progression.
+<killerb255> Since the Bard uses 8 levels, much like a Magic Knight, I'd say use the new Magic 
+Knight progression table.
+<Captain_Vittles> Magic Knights use 8 levels?
+<killerb255> Yep.
+<Suoh_Akira> Blair. You're still going with the Elemental and Attack spells for Magic KNight, 
+right?
+<Captain_Vittles> yes
+<Suoh_Akira> Okay. Back to Bard for a moment. With my adjustments for redundant powers, it has 
+six available powers. Most levels have three or four.
+<Suoh_Akira> My suggestion is to break off three of the powers into an additional level.
+<killerb255> Leave it at the six you have.
+<killerb255> ...unless they're totally redundant.
+<killerb255> ...like two offensive spells, one doing totally different damage.
+<killerb255> Level 8 obviously is an example: some songs are useless because others within the 
+same level are better.
+<killerb255> It be different if this were a Mage we were talking about: MP could easily be 
+adjusted.
+<killerb255> ...but all songs within a level for a Bard have the same Initiative Penalty.
+<Suoh_Akira> Well, I am definately eliminating Tower of Sorrows.
+<killerb255> Ok.
+<Suoh_Akira> I may keep the light, dark, and non-elemental. Call of Dragon, I believe it is.
+<killerb255> In fact, there are five 8th level songs, and four of them do offensive damage.
+<killerb255> ...sorry, six, and five do offensive damage.
+<Suoh_Akira> Level Eight Songs are as follows.
+<Haeru> Mmm....
+<Suoh_Akira> Call of the Dragon. Ascension of Darkness. Celestial Symphony. Hero's Song.
+<Suoh_Akira> One non-elemental. One light. One dark. One stat booster.
+<killerb255> Sounds good.
+<killerb255> Oh, about the growing healing power you're talking about:
+<killerb255> ...what level is that thing going to be?
+<Suoh_Akira> I was thinking one or two.
+<Suoh_Akira> I have it as level three. >.o
+<killerb255> It's penalty may be redundant at high levels.
+<killerb255> ...so 3 might be good.
+<Genoce> Well, I guess we can all sign off now. 
+<Genoce> Writeups to be discussed next week or when they get done.
+<Evan> I'll have the light swords list done by tomorrow or Tuesday
+<Evan> depends on how work goes.
+<Lucas`> I'm probably going to work on the formal Knowledge skill write-up tomorrow.
+<Genoce> OK. I've got the Chemist to tackle.
+<Captain_Vittles> I've got magic.  :p  I'll work on Blue Magic learning penalties too.
+<Captain_Vittles> I actually have some things done with magic.
+<Captain_Vittles> I've cut the redundant/stupid spells and rearranged the others.
+<Captain_Vittles> I wanna balance MP and damage before I release them.
+<Suoh_Akira> I'll have a RK writeup by week's end.
+*** eldersphinx has joined #returners
+*** ChanServ sets mode: +o eldersphinx
+<eldersphinx> Back.
+<eldersphinx> How did things go?
+<Genoce> OK. Want to produce a wrapup for the list's benefit?
+<eldersphinx> Sure. Is there a quick summary of tonight's Era discussion for me to throw in?
+<eldersphinx> What was discussed, then?
+<Genoce> Rodger - nada.
+<Genoce> Except the decision to hold a separate meeting.
+<eldersphinx> Ah.
+<Suoh_Akira> Message has been posted to the list.
+<Suoh_Akira> It's Thursday. Come when you can, leave when you have to.
+<eldersphinx> How many people are likely to attend a mid-day Thursday discussion???
+<Lucas`> I'd change it to Friday night.
+<Lucas`> So I could be around for the discussion.
+* Lucas` doesn't get home until 12:00am on Thursdays.
+<Suoh_Akira> Well... >.o We could have a meeting on both days. But I won't be home until 6:30 
+PM Friday.
+<Suoh_Akira> Thursday all afternoon and Friday night.
+<Suoh_Akira> We can use Thursday to brainstorm ideas and Friday to actually discuss them in 
+detail.
+<Suoh_Akira> How does that sound, Rob?
+<Lucas`> I guess it'll work.
+<Genoce> Anyway, the meeting's adjourned.
+Session Close: Mon Jul 30 07:14:34 2001
+
+

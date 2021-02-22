@@ -1,0 +1,674 @@
+Session Start: Sun Nov 11 16:54:51 2001
+*** Now talking in #returners
+*** Topic is 'The official channel of Returner Games Inc. This channel is dedicated to the 
+discussion & development of the Returner Final Fantasy RPG. For more information, feel free to 
+visit our web page at http://www.returnergames.com/
+
+<killerb255> Here's the stance: I'll finish the Mediator, then we'll talk Monster Trainer from there.
+<killerb255> ...like Blair said.
+<Jeff> That works.
+<Captain_Vittles> Good stance
+<Hiro> Works for me.
+<AdamH> Especially since it's been proven that the Beastmaster can never be fixed.
+<eldersphinx> I can understand how that can be frustrating, Jeff. It was never our intent, though.
+<killerb255> The theme of both Jobs are different: the Mediator uses his words for and against 
+others, and a Monster Trainer trains monsters...
+<AdamH> If we could find a way to fix the Beast Master, a merger between the two could work.
+<Captain_Vittles> Beast Master is just a plot driven Monster Trainer
+<Captain_Vittles> More like a Monster Trainer that can have more than one monster ability.
+<Captain_Vittles> Monster Trainer is a misnomer.  They're more like Monster Users.
+<eldersphinx> Hmm. I wonder if it'd be possible to replace Leap with a variant on Catch? Instead 
+of releasing a caught monster, the MT tries to turn its power into a Rage?
+<killerb255> That's true.  Monster Trainers use monsters, Beastmasters psychologically become 
+the monster.
+<Hiro> Sounds a bit too much like the Blue Mage.
+<AdamH> Permenant or temporary, Rodger?
+<eldersphinx> Permanent, as far as it goes. Though this could be tweaked as necessary.
+<Captain_Vittles> Beastmasters are just like Blue Mages, except Blue Mages observe monster 
+abilities while Beastmasters observe their overall behaviour.
+<eldersphinx> Well, it's an option to keep in mind. Another option is to find a way to beef up the 
+MT in its own right, and let the Beastmaster drift away.
+<killerb255> I gave the Dragoon "Dragon Horn" at Level 64, so the accessory can be dropped now.
+<killerb255> ...and ditched High Jump.
+<killerb255> Dragon Horn [Level 64]
+<killerb255> Type: Slow (-20)
+<killerb255> Range: R:20
+<killerb255> This is the ultimate version of the Dragoon Jump, named after the repeated striking attacks 
+of a dragon using its horn to destroy its prey.  The Dragoon jumps 40 meters in the air, readying his 
+weapon to bounce off the landing, using his weapon as a pogo stick.  Like all other Jump attacks, it 
+takes two rounds to perform: one to Jump, the other to land.  
+<killerb255> When the Dragoon lands, he will land on his target, bounce back up 10 meters, and land 
+on a random enemy target.  Roll 1d4.  This is the number of bounces the Dragoon can perform with this 
+attack.  The initial landing inflicts normal Jump damage (200% weapon damage), however, since the 
+Dragoon does not have as much of a vertical fall to aid the additional bounces, the additional attacks 
+only inflict � Jump damage (100% weapon damage).  Again, 
+<killerb255> Actually, it was M's idea to make it an ability and drop the Accessory.
+<killerb255> ...and I had a much easier time balancing this than High Jump anyway.
+* Hiro nods
+<eldersphinx> I agree.
+<killerb255> ...and I had to tone down the Dragon Horn attack anyway (five attacks for x2 damage?!!!  
+Who wrote the description for that accessory?)
+* eldersphinx whistles innocently.
+<killerb255> The big problem with the Thief right now is "Detect."  Why use that when you have 
+Awareness and Traps Skills?
+<Angel242> Detect should have greater, if not perfect accuracy.
+<killerb255> That's what I'm thinking.  Maybe make it so that there are no modifiers?
+<killerb255> ...much like Steal not having the modifiers of Pickpocket or Steal Heart not having those 
+of Seduction?
+<AdamH> But give them Awareness as a default skill if that's how you do it.
+<killerb255> ...and as for Footwork, I was going to playtest this in Blair's game, but I had to work. :(
+<AdamH> When's the next time you'll be free for a playtest?
+<killerb255> Well, this is my off weekend, so two weeks from now.
+<Angel242> Why? Detect superceedes awareness.
+<killerb255> Good point.
+<killerb255> Detect would also supersede Traps as well, but I could just reduce Detect to only the uses 
+of Zidane's Detect ability and the "Secret" ability of FF5.
+<killerb255> ...where you automatically find secret passages.
+<Angel242> Thieves should never have to buy, say, seduction, or awareness, or traps. They just get them 
+gratis via detect.
+<Angel242> Or steal heart
+<killerb255> The only other big problem is Footwork.  If I have it negate penalties like Quick, most people 
+would just use Footwork for -20, then double Robber's Evidence or double X-Steal, or anything else of 
+that sort.
+<eldersphinx> Question. When do Thieves pick up Detect and Steal Heart?
+<killerb255> Steal Heart: Level 15.
+<killerb255> Detect: Level 22.
+<killerb255> I moved What's That?!!! to 29 because of how cheap it can be at earlier levels.
+<eldersphinx> Hmm. I'd say, then, that Awareness could probably be useful for many Thieves - since for 
+those first twenty critical levels, they can't Detect.
+<Hiro> Brandon: I seriously doubt any theif is going to have the initiative to do two Robber's Evidences 
+back to back.
+<killerb255> Hmmm...
+<killerb255> Ok.
+<Hiro> Especially seeing how we're planning on trimming the haste status condition a bit.
+<killerb255> The thing is, Footwork inflicts the Quick status.  According to the Time Mage Quick spell, it 
+disregards Initiative Penalties for that action.
+*** Captain_Vittles has joined #Returners
+*** ChanServ sets mode: +o Captain_Vittles
+<killerb255> ...or those two actions, I should say.
+<Hiro> We can just make an exception for Footwork.
+<eldersphinx> And on Footwork, I wouldn't worry too much about having it negate Initiative penalties. 
+Footwork does not have to be identical to the Quick status - if it just allows Thieves to take two actions 
+in a single round, it's plenty useful enough.
+<Hiro> Hi Blair.
+<killerb255> True.  Time Mages stop time.  Thieves just move faster. :)
+* eldersphinx waves to Blair.
+<Captain_Vittles> Quick isn't a status, and I'm re-writing it to not mention init penalties.  It does that by 
+default anyway.
+<Hiro> And it gives Time Mages an edge on a similar job ability.
+<killerb255> Ok.
+<killerb255> ...that, and a Time Mage spends 200 MP, while a Thief just waits for the penalty.
+<killerb255> ...so ok, Footwork doesn't negate penalties then.
+<killerb255> Rodger's Geomancer proposal reminded me of something regarding Summoners.
+<killerb255> Why pay -10 penalty for +1 extra die of damage? (and sometimes a little bit more range)
+<killerb255> ...especially when the Geomancers go up with +2 die per ability?
+<AdamH> The penalties have been fixed.
+<AdamH> They are now as follows.
+<AdamH> Summoning- 0/10/20
+<AdamH> Sustained Summoning- 10/20/30.
+<killerb255> Either way:
+<killerb255> Let's assuming just standard Summoning (as with a partial Summoner):
+<AdamH> And don't forget.
+<AdamH> During the Init Penalty, the Summon takes the damage.
+<killerb255> Even with standard summoning?
+<Captain_Vittles> yeah
+<AdamH> Indeed.
+<killerb255> Ok.
+<killerb255> That answers my question.
+<eldersphinx> Well, since Geomancer has come up, I should probably field questions and comments on it. :)
+<killerb255> Well, all my questions about it were answered two weeks ago.
+<AdamH> Rob has the new Bard charts, I believe. I switched Muses Invocation to work on 2d6, and 
+Nameless Song to work with 3d4. Kudos to Blair for suggesting that.
+<AdamH> Any commentary on the Fighter?
+<killerb255> I think Az posted the most commentary about that.
+<eldersphinx> Bard looks good from my standpoint. The major concern that I have is over the possibility that 
+SPR may become a support ability (raising MP and MArm only), which would require a rewrite on Muses' 
+Invocation.
+<killerb255> Easy on that note: Edit --> Find or Edit --> Replace, type in "SPR" or "Spirit", and every 
+occurrence, change it.
+<AdamH> It would still serve to raise MDEF, wouldn't it? >.o
+<eldersphinx> Brandon: Not on Muses' Invocation. MI is a random-stat booster, and simply replacing SPR 
+with MAG would throw off the values.
+<killerb255> ...then you can just ignore or pass up that occurrence.
+<AdamH> For Bard Songs, I think SPR would work. It makes sense to me.
+<eldersphinx> Sure thing. IMHO, the power of MAG is the ability to focus and control magical energies. 
+SPR is a measure of how much overall magical energy can be produced.  For analogy, compare a 25-watt 
+flashlight (high MAG, low SPR) to a 120-watt incandescent (low MAG, high SPR).
+<AdamH> I think Rodger hit the nail on the head.
+<AdamH> Therefore, SPR is suitable for determining the length of spells.
+<eldersphinx> In my view, SPR as an expression of how much raw magical power can be summoned or 
+channeled is expressed as the availability of MP for a mage, while the effects of a spell cast and the 
+ability of a mage to make his spell do what he wants it to do are MAG-based.
+<Hiro> Much like Strength is used for physical damage and Vitality for HP progression/Armor.
+<AdamH> But it makes sense that SPR would be used for determinining the effectiveness of Bard Songs. 
+I mean, how powerful would a bard be if he was depressing?
+<Captain_Vittles> Magic affects spell durations and effects.  Spirit affects MP gains and MDef.
+<Hiro> Everything else uses Magic.
+<Hiro> Or should anyway...
+<Captain_Vittles> SPR adds to MDEF and MARM
+<killerb255> So Magic = damage addition.  Spirit = MP addition, no exception?
+* Hiro nods
+<eldersphinx> Well, speaking for myself, I *like* the idea that some classes can't get a solid enough grip 
+on how their powers work to be able to use their MAG as a control. For these classes, the raw amount 
+of SPR power they can call up becomes the damage mod.
+<killerb255> I know MArmor is Level + Spirit/2 + whatever's equipped, but is Magic Defense still Magic 
+(Magery) + Spirit (Willpower)?  or is it Spirit x 2?
+<AdamH> I don't see how SPR wouldn't figure into an Aura Bolt.
+<AdamH> It's pure interal energy.
+<Hiro> SPR x 2, Brandon.
+<killerb255> Ok.
+<killerb255> ...and just to clarify, Defense is still Agi + Spd, or something like Agi x 2?
+<Hiro> Yeah.
+<killerb255> Agi x 2?
+<Hiro> Because we (or at least *I*) like to keep things streamlined.
+<killerb255> ...if for no other reason than to give Agility a bit more useful.
+<Hiro> No, it's still Agility + Speed.
+<killerb255> Ok.
+<AdamH> I suppose I'll change the bard songs, then.
+<AdamH> I personally feel SPR is appropriate, but...
+<eldersphinx> Any other Jobs to discuss?
+<killerb255> Well...Gambler, Mediator, Knight.
+<AdamH> Gambler. Any changes?
+<killerb255> Dropping Bribe.  It's going to the Mediator.  M suggested something like a 
+Fortune/Misfortune ability, which...
+<killerb255> ...modifies to-hit numbers by so much.
+<killerb255> ...like for Skills and weapon attacks.
+<killerb255> ...but it'll either raise the chance by so much or lower it.
+<AdamH> Hmmmmm...
+<AdamH> Come up with any mechanics?
+<killerb255> Not yet.  I thought about actually putting the Gambler Skill to use on that.  A 
+successful roll would modify your chance to hit by your Level.  A failure means that it lowers 
+your chance to hit.
+<killerb255> ...sorry, the Gambling Skill for that.
+<killerb255> ...which currently has no real ability use for the Gambler.
+<killerb255> I'll have to change the summon results from the d% chart, since many more are 
+to be added to it.
+<AdamH> Send me the revised chart when you finish, Brandon?
+<killerb255> Ok.
+<killerb255> I would actually limit the Summons to Weak, just because I don't think Bards and 
+Gamblers should get the Summon protection of a Medium -10 summon.
+<AdamH> They wouldn't get it.
+<AdamH> It's not like actual Summoning.
+<AdamH> Whereas the Summoner is directly summoning the being in question, the Song is 
+being played.
+<AdamH> The Summon shows up in response to the song.
+<killerb255> ...that's right.  Bards have their own penalties.
+<killerb255> ...Gambler's don't, except for the random nature of the Chocobo/Moogle Wheels 
+that have the Random Summon result.
+<AdamH> Alright.  I believe we've taken care of this...
+<killerb255> Alright.  The Mediator, I don't have completely made, yet, but it is the Monster Trainer's 
+replacement.
+<AdamH> Give us an idea of your plans?
+<killerb255> Ability possibilities. Bribe -- which you used with the Gambler. Invitation -- control one 
+Action from one monster with a successful Percentile Roll. Entrust -- Mediator swaps their Initiative 
+with that of any other combatant. Control -- controls one monster until damage or a successful SPR 
+test breaks the hold. Threaten -- can force a target to sacrifice Actions. Delay -- Affects Initiative 
+counts on one target. Taunt -- directs all attacks a
+<killerb255> ...I'm also thinking about adding Steiner's Charge! ability at Level 64.
+<AdamH> It fits...
+*** Cal has joined #returners
+<killerb255> ...all allies within a 10 meter radius perform a normal attack action simultaneously, which 
+does not use up the character's normal actions.
+<AdamH> I can live with that.
+<killerb255> ...I could probably shorten that to 5 meters because having ten or fifteen guys attack at 
+the same time is almost Knights of the Round munchkinous.
+<eldersphinx> Brandon - Just remember that with Map Combat or Free Combat, a Charge! ability is 
+limited by how closely engaged the other PCs are to each other.
+<killerb255> I know...
+<killerb255> ...which is why I thought about shortening it to five meters.
+<Captain_Vittles> Charge! in FF9 was low level because it had limited uses, but when you needed 
+it, it was a tremendous help.
+<killerb255> The only thing is, Charge! will be the Mediator's only reliable means of offense aside 
+from attacking (kinda like Robber's Evidence being the Thief's only reliable means of offense).
+<killerb255> ...and even then, Charge! isn't that reliable, as the Mediator could be solo or only with 
+a few people.
+*** Jeff has joined #returners
+<killerb255> Hey.
+*** dark_mammoth has joined #returners
+<Captain_Vittles> Replacing Monster Trainer with Mediator
+<Captain_Vittles> For logistical purposes.
+<killerb255> ...and adding an actual offensive ability to it.
+<killerb255> Maybe there should be a limit on how many allies respond to the charge, and that 
+they can only respond to one charge per round.
+<killerb255> ...or maybe just the latter.
+<Captain_Vittles> The latter.  Range limits allies already.
+<killerb255> So should the radius be 5 or 10 meters?
+<AdamH> If you add the latter, make it ten.
+<Jeff> Why replace the Monster Trainer with Mediator?
+<killerb255> Hmmm...I think M had the reasoning behind it.
+<killerb255> ...something about the Monster Trainer only being able to inflict statuses, and the 
+Mediator could always Invite a few monsters or something.
+<Jeff> Yes, but the Monster Trainer doesn't need to be eliminated.
+<Jeff> Because it's actually in a class based FF core game.
+<killerb255> Actually, I think I'll end up toning Invite down, as permanently having a legion of 
+monsters with you can get a bit ugly.
+<killerb255> This is the basis M gave me, as he had the Job first:
+<killerb255> ...it seems that Invitation and Control are redundant, though...
+<killerb255> Well, I'll finish the Mediator, but being indifferent to whether the Monster Trainer 
+stays or goes...
+<eldersphinx> Jeff, I'm not sure the Monster Trainer can do everything that the Mediator does. 
+Entrust, Delay, and taunt are abilities specific to the Mediator.
+<killerb255> Do you have any ideas on how to fix the Monster Trainer?
+<AdamH> 3. Mediator makes sense. Monster Trainer and Talk Skills don't register.
+<Hiro> Mediators & Monster Trainers, roughly are the same thing. Mediators with the focus on 
+humans and Monster Trainers with the focus on monsters. 
+<killerb255> Even so, Rob, the Beastmaster will still have their monster sensei to fight with in 
+the meantime.
+<killerb255> The main debate was why drop the Monster Trainer.
+<killerb255> The thing is, you had the main reasoning behind dropping the Monster Trainer.
+<killerb255> ...and most of us were just tossing up loose facts.
+<Genoce> Mmm. Yeah, sure. The biggest problem with the Monster Trainer was the fact that 
+99% of their Abilities revolved around inflicting Status Conditions. 
+<killerb255> ...and the counterreasoning was that the Mediator was the same.
+<Genoce> Not the outline I gave you.
+<killerb255> ...99% of their abilities revolved around inflicting Status Conditions.
+<killerb255> That's true.
+<killerb255> ...they weren't true statuses.
+<killerb255> ...but mostly support abilities.
+<Genoce> No. I mean Status Conditions like Status Conditions. Beserk, etc.
+<killerb255> ...and I copied and pasted your outline in this chat, and it was still argued that they 
+were "statuses."
+<killerb255> ...which you're right.  The outline you gave me didn't have "true" statuses.
+<Genoce> Which means that if the Monster Trainer runs into a boss with Status-All, he'll have 
+to sit on the sidelines or attack all the time, unless he's got a monster to use. 
+<killerb255> ...and I think that may answer Blair's question about why the outline didn't have 
+Mimic Daravon and other abilities.
+<Genoce> The rules for capturing and releasing monsters were a bit fuzzy to say the least, too. 
+Under the MCS format, you've got about five different attacks to worry about, plus spellcasting 
+abilities, etc. 
+<Genoce> Yeah. What would be the point of trading one set of SCs for another set of SCs?
+<Genoce> That would defeat the whole point behind the revision.
+<killerb255> That's true.
+<eldersphinx> For game rules (time intervals and the like), I think it'd be best to try and build in 
+parallel to the Invention rules.
+<Genoce> Invention? Why that, Rodger?
+<eldersphinx> M: Because Invention is the only other ability set we have where game time 
+becomes a factor.
+<Genoce> Wouldn't it make more sense to use the Teaching rules or something?
+<eldersphinx> M: Possibly.
+<Genoce> Because other than the time factor, there's no correlation between the two.
+<eldersphinx> Well, IMHO the time factor is the correlation - just like Init. penalties are 
+standardized for balance between Warrior powers or MP costs are standardized between Magic 
+types, Time requirements should be standardized between the powers that have them.
+<killerb255> Anyway, the Teaching Skill wouldn't be a bad idea, in some fashion.
+<eldersphinx> Who wants the Beastmaster writeup?
+<killerb255> I have five Jobs already...
+<Genoce> I'm busy with shiny weapons.
+<killerb255> ...then again, the Knight shouldn't count as a whole one.
+<killerb255> ...who had the last Beastmaster writeup?
+<Genoce> Jared.
+<Genoce> Using my old writeup.
+<eldersphinx> I had the last MT writeup. Which didn't go far enough, but oh well.
+<Hiro> There was one before that. I forget the guy's name. Jacob I think.
+<Genoce> Yeah. Jacob.
+<Genoce> The BM has been something of a revolving door Job.
+<killerb255> I hope the merged Trainer abilities with the Beastmaster will make it a contender
+ now...
+<eldersphinx> I can take on the Beastmaster/MT. More work needs to go into the MCS than 
+the class, anyway, and I need an excuse to continue work on an FF5 Bestiary.
+<killerb255> The only thing that's really holding me back on Job writeups is this (example taking 
+from Dragoon):
+<killerb255> Representatives: Kain (FF4), Freya (FF9)
+<killerb255> HP Die: d10 
+<killerb255> MP Die: n/a 
+<killerb255> DC Progression: +1 every 7 Levels 
+<killerb255> MDC Progression: +1 every 10 Levels 
+<killerb255> Weapons: All Melee Weapons
+<killerb255> Armor: All 
+<killerb255> Skill Points: 180 
+<killerb255> Skill Aptitudes: Weapon and Combat 
+<killerb255> Skill Deficiencies: Scholastic. 
+<killerb255> Skills 
+<killerb255> Strategy (40%)
+<killerb255> Monster Lore (Dragon) (50%)
+<killerb255> One weapon skill (50%)
+<killerb255> First off, Aptitudes and Deficiencies: 
+<killerb255> ...are these staying or going?
+<AdamH> I say we give them the boot.
+<Genoce> Scholastic != Lores, though. The most valuable part of Scholastic Skills ended up in 
+other categories.
+<Hiro> We could change it to Technical skills.
+<Genoce> For Mages? 
+<killerb255> I replaced Jumping with Monster Lore (Dragon).
+<Genoce> And what's with this 'Strategy' thing?
+<killerb255> Like I said, that entire session is holding me back, as I'm trying to find reasonable 
+substitutes.
+<Hiro> M: I meant for the warriors with Scholastic deficency.
+<killerb255> I couldn't find a reasonable substitute for Strategy.
+<Genoce> Command.
+<AdamH> Didn't someone here suggest getting rid of deficiences and just keeping Aptitudes?
+<eldersphinx> Brandon, I'd suggest not worrying about it. All the classes will have to have their 
+skills updated, so we might as well do them all together.
+<killerb255> So my next Job revisions will just leave Skills out of it for now...
+<eldersphinx> Should we move on to Knight?
+<killerb255> Yeah.  
+<Genoce> Yeah, sure.
+<Tritoch> Okay.
+<AdamH> I thought we were debating Aptitudes/Deficiencies.
+<Genoce> What's to say with the Knight, other than smoothing out their Ability progression so 
+we cap at 65?
+<killerb255> Did anyone have any concerns about the recent Knight Finale w. Shock writeup?
+<Genoce> Not particularly.
+<killerb255> They have sixteen abilities, 65 / 16 = I think a four level increment.
+<killerb255> Right now, it's at a five-level increment.
+<Genoce> Sounds decent.
+<killerb255> So it would be something like this: 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 54, 58, 62.
+<killerb255> ...ok, that should work.
+<Demonic_Gerbil> I only have one thing to say, that's a hell of a lot of abilities compared to other 
+fighter-types.
+<killerb255> Most of them don't do any major direct harm, though.
+<killerb255> ...however, knocking out stats by 1/2 *AND* taking out an equipped item isn't 
+anything to laugh about.
+<eldersphinx> We seem to be good to go on Knight.
+<AdamH> Well, perhaps we should do Aptitudes/Deficiencies first.
+<Genoce> Yeah, let's settle that first.
+<AdamH> Someone suggested last night to get rid of deficiences, and only use Aptitudes. 
+<AdamH> I don't remember who, but I was hoping they'd remember so they could elaborate.
+<eldersphinx> That was probably me.
+<Genoce> Right. Let's take it from there, then.
+<eldersphinx> And I admit that I'm looking at removing Deficiencies more as a means than an end 
+- it's a quick way to remove Deficiencies from the jobs that suffer from them the most, without having 
+to rebalance each job on a case-by-case basis.
+* Hiro nods
+<killerb255> Yeah.
+<Hiro> I don't think removing deficiencies will have that big of an effect on most jobs.
+<killerb255> ...especially since most players don't spend their SP on their deficient Skills.
+<Genoce> Anyway. So, we cut Deficiencies. Where does that leave Affinities?
+<AdamH> Each Job gets one. Archers=Wilderness, ect ect.
+<killerb255> It's not like having Affinities and not Deficiencies are unbalancing.
+<killerb255> ...maybe give each Job *one* Affinity.  For a Fighter, it's Weapon.
+<killerb255> ...for a Thief, Thievery.
+<killerb255> ...and I've noticed that there's just not enough categories to go around.
+<eldersphinx> Brandon: So several different Jobs have the same affinities. Not the end of the world.
+<Genoce> Isn't that the way things are set out now?
+<Genoce> It wouldn't be a major problem in my opinion.
+<Hiro> Afterall, we used to have 10 or so Fighter jobs with the same skill affinities.
+*** Agentrolf has joined #returners
+<Genoce> Hi, Dustin.
+<Hiro> Hey.
+<Agentrolf> hello
+<Tritoch> hey.
+<Genoce> Anyway, I think we can address the Aptitudes when we look at each Job in turn.
+<killerb255> ...that, and with many Jobs, we need to think of different starting Skills.
+<Genoce> Well, that would essentially mean sitting down with the Skill list and cross-referencing 
+all the writeups.
+<Genoce> That'd best be done by somebody on their own time.
+<eldersphinx> Next on the agenda is Equipment.
+<killerb255> I have one concern regarding that:
+<killerb255> I almost think Swallows should be under 'Sword', as they are called "Thief Swords" 
+and the first Swallow is "Butterfly Sword."
+<killerb255> ...then again, I do see a problem, as so many Jobs can use swords already.
+<Genoce> From the weight and handling, they're more appropriate to Polearms.
+<killerb255> Ok then, that's settled.
+<Hiro> Your plans for the weapons?
+<killerb255> Clear up the prices issue.  Rodger stated that they were assuming the player started 
+with 500 gil.
+<Hiro> Last I heard, we had 26 polearms...
+<Genoce> And just as many gloves.
+<Genoce> And I haven't even reached the bottom of the barrel yet.
+<Tritoch> of course... gloves are incredibly common.
+<Genoce> Yeah, we can go with the 500 gil standard.
+<Tritoch> 500 gil works.
+<Genoce> We're still keeping the freebie equipment, though.
+<eldersphinx> On Armor: IIRC, Armor is effectively done, barring major upheavals to the Equipment 
+system. Which might happen. :)
+<Genoce> Armor could be added to.
+<Genoce> But I can handle that.
+<Genoce> After I add the 100+ weapons to the current lists.
+<Tritoch> why can't geomancers use bells?
+<Demonic_Gerbil> Do we have bells in the weapon list?
+<Genoce> Bells are an Instrument.
+<AdamH> I think Peter means why can't Geomancers use Instruments if it's canon.
+<Genoce> Which is why I asked Rodger.
+<eldersphinx> Heh. Might as well make them a Musical Instrument variant and add them to the 
+Geomancer list.
+<eldersphinx> Problem solved. Thanks, M.
+<Genoce> No worries.
+<Genoce> Oh, Accessories are going to be delayed again.
+<Genoce> I've got another shedload of stuff to dump in.
+<killerb255> Go ahead and drop the Dragon Horn, M.  I already added it as a Level 64 Dragoon ability.
+<Genoce> It's already been dropped.
+<killerb255> Are you still implementing a "Hamedo" accessory?
+<Genoce> Yeah, the Black Belt.
+<killerb255> Like I was saying, if Hamedo is a Black Belt exclusive Accessory, surely it should just be 
+a Job power.  Otherwise, it's no better than the Dragon Horn, Thief Glove, or Coin Toss.
+<Genoce> Brandon: I wrote this with the assumption that it *wasn't*.
+<AdamH> He means, Brandon, that the Hamedo accessory IS the Black Belt.
+<Genoce> This wouldn't be a problem if we called the Job 'Monk'.
+<killerb255> Ok, now I'm confused.
+<Genoce> Black Belt is the name of the Accessory.
+<killerb255> Oh.
+<eldersphinx> One final question on Weapons: have we dropped the plan to remove the +1, +2, +3 
+bonuses to Weapons?
+<Genoce> Yes.
+<Genoce> A +3 bonus to a d6 weapon is pretty damn useful, all things considered.
+<eldersphinx> Using the existing progression, then. Got it.
+<AdamH> What lists hae you finished so far, M?
+<Genoce> Gloves, Polearms, Rods. 
+<Genoce> Then I wrote up some more Accessories.
+<Hiro> How many pages do Accessories now take up?
+<Genoce> Seven pages solid.
+<Hiro> Damn.
+<Genoce> Status Accessories have the largest boost.
+<Genoce> I introduced some cheap one-Status items and a set of Elemental Absorbance rings.
+<Hiro> I wonder if we should outline which conditions spells/abilities and at what dice levels. Might 
+be something to consider when/if we update the WCS.
+<Genoce> Rob: I was thinking of something along those lines.
+*** Azzy has joined #returners
+<AdamH> Azzy!
+<Genoce> But I've been too busy to make it a proper writeup.
+<Genoce> Well, well. Look what the cat dragged in.
+<Hiro> Well, well. If it ain't the King of Noise himself. :D
+<Azzy> Hi.  Yeah.  Crazy busy.  Thought I'd pop in to see what's new.
+<Genoce> Plenty.
+<Tritoch> Weapon Construction System DOES need to be updated...
+<Agentrolf> Is it that complicated?
+<Genoce> No, just out of date.
+<Hiro> Rewrite this, totally alter everything about that. Same stuff as ever.
+<Hiro> It uses the old +1 to +5 progression.
+<Genoce> But it's more of a GM tool than anything else.
+<Genoce> We can look at overhauling the WCS after we're done with Chapter 5. 
+<Genoce> OK. Onto races?
+* Hiro nods
+<AdamH> Instead of skills, I like M's idea of using little racial perks. Like the Yetis' natural 
+resistance to cold.
+<Hiro> The main thing is how to get the humans to balance with the other races.
+<Genoce> That's been settled.
+<Agentrolf> I wonder, if they'll add any more Races in FFXI. (besides Elf and Dwarf)
+<AdamH> Humans have no advantages. But they have no disadvantages either.
+<eldersphinx> And no race, not even Humans, will get +10 CP per level. Dead horse, buried in concrete, 
+and shipped out to sea a week ago. :)
+<Genoce> Well, let me explain.
+<Genoce> Each race will have a certain number of Racial Advantages. 
+<Genoce> These are equivalent to the normal Advantage/Disadvantage system.
+<Genoce> Each Advantage a Race gets reduces their ability to take normal Advantages.
+<Genoce> Humans, with no restrictions, can pick and mix Advantages and Disadvantages as they want to.
+<Genoce> Other races are more limited in both the number and power of their Advantages and Disadvantages.
+<Genoce> Anyway, that's the general gist of the idea.
+<Genoce> So much for the races, then.
+<Genoce> I guess that's a cue for me to segue into the PCP issue.
+<Genoce> Anyway, in case anybody's wondering about the name...
+<Genoce> One of the most enduring fixtures of console RPGs is people in your party turning traitor and 
+suddenly having six times the amount of HP they'd normally have.
+<Genoce> See: Yang, etc.
+<killerb255> By the same token, if an enemy joins you, they'll be about as weak as you.
+<Genoce> So, I was idly wondering if there was some kind of quick and easy solution for this sort of thing. 
+Brandon's PvP comments kind of fed into that.
+<killerb255> Basically, enemies have high HP, limited abilities.  I mean, what enemy actually has anything 
+remotely as powerful as, say, Knights of the Round?
+<Genoce> IE: You can create an NPC template, and quickly convert it to an encounter without having to 
+drag out the MCS.
+<killerb255> ...hence I remember the MCS limiting enemies to Level 8 spells.
+<eldersphinx> Hmm. Instant Boss status?
+* Hiro nods
+<Genoce> For instance, if you want to have character profiles in the worldbooks.
+<Hiro> Most PCP fights are boss battles. 
+<Genoce> But don't want players beating up on them indiscriminately.
+<Genoce> Because as Brandon's pointed out, what would be balanced as a PC makes a really lousy 
+opponent in normal combat.
+<Genoce> Well, the way I thought it out, it'd mean (a) raising HP and (b) lowering attacks.
+<killerb255> So I'd say double HP and subtract 2 or 3 points of DC?
+<eldersphinx> M: The lowering Attacks is probably best done by tweaking DC and MDC. Probably to 
+1/8 and 1/10.
+<Genoce> Rodger: That would require a bit more legwork than I would have liked.
+<Genoce> It'd help if we had a test case.
+<killerb255> ...and doubling HP isn't too bad.
+<Genoce> IE: Run a playtest with a converted PC.
+<eldersphinx> HmmMmmMmmm... I think the best playtest would be dividing people into two groups. 
+One side is unaffected PCs, the other is PCPed characters.
+<eldersphinx> Let the best group win. :)
+<AdamH> I've decided.
+<AdamH> I'm going to have my playtest be two parts.
+<AdamH> One part, PCPed versions of Urgh and Alone. The second.. Miasma.
+<AdamH> We need some numbers first, however. Anyone have ideas?
+<Genoce> Level 65?
+<AdamH> I was thinking seventy. Miasma is the proverbial final boss, so she's level 100.
+<AdamH> Helper Summons. Rodger?
+<eldersphinx> Hmm. Helper Summons is actually a subset of Intuitive Magic. Might as well go ahead 
+and speak to both now.
+<eldersphinx> The basic idea behind Intuitive Magic is to allow Mages to cast spells 'on the fly' in non-
+combat situations.
+<eldersphinx> A torch-sized ball of flame, for instance, would be a Level 1 equivalent spell, and cost ~5 
+MP. A full bonfire, OTOH, would be Level 3 or 4, and cost around 25 to 30 MP.
+<killerb255> So the ultimate decision over what costs what and what level is up to the GM?
+<eldersphinx> Brandon: Partly, yes. We're working on a stronger set of guidelines at the moment, but it 
+*is* Intuitive magic.
+<eldersphinx> Blair, any comments on what I've listed off so far on Intuitive spellcasting?
+<Captain_Vittles> What I saw makes sense so far.  But a fireball made by intuitive magic shouldn't have 
+the damage potential of a Fire spell...
+<Captain_Vittles> But the stuff about costs and levels is a good start
+<Genoce> Didn't I have something written out?
+<Genoce> As it is, all we'd need to do is write out examples of each level of IM for each type of Magic.
+<Genoce> The rest's already in place.
+<AdamH> I could come up with something. I have an idea about what I could base it on.
+<Captain_Vittles> 8 Levels once I finish rebuilding everything.
+<eldersphinx> Another note on IM is that different colors of magic probably do different things.
+<eldersphinx> Black: Earth, Water, Ice, Fire, Lightning, Dark, Poison
+<eldersphinx> White: Cure, Wind, Light, Mind, Protection
+<eldersphinx> Red: Earth, Wind, Fire, Water, Ice, Fire, Lightning, Cure, Mind, Protection
+<eldersphinx> Time: Gravity, Energy, Mind, Time, Warp
+<killerb255> So what would that leave a Red Mage: Level 6?
+<killerb255> Why the cut?
+<Genoce> To clear bottlenecks.
+<Genoce> So, who wants to do the writeup?
+<AdamH> I can take a shot.
+<Genoce> Shall we finish up magic with the reorganisation, then?
+<Genoce> Go ahead, Blair.
+<Captain_Vittles> Alright, as I and others have noticed when making playtest characters, the way 
+magic is arranged now creates 'bottlenecks' in the spell lists.
+<Captain_Vittles> Meaning a character must take certain spells in order to get a full set of spells at a higher 
+level.
+<Captain_Vittles> Now I don't mind if a character cannot get a full set of level 9 or 10 spells - How many 
+different ways does one need to cause 12d6 damage?  But some bottlenecks occur at levels like 4 or 5...
+<Captain_Vittles> Spell lists can't really have much added without throwing some delicate balance out 
+of kilter, but if the spell levels were to be condensed...
+<Captain_Vittles> Then mages would have broader selection at each level, thus no more bottlenecks.
+<Captain_Vittles> So I'm taking 10 levels worth of spells and condensing them into 8 levels.
+<eldersphinx> Blair - I like it. And since, IIRC, no game has had no more than eight levels of spells...
+<killerb255> Just a few obstacles regarding this:
+<killerb255> 1) Balancing damage: do Level 1 spells now do more damage and/or do final spells do less?
+<Captain_Vittles> Level 1 same
+<Captain_Vittles> Level 10 needs to be tweeked
+<killerb255> ...a lot needs to be tweaked to condense damage to flow.
+<Captain_Vittles> Spell level 8 is going to be in the XP level range of current spell level 9-10
+<Captain_Vittles> It won't be as neat of a progression, but it'll be balanced.
+<killerb255> 2) Spells alloted to the Jobs.  It's easy enough to say that Black, White, Time Mages and the 
+Sage go to Level 8.  Red Mages go to Level 6.  Do Paladins/DK/RK's still go to 4 or will it only be Level 2?
+<Captain_Vittles> 3
+<Captain_Vittles> And I'll re-arrange all the spells so those jobs don't get shortchanged.
+<eldersphinx> And the Colored callers probably go to 4. Or would 5 be a better number?
+<killerb255> ...and as for Partial Summoners?  I think they go to 6 now.  Are they going down to 5 or 
+something?
+<Captain_Vittles> 5 is better
+<killerb255> So it's now 3, 5, 6, and 8 now instead of 4, 6, 8, and 10?
+* Captain_Vittles nods
+<killerb255> ...the only problem here is that Partial Summoners are now too close to that of a Red Mage...
+<eldersphinx> Blair, have you had any thoughts for rebalancing MP costs? Or should we keep the current 
+values, and leave formulas behind?
+<Captain_Vittles> This is all preliminary
+<Captain_Vittles> A good idea would be to set down now a relation between damage, effect and cost.
+<killerb255> How about Magic Knights?  Since they basically do their own thing, will they be taken down 
+to 6, or will 8 still do for them?
+<Captain_Vittles> Based on something more than level
+<Captain_Vittles> Magic KNights will stay at 8
+<Captain_Vittles> FF5 magic knights had a full 6 levels after all
+<eldersphinx> Helper Summons are basically a variation on Intuitive Magic, for the most part. Instead of 
+having 'true' intuitive magic, the Summoner has a being that they can call on to assist. 
+<killerb255> So should they be set up in a similar format as partial and full summons?
+<Genoce> Same.
+<Genoce> Except they wouldn't have the attacks.
+<Genoce> I was considering substituting out some form of Ability instead.
+<Captain_Vittles> Helper Summons should be little useless *non-combat* things.
+<eldersphinx> Yep. Just one type of Element ability.
+<AdamH> I'd like permission to work on Helper Summons since M is so busy and I'm already working 
+Intuitive Magic charts anyway.
+<eldersphinx> Adam - Let's team up on this one.
+<Genoce> You can use it to do all those Summons that wouldn't work otherwise.
+<AdamH> Maybe Kirin?
+<Genoce> Your Gravity Summon could be Phantom.
+<AdamH> Kirin are smaller versions of Unicorns, IIRC.
+<Genoce> Can we call this issue resolved?
+<AdamH> Indeed.
+<killerb255> For the most part.
+<Genoce> OK.
+<Azzy> Sounds good.
+<Genoce> What's next on the agenda, if anything?
+<killerb255> Since they will now have one ability per four levels, should the five ending Steiner Sword 
+powers be spread out a bit more?
+<killerb255> ...and that will also give the Knight some more early offense, aside from Minus Strike.
+<Genoce> OK.
+<eldersphinx> On the Engineering Manual, basically any ideas people have for reworking the system, 
+or news that people want to present on reworking the system.
+<Genoce> It's already been partially reworked.
+<killerb255> ...and it's all been covered.
+<Tritoch> but we need more and varied defects.
+<Genoce> But as I said yesterday, a lot of that depends on what the prices look like in Chapter 5.
+<Tritoch> cause you know, how about something like Heavy Kickback, charge up time...
+<Genoce> Yeah, we've had some suggestions.
+<Tritoch> More defects would help a lot...
+<Tritoch> limited uses is the only one really worth taking.
+<Genoce> Well, not much to say other than the fact that the system's going to be streamlined a bit.
+<Genoce> Anyway, a lot of this is going to have to go on the backburner until we can devote some 
+resources to it.
+<Genoce> OK, playtesting, then the list.
+<AdamH> I'll do a two part playtest on the weekend of the 24th.
+<AdamH> First part will be PCPed PCs, played by Elisha and myself.
+<AdamH> Sunday will be a general combat test.
+<AdamH> Details will be released to the list.
+<Genoce> Anyway, who's writing up the rules?
+<Jeff> Why do we need rules for the pumping up of NPCs who become villians?
+<Genoce> To save the GM legwork.
+<Jeff> Just make the guy in the MCS.
+<Jeff> It's a very simple procedure.
+<Genoce> And what if they want to make them NPCs on the party's side?
+<Jeff> Then make them standard PCs.
+<killerb255> Simple.  You don't want the NPC to die off of one hit now, do you?
+<Jeff> And then if they betray them, make a 'monster' out of them.
+<killerb255> Takes too long.
+<Hiro> It's easier to just tweak the HP ratings than to make a boss via the MCS.
+<killerb255> <PCPed character> I will destroy you now!! <GM> Wait!  Gotta make a MCS version 
+of him...
+<Genoce> One paragraph in the MCS wouldn't have been the end of the world.
+<killerb255> Well, if it is a small paragraph, that's fine.  If it's a large set of guidelines, then it may 
+not be needed.
+<Genoce> It wasn't supposed to be anything major.
+<Genoce> Just a quick two-minute conversion fix.
+<Hiro> As far as I'm concerned there's nothing wrong with providing PCP rules. 
+<killerb255> Let's see here: what's the good and bad to having PCP rules?
+<killerb255> ...and what's the good and bad to not having them?
+<Genoce> Good: Saves GM some work. Bad: Takes up some space in the ToM.
+<killerb255> ...and you said it doesn't take up much space.
+<Genoce> Depends. 
+<Captain_Vittles> Con: It's one more rule to deal with
+<Genoce> But it's not exactly a pressing matter.
+<Captain_Vittles> Pro: It's one more rule that *could* save time.
+<Genoce> We can deal with it when we sit down and look at the ToM again.
+<Hiro> It's not like Vol. 1 of the Tome isn't already going to be massive...
+<killerb255> Either way, why not save the GM some time?
+<killerb255> I'd say just go ahead and make the rules, then critique from there, just like the issue 
+hours ago about the Mediator.
+<Hiro> I just don't think adding a paragraph or so on PCP combat is going to be a major deal.
+<Genoce> Anyway, is that it?
+<Genoce> Well, sounds like we're pretty much out of steam.
+<Genoce> Let's call it a night.
+Session Close: Mon Nov 12 06:47:19 2001

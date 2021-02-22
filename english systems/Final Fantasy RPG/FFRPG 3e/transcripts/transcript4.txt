@@ -1,0 +1,339 @@
+Session Start: Sun Aug 12 16:03:24 2001
+*** Now talking in #returners
+*** Topic is 'The official channel of Returner Games Inc. This channel is dedicated to the 
+discussion & development of the Returner Final Fantasy RPG. For more information, feel free to 
+visit our web page at http://www.returnergames.com/. | During test games, please use 
+#returners2 for non-game related chat'
+*** Set by Bernard` on Tue Aug 07 20:42:43
+*** ChanServ sets mode: +o Genoce
+<Genoce> By the way, I'm going to be trying an embryonic Limit Break system on Tuesday. Any 
+objections?
+<Demonic_Gerbil> I don't have any objections.
+<Genoce> OK. Since there's no real mechanics for actually building anything, I'll be parcelling 
+them out.
+<Genoce> It'll probably skew things a little since LBs really shouldn't be used in conjunction 
+with standard Abilities.
+<Genoce> But I'm more looking at how often they crop up.
+<Demonic_Gerbil> Yeah, if you don't know how common they are, you can't balance them.  ^_^
+<Demonic_Gerbil> I've got a version of the dancer with Stat down songs done.  I moved the 
+Bard's 3 stat-down songs over, and then made two more up to round out the Dancer to 4 dances 
+per level.
+<Demonic_Gerbil> I kept the dancer otherwise the same except for adding those 5 songs.
+<Genoce> Well, I can't really spot anything overtly wrong about it. Formulas are the original 
+Bard's?
+<Demonic_Gerbil> Yeah, the effects for the three Bard songs that were moved over are the same.  
+However, the COS formula was changed to reflect the other dances (roll against Dance Skill - 
+M.Def).
+<Genoce> Incidentally, something I've noticed about the Recovery Items -- why are you paying 
+six times the price for twice the effect?
+<Genoce> Hi-Potion costs 250 and of the latest revision cures 250 HP.
+<Genoce> X-Potion costs 1500 HP, but only restores 500.
+<Genoce> In other words, you could buy either one X-Potion and restore 500 HP, or for the same 
+price buy six Hi-Potions and restore 1500 HP.  
+<Genoce> Making X-Potions a complete waste of money.
+<Demonic_Gerbil> Oh, I see what you mean.  You pay 6 times more because of the time factor.  In 
+combat healing up that extra as soon as possible is more important than saving gil.
+<Demonic_Gerbil> Outside of combat Hi-Potions are the better deal (just like in FF games).
+<Genoce> Except the fact that a Potion costs 50 gil and heals 50 HP shoots a hole into that 
+particular argument.
+<Genoce> The jump from Potion to Hi-Potion does not tack on any significant additional cost for 
+the healing.
+<Genoce> One Hi-Potion is equal in cost and effect to five regular Potions.
+<Demonic_Gerbil> X-Potions are supposed to be rarer, so they cost more per unit of effect.
+<Demonic_Gerbil> I guess Hi-Potions could be jacked up in price to 300 and X-Potions could be 
+dropped to 1000 gil maybe?
+*** Adam_Sama has joined #returners
+*** Adam_Sama is now known as Ixquic
+<Ixquic> o.o
+*** Captain_Vittles has joined #Returners
+*** ChanServ sets mode: +o Captain_Vittles
+<Captain_Vittles> Hello
+<Ixquic> Greetings!
+*** hinayasa has joined #returners
+* hinayasa , Mailing list member and GM/player
+<hinayasa> hi
+<Ixquic> Greetings.
+<Ixquic> You know.. I'm tempted to keep Runic Reflex instead of Runic Charge... I would think 
+Reflex would be a bit more valuable.
+<Ixquic> Not to mention, the RK has more than enough attack powers between Destroy Sword and 
+Red Magic.
+*** Deamon has joined #returners
+<Captain_Vittles> Reflex is better.  Charge doesn't sound like Runic at all.
+<Genoce> Hi again, Mike.
+<Deamon> hello all
+<Genoce> Uh-huh. 
+<Genoce> OK. So, I'll work on my Refine system in the meantime.
+<Captain_Vittles> Refine?
+<Genoce> Alchemy Mk.IV.
+<Captain_Vittles> oh
+<Genoce> On the plus side, it's about as easy to understand as you could hope for.
+<Ixquic> How were we doing Ruins again? A flat five points to a stat, or use a formula?
+<Genoce> Formula.
+<Captain_Vittles> Formula - 5 points is devastating in the FFRPG
+<Ixquic> Ruins do more than simple Breaks, though, right? I can figure something out.
+<Captain_Vittles> Unless you have a stat of 30
+<Captain_Vittles> Yes, better than breaks
+<Ixquic> Hmmmm...
+<Ixquic> 20+level/2+STR%
+<Ixquic> Breaks have 10+level/2+STR.
+<Ixquic> Question. Should I use the same damage modifers for the stat causing Ruins as Mighty 
+Sword?
+<Ixquic> IE, Soul Ruin (Causes Curse) does 200% damage.
+<Ixquic> I'm not talking about the original Ruins.
+<Ixquic> I'm talking about Soul and Voice Ruin.,
+*** Hiro has joined #returners
+*** ChanServ sets mode: +o Hiro
+<Genoce> Yes.
+<Deamon> you could call Soul Ruin, Soul Burn...
+<Ixquic> I'm still tilting towards Voice Ruin. Or maybe Spell Ruin.
+<Captain_Vittles> Spell Ruin sounds good
+<Hiro> I'd say Spell Ruin.
+<Genoce> Spell Ruin it is, then.
+<Ixquic> I have an idea for the Destroy Sword Damage. For stat downs, massive damage + five 
+point loss to a stat. Magic Ruin, massive damage, half done to MP.
+<Ixquic> I may even be able to use Mighty Sword damage progression. >.o
+<Ixquic> Any ideas for a CoS? Mighty Sword is a flat 100%... But...
+<Hiro> If it hasn't been already pointed out several times, there is a formula for Ability CoS.
+<Ixquic> Okay. 85+STR+level/2 chance of the power going off.
+<Ixquic> 100-m.def for the status. How about that?
+* Hiro slices of the /2
+<Ixquic> Well... I was GOING to say a level 20 RK would have a 105% chance.
+<Hiro> All abilities have a 100% chance of going off. You can't miss with (say) a Might Sword 
+attack (IOW, it'll always do damage). However, the Status Condition can miss.
+<Hiro> And that should (85 + Level + Stat).
+<Ixquic> Sounds good.
+<Hiro> So? A level 20 monster with a Spirit of 10 (M. Defense 40) would knock that down to 65%.
+<Ixquic> Anyway. My idea for Destroy Sword is (__)% extra damage, + status. I need to work on 
+the details.
+<Ixquic> But if I do the extra damage thing, I am going to keep the stat downs to -5. It 
+balances out.
+<Ixquic> A Knight can take off more.
+<Genoce> Yeah, but a Knight doesn't have Red Magic.
+<Hiro> A level 50 Knight can shave off 35% of a stat
+<Ixquic> It's doubtful -5 that late would amount to that.
+<Genoce> Depends on the monster.
+<Genoce> Most of them don't push 30 until they're past Level 60 or so.
+<Hiro> That would lower a monster with a 30 in a stat down to 20....
+<Hiro> I'm starting to wonder if we need to do a little fine tuning to the stat breaks for the 
+knights....
+<Genoce> Then again, Rune Knights aren't supposed to be the crippling types.
+<Captain_Vittles> When do RKs get this power?
+<Ixquic> MP Runic, Runic Reflex, Power Ruin, Speed Ruin, Mind Ruin, Magic Ruin, Spell Ruin, 
+Soul Ruin.
+<Genoce> MP Runic at Level 1?
+<Genoce> 1, 9, 18, 27, 36, 45, 54, 63.
+<Genoce> That means Power Ruin is a Level 18 Ability.
+<Ixquic> A level 20 Knight can lower a stat by 1/5th...
+<Demonic_Gerbil> At level 18 it kicks Power Break's ass if it's a flat -5.
+<Genoce> Yep.
+<Ixquic> We could shuffle the powers around.
+<Demonic_Gerbil> If the Ruins do -5 to any stat, it still kicks the Knight's Breaks asses until 
+level get into the 40s and 50s at the earliest.
+<Ixquic> I'm tempted to slap MP costs on these too, Elisha.
+<Ixquic> What would be a good MP cost?
+<Genoce> They're all 20 MP.
+<Genoce> In FFT.
+<Ixquic> But FFT MP is a tad lower than FFRPG MP.
+<Captain_Vittles> If they're gonna cost MP, then the init penalties have to go.
+<Captain_Vittles> So I say no MP costs.
+<Captain_Vittles> Balance the power, don't just limit it.
+<Hiro> No ability should ever have more than one limiter.
+<Demonic_Gerbil> Blair: Then why play a Knight when you can be a Rune Knight and do all the 
+same tricks and so much more?
+<Captain_Vittles> Because a Knight should have better breaks in the end.
+<Hiro> Actually, that brings up a good question- the Bard has init penalties and skill 
+penalties.
+<Captain_Vittles> Skill Penalties?
+<Ixquic> I say we slap MP costs on Ruins. And keep them at a flat -5.
+<Captain_Vittles> The Rune Knight should *never* have better stat-downs than a Knight.
+<Hiro> It has a rule stuck in there for skill penalties. I think the Dancer has something 
+similar.
+<Ixquic> Or, we could eliminate Power Ruin and make a new Ruin in it's stead.
+<Genoce> Power Ruin and Magic Ruin are better than their Break equivalents.
+<Genoce> Magic Break and Mind Ruin are equal in power.
+<Ixquic> RK is supposed to be anti-mage. Let
+<Ixquic> s ditch Power Ruin and give it something else.
+<Captain_Vittles> How about a power that lowers Spirit or M.Armor?
+<Ixquic> Spirit Ruin.
+<Ixquic> But then we're in the same dilemma with the Power Ruin.
+<Captain_Vittles> Just change it from -5 to a formula
+<Ixquic> Maybe a flat 20%.
+<Captain_Vittles> Yeah
+<Hiro> That might be okay.
+<Genoce> 20%? I guess that could work.
+<Ixquic> Spirit Ruin- -20% Spirit, 150% damage. Mind Ruin- -20% MAG, 160% damage. Magic Ruin- 
+160% MP damage. Spell Ruin- 180% +Silence. Soul Ruin- 200%, +Curse
+<Ixquic> Tada?
+<Demonic_Gerbil> If the Ruins do damage, the Knight's Breaks should.  Otherwise what's the 
+point of playing a knight if someone can come in and do something almost as well as you and 
+throw damage in one top.
+<Genoce> Yeah, this was raised on the boards.
+<Ixquic> Not true.
+<Ixquic> Ruins are limited.
+<Ixquic> A flat 20%. Knight Breaks grow with them.
+<Hiro> At level 20, the CoS would be the same (ie, 20%). By level 30, it'd 25% (30/2 = 15. 15+
+10 = 25) By 50, it'd be 35%.
+<Hiro> And god help the monster that goes up against anything higher than that.
+<Hiro> I think it might actually be a good idea to include a 'ceiling' for breaks.
+<Hiro> Like 30% or 35%.
+<Genoce> Since we're speaking of 'ceilings'.
+<Genoce> How about putting damage on a 1-HP minimum?
+<Genoce> IE: No matter how much damage is inflicted on a target, they will always do at least 1 
+HP damage regardless of how much Armor the target is wearing.
+<Genoce> In general.
+<Ixquic> Makes sense.
+<Hiro> Makes sense. Afterall, we have a damage cap for 999 damage attacks.
+<Genoce> OK. No objections, then?
+<Genoce> I only brought it up because of that last battle, where Rodger had plenty of 0 HP 
+attacks.
+<Hiro> That came up because 1) Rodger was using monsters 10 levels weeker than the party  2) 
+our Armor might be too good.
+<Genoce> Hardly seems appropriate for players to be miming 'unmovable objects', tho'.
+* Hiro nods
+*** Deathcrow has joined #returners
+<Genoce> Hi, Crow.
+<Deathcrow> hello
+<Ixquic> I'm sticking with damage on top of 20% stat reduction/status.
+<Genoce> Elisha is more or less done with his Dancer, but it might need a bit of balancing and 
+playtesting. 
+<Captain_Vittles> What exactly do the improved Dancers do?
+<Demonic_Gerbil> The new dancer is the same as the old with the stat-downs from the Bard.  I 
+expanded on them with two new ones to round out the # of dances to 4 per level.
+<Genoce> The only thing left as a serious undertaking, Core-wise, is the Limit system.
+<Genoce> Now, I don't think the current professions should realistically have access to these. 
+<Deathcrow> What did you have planned for the limit system?
+<Genoce> I'll give you a brief outline.
+<Genoce> Essentially, a Limit Break is a partial or full replacement for an Ability 
+progression.
+<Ixquic> Guys... I really think I'm going to scrap the stat downs and leave those to the 
+Knight... It just... doesn't feel right.
+<Captain_Vittles> Limit Breaks in the past have been barred from characters made with regular 
+classes.  We reserved them for PBCS chars.
+<Genoce> Meaning that you can have anywhere between one and ten Breaks. 
+<Genoce> These will be purchased under the same principles as any other Ability under the PBCS.
+<Genoce> Exception being Limits are cheaper than regular Abilities due to the fact that they 
+aren't accessible 100% of the time.
+<Deathcrow> Ah! So in a way, when you create your character, you get to choose some of his 
+powers and what they do, right?
+<Genoce> Exactly.
+<Genoce> Assuming we're using the point-based model for building them, that means that the 
+player has more points to spend on increasing the damage or effects of the Break itself. 
+<Genoce> I advanced to Teirlap the opinion that whatever becomes of the PBCS should orient 
+itself to the Magic System.
+<Hiro> Only problem I see is this kind of system will be hell to integrate into the existing 
+system.
+<Genoce> I'd have pegged it as an Appendix.
+<Genoce> As I see it, each Ability has its own Level and prerequisites. Let's say we wanted to 
+play a Fighter/Thief hybrid. If we wanted Mug, we'd have to buy Steal first.
+<Genoce> Or, using any linear set like Destroy Sword -- to buy the maximum Ability in each 
+'Ability set', you need to have all the previous Abilities in the series as well.
+<Genoce> This allows you to mix-and-match unattached Support Abilities from various 
+professions.
+<Genoce> While at the same time preventing somebody from taking the best parts of the Knight, 
+Fighter, Swordmaster and Dragoon and rolling them into some kind of ungodly Munchkin Knight.
+<Genoce> And would be considerably more organised than the current incarnation of the PBCS.
+<Genoce> Now, if the player doesn't like the existing Abilities, we can add a small 'PDS' to 
+cover the creation of alternate Abilities and Breaks.
+<Deathcrow> If they still gain the abilities at the lvl they are supposed to, then, if they 
+take all the best abilities, they'll have a very long period of time when they won't gain any 
+powers
+<Deathcrow> If a player gains all his abilities at lvl 64, then he won't have anything to use 
+before.
+<Demonic_Gerbil> What if they take all the best low-level powers (Dispatch, Jump, Blitz, the 
+first Runic, etc)?  Do they get all of those at level 1.
+<Genoce> Not really.
+<Genoce> Abilities have to be in a linear progression. 
+<Genoce> Think of it as having an advancement chart with 'Level 1: ________ Level 8: _______', 
+that stripe of thing.
+<Ixquic> Elisha brings up a point. All powers currently in the CR should be put in. Including 
+Runics that are going to get chucked.
+<Genoce> That's the idea.
+<Ixquic> Alright. Just making sure.
+<Captain_Vittles> Gambit will live!
+<Genoce> Anyway, that's a basic idea of how it will work.
+<Genoce> In that scheme, Breaks are essentially restricted Abilities. 
+<Demonic_Gerbil> Lets just drop jobs all together and make everything point based.
+<Genoce> Actually, under this system, the existing professions are 'templates'. 
+<Genoce> IE: If you don't want to use the PBCS, you just flip ahead two chapters and pick out a
+ template to use.
+<Hiro> Sounds like what I had planned for Returner Engine.
+<Genoce> Mmm-hm. 
+<Genoce> But this depends on how well-balanced the overhauled PBCS is.
+<Captain_Vittles> I was thinking that once I have the final magic lists made, I should make 
+some mages templates for the PCom.
+<Captain_Vittles> So that a player wouldn't have to plan out their spells to get prereqs if all 
+they wanted was to play, say, a defensive white mage.
+<Captain_Vittles> OK, as it is now, a mage could get stuck for a particular spell at high 
+levels if they don't take the right spells at low levels...
+<Ixquic> Basically, Blair is suggesting that several lists or charts showing recommended spells 
+be made. 
+<Ixquic> Example: A defensive White Mage would have barriers, ect.
+<Genoce> Why not add them to the Resources page?
+<Genoce> Sounds like the sort of thing that'd be worth having there.
+<Captain_Vittles> Wherever it fits, that's where it can go.
+<Captain_Vittles> I know it's just making a lazy player even lazier, but not all players want 
+to customize their mages.  :)
+<Ixquic> Or we could just make a chart listing each spell and their prerequisites.
+<Captain_Vittles> That still requires reading through the lists though.  My idea would be a 
+list the player follow, i.e. my list would tell which spell to learn at which level.
+<Ixquic> If such a chart is made, I suggest it go backwards. Start and level ten, and move on 
+backward. 
+<Ixquic> I'd be willing to work on such a chart.
+<Captain_Vittles> Leave the charts for now, without a finished magic list there's no point.
+<Ixquic> All I need to do on the Bard, M, is look over Elisha's Dancer so I can remove those 
+powers from the Bard's repetoire.
+<Ixquic> Someone mentioned the Bard having to do skill checks and init. penalties. Should I 
+remedy that situation?
+<Hiro> They need to have one or the other. Not both.
+<Ixquic> Keeping init. penalties is likely best. Had we run with the continous play thing, 
+skill checks would have been best.
+<Genoce> That depends on who can come to each.
+<Hiro> I wonder: Since Bard are more focused on the use of their Bard Songs, would it be more 
+appropriate to move them to the Adept jobs?
+<Ixquic> How's this sound?
+<Ixquic> Any single character may be affected by only one stat boosting song at any given time. 
+In other words, Urgh the Yeti Beserker may benefit from the effects of Cannon of Might, but may 
+not benefit from Archmage's Symphony at the same time.
+<Genoce> Works.
+<Ixquic> Should I remove the rant about Weapon/Song skills, since skill checks are no longer 
+required?
+<Genoce> Go ahead.
+<Genoce> Can we cover Worldbooks now?
+<Genoce> I'd like to clear through the agenda while I still have the opportunity to.
+<Hiro> I take it you refer to our Worldbook Revision project?
+<Genoce> Yeah.
+<Genoce> Specifically, I think at this stage, with the system starting to calm down, we should 
+start giving editors a head start.
+<Hiro> If they're willing to do anything with their worldbooks to start with...
+<Hiro> Which means I need to get off my ass and finish the Worldbook Guide...
+<Genoce> I think the Worldbook Guide can be pared down, even.
+<Hiro> pared down?
+<Genoce> We just need a basic layout for Worldbooks to follow.
+<Hiro> Oh.
+<Genoce> Frankly, all of that 'tech tables' business is superfluous.
+<Genoce> Rob - just cut the WBG down to the barest essentials and release it.
+<Genoce> All you need is to list the required sections and content for each.
+<Genoce> You also need to explain what does and doesn't make a good Worldbook.
+<Genoce> IE: some basic guidelines for choosing settings.
+<Genoce> Once that's been released, we can start assembling Worldbook teams for FF5-10. 
+<Hiro> Good worldbook: has background material. Bad worldbook: has no BG material and only 
+mechanic related stuff to cover the oddball stuff that pops up in the game.
+<Captain_Vittles> Well, worldbooks are for after I finish my CR duties.
+<Genoce> Anyway, Rob, I think we should try to get the WBG together this week at least.
+<Genoce> Rules can be changed, but color text can be applied.
+<Genoce> It's important, however, that people understand what is and isn't feasible as a 
+worldbook.
+<Genoce> FF1, for example, is worthless as a Worldbook because you can't do anything with it.
+<Hiro> Hmm. You can go for it I suppose. But I dislike leaving you with another obligation I 
+should be handling.
+<Genoce> Lord only knows I have enough of them. One more won't hurt.
+<Genoce> Anyway, the Worldbook page will in future track various volunteers for each 
+supplement.
+<Genoce> FF5-10 have priority, but I'll be glad to open it up to anyone who's got something 
+ready. 
+<Genoce> We should have some kind of proper conversion table once Blair and I figure out how 
+Spell Ranges are going to work.
+<killerb255> I'm gonna split, guys.  I'm too tired to make heads from tails here, I'll try and 
+have a preliminary Gambler writeup this week.
+Session Close: Mon Aug 13 06:07:53 2001
+

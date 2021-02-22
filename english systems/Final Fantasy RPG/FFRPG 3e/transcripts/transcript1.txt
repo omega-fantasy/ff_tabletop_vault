@@ -1,0 +1,1244 @@
+
+Session Start: Sun Jul 22 16:01:00 2001
+
+*** Now talking in #returners
+*** ChanServ sets mode: +nt
+*** ChanServ changes topic to 'The official channel of Returner Games Inc. This channel is 
+dedicated to the discussion & development of the Returner Final Fantasy RPG. For more 
+information, feel free to visit our web page at http://www.returnergames.com/. (Hiro)'
+*** ChanServ sets mode: +o Genoce
+<eldersphinx> Bounce a copy of the weapon lists in there, I'll scan it.
+<Genoce> (When the actual lists are done, that is -- your Sword proposal throws a spanner in 
+the works at the moment.)
+<Genoce> I still think having a list for two-handed (ie, 'Knight') swords isn't a bad idea --
+ the functionality for a mandatory two-handed weapon's different enough to justify inclusion.
+<eldersphinx> Yes, definitely. I assume that the rules interactions with powers like "Two-
+Hands" would be similar to the existing Hammers?
+<Genoce> *nods* Actually, there's a few other 'natural two-handed' weapons out there that need
+ to be addressed in the same manner.
+<eldersphinx> Hmmm... just had a thought for an FF7-style character. Enemy Skill materia, and
+ all the character's Limit Breaks are devoted to adjusting PC or enemy levels so that "Level 5
+ Doom", "Level 3 Flare", and so on can be more effective.
+<Genoce> Like the Level Down Status I threw out a while back?
+<eldersphinx> Along those lines, yes.
+<Genoce> Incidentally, I'd say we go with your idea for building out the Artifact Swords. I was
+ a little reluctant to balloon the size of the table, but seeing as it's the single most
+ important weapon in the Core, I don't think it'll be such a problem.
+<Genoce> Oh, since we have some time before the main session, I wanted to throw in my two
+ cents' worth for the GMG.
+<eldersphinx> Go ahead - I've got it pegged as a long term project anyways...
+<Genoce> Yeah, probably. I've been working on some articles on and off since we were editor
+-less.
+<Genoce> I'd pictured it as being a little more condensed than your original e-mail.
+<eldersphinx> So what gets trimmed? :)
+<Genoce> Specifically, Chapter 1 containing all the general GM advice -- narrative, basic rules
+ and regulations, that kind of thing.
+<Genoce> Chapter 2 discusses the basic adventure layout, including objectives, progression,
+ encounters, and effective NPC design.
+<Genoce> Chapter 3 covers campaign gaming, building up arc plots, continuity and recurring
+ characters.
+<Genoce> Chapter 4 covers the specific challenges of running an FF game, including how to
+ emulate the general, much-vaunted 'e-game' feel.
+<Genoce> Then there's one Appendix with miscellaneous tables, charts, etc. 
+<eldersphinx> Yeah, I've scanned back over my original proposal, and it looks like my
+ 'Section' listings (each of which has three or four chapters) is fairly close to your chapter
+ listings.
+<eldersphinx> HTML probably allows for bigger chapters and better organization than what I'm
+ used to, anyway.
+<eldersphinx> Actually, back on the GM's Guide - one of the big things I foresee as being in it
+ are rules for traps, puzzles, and hazards - things that challenge or threaten the characters,
+ but aren't dealt with by sword-swinging.
+<Genoce> Puzzles as in the classic 'switch puzzle' a la Emperor's Tomb (FF6)?
+<eldersphinx> Yep. Lufia and Wild Arms have many more examples.
+*** Captain_Vittles has joined #Returners
+<Captain_Vittles> hello
+<eldersphinx> Hey Blair.
+<Genoce> Hey, Blair.
+<Genoce> I've found a few more candidates for inclusion in the Blue Magic listings.
+<Genoce> 'K. First off, any reason Clean Sweep wasn't included?
+<Captain_Vittles> Same as Aqua Breath
+<Captain_Vittles> I don't remember the rationale, but it's just water now.  Twister will make 
+up for the loss of wind... and for Aero being a white spell rather than blue.
+<Genoce> Not last time I checked.
+<Genoce> A strong wind blows a wave of bubbles into the area, which burst around the targets
+ for 8d6 Wind/Water damage.
+<Captain_Vittles> hmmm... apparently, I made that gaff.  Whoops.
+<Genoce> So, keep it Wind/Water or delete the Wind reference?
+<Captain_Vittles> delete the wind
+<Genoce> Moon Flute?
+<Captain_Vittles> Isn't that just Berserk?
+*** Hiro has joined #returners
+*** ChanServ sets mode: +o Hiro
+<Genoce> Hey, Rob.
+<Hiro> Yo.
+<Genoce> Yeah, but you can't multi-target Berserk anyway.
+<Captain_Vittles> We can't?  I gotta go read my stuff again...
+<Genoce> Range: ST - R:5 E:1 V:0
+<Genoce> Time Slip?
+<Genoce> Actually -- that might be better as a Time Mage Spell.
+<Captain_Vittles> Time magic effect
+<Captain_Vittles> I had to type that 3 times.  I called it Grey, then Cosmic, then Time.  :p
+<Genoce> Blair - Where exactly is 'Blood Suck' from?
+<Captain_Vittles> FF5
+<Genoce> Any particular reason why it's got the exact same name as one of our current Status
+ Conditions?
+<Genoce> While not actually having anything to do with it?
+<Captain_Vittles> Because someone added Blood Suck after I made the spell lists
+* Hiro whistles innocently
+<Captain_Vittles> You could make the spell cause Blood Suck if you want
+<Captain_Vittles> It would make it nice and different from Drain
+*** cosmicjanitor has joined #returners
+<eldersphinx> Euuuuugh. We want to give *that* to Blue Mages?
+<Genoce> Actually, didn't Blood Suck get renamed 'Red Feast' in the 'official' FF5j
+ translation?
+<Captain_Vittles> I didn't base anything off the official translation
+<Captain_Vittles> But that works, as it was Red Feast in FF6
+<Hiro> And it sounds cool, if nothing else.
+<eldersphinx> Works for me.
+<Genoce> Speaking of 'sounding cool', any objections for changing Big Guard to Mighty Guard?
+<Captain_Vittles> nope
+<cosmicjanitor> nope
+<Captain_Vittles> I mentioned the other comsetic name changes I wanted, right?
+<Genoce> Trine = Electrocute, Beta = H-Bomb, etc.?
+<Captain_Vittles> yeah
+<Genoce> Now -- Beta... does that name conjure up any visions of fire?
+<Hiro> Not really.
+<cosmicjanitor> C'mon! Beta sounds cool!
+<cosmicjanitor> So does Trine!
+<Captain_Vittles> Beta is dumb
+<Captain_Vittles> Trine is silly
+<Captain_Vittles> I only called them that for canon reasons, but now we have better canon
+<Genoce> Spoken after my own heart. Incidentally, if there aren't any major objections, I'm
+ going to cut out the 'also known as' alternate names in the main listings and stick them in an
+ appendix or something. 
+<Genoce> Blair - so, what about Moon Flute, then?
+<Captain_Vittles> If you really want a spell that Berserks *everybody* then fine.  Or is it 
+just berserk enemies?
+<Genoce> Untargetted Berserk.
+<Genoce> Like Night.
+<Captain_Vittles> ok
+<Genoce> Now, what do we want to go with for ????/Revenge/Pumpkin Head?
+<Captain_Vittles> Revenge
+<Genoce> All right...
+<Genoce> Blair - How are you planning to implement Acid?
+<Genoce> This ties into Meltdown, too.
+<Captain_Vittles> Meltdown is Armor Zero and can be cured with Esuna/Remedy
+<Genoce> I thought Armor Half.
+<Genoce> Or Acid can be Armor Half.
+<cosmicjanitor> Will Don't Move and Don't Act be core or PC?
+<Genoce> Core.
+<Captain_Vittles> It's at spell level 10... it should be zero
+<Captain_Vittles> oh Acid - armor half
+<Genoce> Unless Rob changed his mind about it.
+<Genoce> By the way, Rodger suggested beefing up the listings of artifact swords.
+<Genoce> Any objections to that?
+<cosmicjanitor> nope.
+<Captain_Vittles> Hrmmm... am I gonna hafta add Don't Move and Don't Act into the Time magic
+ list?
+<Genoce> It'd be good filler, though. 
+<Genoce> By the way -- anyone else inclined to believe that the Beastmaster is fundamentally
+ unplayable?
+<Captain_Vittles> Mindy tried to make it useable once upon a time.
+*** Gooberball has joined #returners
+<Genoce> Problem is, you shave away the 'training time', and Beastmaster = Blue Mage with a
+ different name and functionality.
+<eldersphinx> By "unplayable", do you mean that there aren't any Rages to use, or that a player
+ doesn't get to control his character's actions other than choosing a Rage?
+<Genoce> On account of having to spend so much time training that you end up with 'Engineer
+ syndrome'.
+<Genoce> The Engineer being considered unplayable until most recently because of the skewed
+ time requirements for inventions.
+<eldersphinx> I was looking at the "you can't control any character actions in combat" problem.
+<Genoce> Yeah, but that's part of the trade-off.
+<cosmicjanitor> Why not *let* 'em control themselves during Rages?
+<Captain_Vittles> Then they;d be Blue Mages
+<Genoce> And you still have the 'training aspect', ie: the time investment to deal with.
+<cosmicjanitor> They don't *have* to be Blue Mages. They've got drawbacks and advantages that
+ keep them distinct.
+<Captain_Vittles> The fundamental difference b/w Blue Mages and Beastmasters is that Blue Mages
+ control their monster derived powers, while Beastmasters become the beasts they emulate.
+<Genoce> And Beastmasters have to spend lots of time to gain their Abilities.
+<Genoce> I'm less concerned about what the Beastmaster does and more about how long it takes
+ them to get there.
+<Genoce> You name me a PBEM that has the week or so it'd take for the Beastmaster to go off and
+ learn one monster's Abilities.
+<Hiro> Not to mention what if the Beastmaster has a really high Monster Lore. Besides, it's
+ deviates away from what a Beastmaster is.
+<Genoce> Or one GM that would actually take the time to write out the tables required to make
+ the Beastmaster functional.
+<Genoce> If you use something out of the ToM, it works.
+<Gooberball> Hey, this has always puzzled me, if a Blue Mage is hit and learns the bility, does
+ he take damage from the attack?
+<Genoce> Yeah.
+<Captain_Vittles> yes
+<Gooberball> ok
+<eldersphinx> Oh yes. Makes learning Level 5 Doom *real* tough...
+<Captain_Vittles> Reraise, an ally with Life
+<Hiro> He just better hope he's level 49. :)
+<Genoce> Would a Blue Mage who gets targeted with Doom and Death Guard active be able to still
+ learn it?
+<Captain_Vittles> hmmm... gotta think on that one
+<Captain_Vittles> Death Guard nullifies the spell, so I'd say no
+<Genoce> The same would apply to any Fire attack with Fire Immunity, etc.
+<eldersphinx> I don't know... if we rule that I: Fire stops the Blue Mage from learning Fire
+ spells, do we next say that R: Fire gives him a 50% chance not to learn them?
+<eldersphinx> IMHO, let a smart Blue Mage throw up an Immunity or Absorbance and still learn
+ the spell. It rewards strategic thinking on the players' parts...
+<Genoce> I'm with Rodger on this one.
+* Hiro nods
+<Captain_Vittles> Alright.
+<Hiro> Besides, it'd require teamwork, since White Mages get Afire etc.
+*** Teirlap has joined #returners
+<Genoce> Hey there.
+<eldersphinx> Welcome.
+<Teirlap> 'Afternoon.
+<Teirlap> (or otherwise)
+<Genoce> Night in my case.
+<Genoce> Don't suppose there's any 'TechnoArcher' devotees here?
+<cosmicjanitor> TechnoArcher?
+<Genoce> My nickname for the Rifle-packing Archer.
+<cosmicjanitor> oh. I think it's a good idea in principle, but in practice it doesn't really
+ explain Charge.
+<Teirlap> Doesn't make sense to me. A Ranger might carry a rifle/gun, but an Archer?
+<Genoce> I figure the name says it all.
+<Genoce> "ARCHER: he that uses a bow."
+<cosmicjanitor> I think we should change the name to Sharpshooter or something along those
+ lines.
+<David_Smelser> I say make em seperate, and let the GM decide based on the setting of the game.
+<Genoce> Nah. There's enough room for two missile weapon jobs.
+<cosmicjanitor> One could be Mustadio-based.
+<Genoce> Especially if we're giving him White Magic.
+<cosmicjanitor> or....... better yet, Mustadio/Irvine-based.
+<Genoce> That was Brandon's original writeup.
+<Teirlap> Yes, an it actually does have slight e-game presence.
+*** Teucer has joined #returners
+<David_Smelser> hi
+<eldersphinx> Hey, Teucer.
+<Teucer> Heya.
+<cosmicjanitor> hey.
+<Genoce> Hello.
+<Genoce> Anyway, Weapon Skills at the moment essentially = accuracy.
+<Genoce> Or Hit%, if you want to.
+<Genoce> Essentially: Weapon Skill does not actually equal 'skill' of any sorts. You aren't any
+ better with a weapon if your Skill is higher, just more accurate.
+<David_Smelser> But isn't that what it is supposed to represent?
+<Genoce> And since the Weapon Masteries got chucked out like last week's turkeynecks, there's 
+no additional bonuses factored into it.
+<Eldersphinx> So what else could be factored in?
+<Genoce> One idea that was raised is going for something like 'called shots'.
+*** Courag has joined #returners
+<Genoce> And nobody could understand the damn things anyway.
+<David_Smelser> hi
+<Eldersphinx> Welcome.
+<Courag> greetings all
+<Genoce> Hey, Luis.
+<Courag> hey there man
+<Genoce> We were just talking about Weapon Skills, how they're more accuracy and less 
+proficiency.
+*** Teirlap has joined #returners
+<David_Smelser> I think having Weapon Skills only represent accuracy is a good thing, in fact 
+they need to be lowered anyway, my players hit almost always
+<Captain_Vittles> Is there a problem with them being accuracy and not proficiency?
+<Genoce> If it's plain accuracy you're after, you might as well stick to Hit%.
+<Teirlap> I don't know if its been mentioned, but I think I said something about wasting skill 
+points before.
+<Eldersphinx> Well, I'm not sure what else a high Weapon Skill could simulate, besides 
+accuracy. Damage? Speed? That's a function of DC.
+<Genoce> Like I said, it might be a nice idea to allow people to do 'called shots'.
+<Genoce> You can factor that into Weapon Skills by allowing players to make 'called shots' to a
+ certain bodypart in exchange for a hit in their Weapon Skill.
+<Teirlap> Wouldn't it be a bit simpler to have a 'Called Shot' simply do raised damage?
+<Courag> you'd have to keep track of what people hit what parts
+<Teirlap> A la SR?
+<Genoce> Teirlap - more like VS.
+<Hiro> There's several questions that rise with this: 1) what would the game effect be, 2) how 
+much book keeping is this going to be?
+<David_Smelser> Doesn't getting shot in like the arm or leg cause specific status effects, 
+Can't Move, Ca't Attack...etc
+<Genoce> (1) Opportunity for additional damage to represent proficiency bonuses, etc.
+<Genoce> (2) Not that much at all, since it'd be either increased HP loss or inflicting a 
+Status Condition, which is part of the normal combat procedure.
+<Hiro> Sounds fair.
+<Genoce> All it'd take is a table with target areas, modifiers and effects.
+<Hiro> Alternatively, a called shot could effect attributes. ie, a called shot to an arm might 
+reduce the strength attribute. A called shot to the leg might result in a loss of speed.
+<Eldersphinx> Hmmm. I see two problems: 1) Trying to convince players that a called shot to the
+ arm with a warhammer causes the same effect as a called shot to the arm with a thrown 
+Boomerang
+<Courag> that would be a lot of things to keep track off
+<Courag> of
+<Courag> especially with multiple enemies
+<Genoce> Rodger - you can divide that into weapon categories.
+<Genoce> Luis - yeah, that's my main concern.
+<Genoce> Plus the GM might want to keep stats hidden.
+<David_Smelser> Actaully, the amonut the stats drop could be weapon-specific
+<Eldersphinx> 2) Trying to convince players that a White Mage with a 120% Bow Skill has the 
+same called shot proficiency as a Fighter with a 120% Sword Skill.
+<Courag> Eldersphinx makes a good point too, what' the different between the warhammer and 
+boomerang?
+<Genoce> Luis - easiest way to do it is to divide it into three tables for different weapon 
+types.
+<Genoce> Piercing, Slashing and Blunt.
+<Courag> okay
+<Captain_Vittles> So would you have to start worrying about specific body armor?
+<Genoce> As far as Stats go -- I'm kind of opposed to that idea, if only because I can picture 
+it getting out of control in large-scale fights-- damn, that's a good point.
+<David_Smelser> Actually, it does seem weird that wearing a Leather vest reduces the damage to your armor
+<David_Smelser> I mean your arm
+<Genoce> That's 'e-game logic'.
+<Hiro> On the other hand, this could make combat more complex. The gamemaster would have to to 
+figure out how much the character's armor stat for each location would be.
+<Captain_Vittles> .... I'd rather leave combat as it is.  Called Shots as a role-playing thing,
+ not a requirement.
+<David_Smelser> It could be cool though, going for the underbelly of the dragon, etc.
+<Genoce> Well, it'd be an optional rule, of course.
+<Genoce> Luis - by the way, we decided earlier to add more Artifact Swords to the current list.
+ Jon also brought this up as an issue. 
+<David_Smelser> why more?
+<Genoce> 'Swordjam'.
+<Genoce> Too many professions dependent on Swords, not enough Swords to go around.
+<David_Smelser> Artifact Swords are supposed to VERY VERY rare though, like unique.
+<Courag> hey sounds good
+<Courag> rare is good
+<David_Smelser> Character should not all need artifact level swords
+<Courag> give players incentive to do something other then hack and slash and move on
+<Genoce> Yeah, but try the following scenario on for size: Knight, Paladin, Swordmaster, Rune 
+Knight and Fighter all are in the same party.
+<Genoce> (Not that far a stretch)
+<Genoce> They find an Excalibur.
+<Genoce> Now, who gets it?
+<Teirlap> Deathmatch.
+<Hiro> Yeah.
+<Courag> the one who finds it
+<David_Smelser> Then they have a duke out for the sword. :)
+<Courag> lol
+<Teirlap> Well, that's easy.
+<Teirlap> The Paladin.
+<Teirlap> Only one who can heal.
+<David_Smelser> Or you give it to the player you like the most
+<Courag> bias?
+<Courag> hmmmmmm
+<Courag> not good
+<Genoce> I can tell you as a GM that that's just going to split your players down the middle.
+<Teirlap> The Fighter'd be the first to drop, followed by the Knight, Rune Knight, and 
+Swordsmaster.
+<Hiro> I agree with M that there should be more swords or an option for more swords.
+<Courag> yep
+<Teirlap> Hey, M. Would now be a good time for a new, skill related topic?
+<Genoce> OK, guess I'll do the honors.
+<Genoce> Teirlap here thought it might be a good idea to have a separate pool to build up 
+'trivial Skills' for a character. 
+<Hiro> Hobby skills, more or less?
+<David_Smelser> They would need to REALLY cheap
+<Genoce> Since he doesn't think they're worth wasting the points on otherwise.
+<David_Smelser> cause most players would basically ignore them
+<Teirlap> Knowledge skills are separate skills which add color to a character.
+<Teirlap> They don't have a lot of in game use, so they get separate, 'free' points.
+<David_Smelser> Well, personally I think that like 3/4 of the "offical" skills could be made 
+"hobby" skills, they are de-facto anyway
+<Hiro> This might work nicely.
+<Teirlap> So, weapon skills, invent, would be actual 'skills'.
+<Genoce> But first we need to figure out what's what.
+<Genoce> What about Magic Lore?
+<David_Smelser> magic lore needs to beefed up
+<Genoce> It already is.
+<David_Smelser> uhh, well as far as I see it, the knight abilities are useless
+<Genoce> Take it up with Steiner Nazi here.
+<Teirlap> No way. I am not answering any questions on the Knight.
+<Teirlap> I am still bitter.
+<David_Smelser> like armor brake and weapon break and such
+<Genoce> Already addressed.
+<David_Smelser> hmm, only reducing the attack damage by 1/3 as a 36th level ability, not that 
+powerful
+<Hiro> Let's do some number crunchin', shall we.
+<Hiro> Lv. 36 knight, x6 DC. 3d10 weapon.
+* Hiro rolls 3d10 :: 5
+<Hiro> 15 Str. Typical muscle head.
+<Hiro> Alright. 15 damage on the 3d10. :p
+<Hiro> 15 + 15  x 6 = 180 damage. 
+<Hiro> 1/3 rd damage vs. 1/2 DC
+<Captain_Vittles> 150 if you cut Str - 90 if you cut DC
+<Eldersphinx> Cutting DC by 1/2 is too powerful. Remember that most monsters will have 40+ Armor values.
+<David_Smelser> Weapon Break, according to the rules in front of me, breaks the weapon or justs
+ damage by 1/3
+<Captain_Vittles> Weapon Break should cut Weapon Damage, not Damage in general
+<Eldersphinx> So the difference between 1/3 and 1/2 is not 120 and 90, but more like 80 and 50.
+<Teirlap> DC really ends up to be no different than Damage.
+<Teirlap> Of course 1/2 DC is more powerful than 1/3 Damage.
+<Captain_Vittles> DC is the damage multiplier
+<Teirlap> 1/2 is a larger chunk.
+<Captain_Vittles> You have to be very specific when you say 'damage'
+<Teirlap> 'Damage after DC multiplication; before Armor reduction'
+<Teirlap> I think you could say 1/3 DC and get the same thing as 1/3 Damage, actually.
+* Hiro is rudely reminded once again that he needs to produce a MCS PDF.
+<Hiro> I'll work on it soon. I have some things I have in mind to post to the list later. ^_-
+<Hiro> The Active Skill vs. Knowledge Skill topic. I have some ideas on how to impliment it. 
+I'll talk about it you guys want to discuss it.
+<Hiro> Essentially, we'd split the skills into active skills (skills that do stuff) and 
+knowledge skills (skills that grant knowledge). I think overall the idea will work well, but
+ there's going to be some bumps along the way. For one, what about the current skill line-up?
+ Scholastic skill will be nearly devestated by the move to Knowledge skills. Also, there are 
+other cases where we have a knowledge skill in other categories.
+<Teirlap> OK.
+<Teirlap> Might want to rename those.
+<Genoce> Applied.
+<Teirlap> I like Applied.
+<Genoce> Applied and Theoretical Skills.
+<Genoce> Abstract?
+<Genoce> Academic?
+<Teirlap> Academic works.
+<David_Smelser> Acedemic, I like that wone
+<Eldersphinx> Academic is useful.
+<Genoce> So Applied and Academic it is.
+<Hiro> What's an applied skill?
+<Teirlap> Applied Skill - A skill which directly affects gameplay, like Magic Lore or a weapon
+ skill.
+<Teirlap> Academic skills are color and are bought from a separate pool or points at creation.
+<Teirlap> OK, so say I create a new character.
+<Teirlap> Cristo the world famous Pasta Chef.
+<Teirlap> Throughout the game, I want to build his Cooking skill so it reflects the fact that
+ Cristo is a damn good Pasta Chef.
+<Teirlap> Under the current system, doing that would take away points that should be going to
+ raise my attributes and weapon skills.
+<Teirlap> Cristo is also saving the world at the same time as making batch after batch of 
+spaghetti and meatballs.
+<Hiro> I should say that CP from level-ups can be used to increase Knowledge skills.
+<Genoce> How about giving a special pool at Level Up?
+<Teirlap> Were he to waste all his points on Cooking, he would surely fail, and the world would
+ come to an end.
+<Genoce> Based on the character's MAG stat.
+<Teirlap> No more Pasta for Cristo.
+<Teirlap> So...
+<Teirlap> This way, there are two sets of points.
+<Teirlap> So your RP skills can still increase on level up.
+<Hiro> Right.
+<Hiro> But during creation, characters would get a seperate amount of points to work with for 
+Knowledge skills.
+<Teirlap> So Cristo the Pasta Chef can make great ravioli, and still be no slouch when it comes
+ to smacking monsters around with his Emeril's Pot.
+<Hiro> Probably... MAG x 10 or MAG x 15.
+<Teirlap> At level up?
+<Teirlap> Or at creation?
+<Hiro> No. During Creation.
+<Eldersphinx> - suppose we give most characters MAG x 5, only, but allow an Advantage to 
+increase that to MAG x 10 or MAG x 15?
+<David_Smelser> good point
+<Genoce> Fine idea.
+<Hiro> That might work nicely.
+<Teirlap> Not sure what you'd call that...
+<Genoce> Erudite.
+<Teirlap> Erudite?
+<Genoce> Erudite.
+<Eldersphinx> Do you say that or sneeze it? :)
+<Teirlap> You'd only get sued by Sony.
+<Genoce> Check your Roget's.
+<Genoce> It's a synonym for 'scholarly'.
+<Teirlap> Should I pitch the NPBCS?
+<David_Smelser> what does NPBCS stand for?
+<Teirlap> Neo-Point Based Creation System.
+*** Demonic_Gerbil has joined #Returners
+<Genoce> Hi, Elisha.
+<David_Smelser> hi
+<Eldersphinx> Hey, Elisha.
+<Demonic_Gerbil> Howdy.
+<Teirlap> I'd explain it, but it's pretty damn near close to overhauling the whole bloody
+ existing system.
+<Hiro> Okay. What's wrong with the existing PBCS that requires a new one?
+<Teirlap> Personally, I never liked the PBCS insomuch that it simply pieces together abilities
+ of old Jobs...
+<Teirlap> ...creating a new, 'Frakenstein' Job, which isn't really original at all.
+<Genoce> It's adding in a bit of your much-mooted Power Construction System.
+<Teirlap> So... I'll give it to you in point form, quick and dirty like.
+<Teirlap> 1) PC creates a 'Base' character, using a point system to set out Stats, HP/MP
+ Progression, Hit/Magic% and DC/MDC.
+<Teirlap> 2) PC chooses a starting Job for his 'Base' character. This is either custom created 
+or pre-generated, using a point system for 'Job Modifiers' (adjustments to HP, MP, Stats, 
+Armor/Weapon Usage and Hit/Magic%; these are hardly permanent, as if the character ever reverts
+ back to his Base or a new Job, these adjustments are nullified, and the character's Base 
+numbers take precedence) and 'Job Skills/Abilities' (the classic 'ten' progression of 'Techs',
+ or Magic; Techs are built by first purchasing either a full or partial progression, and then
+ using points to actually build each level's atttack/ability; Magic is taken in Full, Major,
+ Partial or Minor levels, which signify the rate and total amount of spells learned in a 
+certain spell 'color').
+<Teirlap> 3) It is reccomended that a character keep this Job for 'life'. However, it may be
+ possible later on for a character to switch Jobs, or transfer between Jobs at will. This is
+ simply done, as the characters stats are inherant within the 'Base' character, and switching
+ to a new Job is simply a matter of applying new modifiers and learning new abilities/spells
+ as if the character had always been that Job (a level 10 Base who switches to a Black Mage 
+Job automatically learns as many spells as a Black Mage who has been that Job from level 1 would know).
+<Teirlap> 4) The 'Base' character, while weak in the fact that they lack an ability 
+progression, is a fully playable 'Job', and can be used in several current 'optional rules',
+ the Materia System being a big one. The 'Base' character is the one which grows with 
+experience, and it is also the one which 'buys' a Limit Break at creation (the Limit stays 
+with the character permanently, no matter the current Job of the 'Base').
+<Teirlap> (Optional Rule: The 'Base' character may be allowed to equip any and all weapons 
+and armor, much like the Suppin character of FF5. This would help balance its obvious lack 
+of an ability progression or magic.)
+<Teirlap> I'm done talking now.
+<David_Smelser> When, under your system, could those switches be made?
+<Teirlap> Depends on the GM's discresion.
+<Hiro> Okay, how about this: what about using AP to learn job powers?
+<David_Smelser> I would limit it to "At levelup"
+<Teirlap> I actually was thinking about that, Rob.
+*** Wendolen has joined #returners
+<David_Smelser> hi
+<Wendolen> yo
+<Teirlap> Using AP to learn Job Powers, instead of learning them in a set progression.
+<Eldersphinx> On Job Building: I think, if it's done right, that Mix-and-Match could be 
+built into the Jobs themselves. For instance, the White Mage job - specify that if it's 
+taken as a Main Job, the PC gets Full White magic; if matched to another Job, the PC only 
+gets Partial.
+<Eldersphinx> Hey Wendolen.
+<Teirlap> Not much thought on that, though.
+<Hiro> Hi Mindy.
+<Genoce> Hey Mindy.
+<Hiro> It wouldn't be that much of a problem pending on the costs. It should cost a lot 
+of points to gain high level powers, which would mean the character has to spend a great 
+deal of time as a specific job.
+<Teirlap> A Paladin under the new system would buy Partial magic, and then use the remaining 
+points for his techs.
+<Captain_Vittles> All this AP talk has reminded me of trying to implement Rob's 'gain spells 
+by AP' idea.
+<Teirlap> AP would also work.
+<Teirlap> Each level spell would have a base AP cost.
+<Captain_Vittles> No, each spell.
+<Teirlap> Wouldn't spells of the same level cost the same?
+<Captain_Vittles> No reason for Scan to cost the same as Cure
+<Teirlap> Ah...
+<Wendolen> If they are the same level, do they cost the same MP?
+<Captain_Vittles> nope
+<Teirlap> Then you'd have to figure out a fair amount of AP to give to players.
+<Teirlap> Only problem I can see is players pooling their AP, skipping lower level abilities 
+and spells, and splurging on higher level ones.
+<David_Smelser> You could make requirements
+<David_Smelser> like they need such and such lower level abilities to get such and such higher 
+ones
+<Teirlap> Makes sense.
+<Wendolen> well, no one would ever buy retort if it were available
+<Hiro> Level restrictions would stay intact.
+<Hiro> No level 5 mage splurging to get Fire 2, for instance.
+<Captain_Vittles> No level 5 mage would ever have the AP for Fire2
+<Hiro> Spell requirements also would stick.
+<Hiro> So, no Fire 2 until you get Fire 1.
+<David_Smelser> If you have the requirements, you wouldn't need the level restrictions
+<Teirlap> So you have to be Level Y and have Cure 1 before you can buy Cure 2 for X Points.
+<David_Smelser> the spell reqs, you wouldn't...
+<Captain_Vittles> I'm trying to do it so that the only way to have enough AP is to have an 
+adequately high level
+<Teirlap> That would also work.
+<Genoce> True enough.
+<David_Smelser> Right, that's why you force them to spend it on lower level spells
+<Wendolen> you could skip AP and give everything XP values
+<Teirlap> There is a lot of game mechanics, etc. that would go into this, if its going to 
+actually move into serious consideration.
+<Genoce> Since AP is a derivative of XP anyway.
+<Teirlap> So you have to spend XP?
+<David_Smelser> It sounds like it already is
+<Wendolen> it takes 1000 to get to level 2....  what if cure 1 cost 500 XP?
+<Teirlap> Or 'allocate' it.
+<Wendolen> not spend XP, per say
+<Wendolen> yes, allocate
+* Genoce nods.
+<Wendolen> each cost could be MP * 100
+<Wendolen> (cure 1 is 5 mp)
+<David_Smelser> No, spending XP is more expansive
+<David_Smelser> expensive
+<Teirlap> Bwah.
+<Teirlap> 500 EXP for one spell?
+<Teirlap> That's pricey.
+<Captain_Vittles> I'm basing things on AP given = 1/5 of XP given
+<Teirlap> I like the idea, but I've always liked AP/JP.
+* Teirlap grins.
+<Captain_Vittles> 500 is too much for a low level spell
+<Hiro> If that's pricey, think about Ultima- 15000 XP.
+<David_Smelser> right, but if someone has to mke the choice between getting a spell and 
+leveling up, the fighters will be laughing there asses off at them
+<Teirlap> Considering most mages START with three spells.
+<Wendolen> it doesn't cost XP this way; it is allocated.
+<David_Smelser> AP is better
+<Teirlap> It's kind of confusing.
+<Hiro> Agreed.
+<Teirlap> You don't lose EXP by buying spells under this system... You 'use' it, so to speak.
+<Captain_Vittles> That's why it's just an idea now - no hard mechanics yet
+<Hiro> Not to mention is used in the FF games to buy spells (ie, FFIX).
+<Teirlap> But still, I don't like it. I want AP.
+<Teirlap> Heh.
+<Captain_Vittles> Ap for sure - no XP 'buying'
+<David_Smelser> AP is simpler, more intuitive
+<Teirlap> I'm guessing AP would buy techs as well.
+<Wendolen> i'd hardly call it easier...  it's like adding stats.
+<David_Smelser> Yes but, what you are suggesting is spending, but not really spending XP, it 
+is simpler to have a seperate group of points to ACTUALLY spend
+<Wendolen> but in ff9 they aren't spent, per se
+<Wendolen> and they are allocated to everything you can possibly learn
+<Genoce> Blair, tell me how this looks to you:
+<Genoce> Acid
+<Genoce> Type: Status (Special)
+<Genoce> Cost: 48 MP
+<Genoce> Range: R:4 E:1 V:0
+<Genoce> Duration: (d8 + [MAG/3]) Rounds 
+<Genoce> Modifier: -40
+<Genoce> A corrosive slime splashes over the target, eating away at its defences and 
+inflicting (4d6 + MAG) x MDC Non-Elemental Damage. In addition, after the initial damage 
+has been dealt, there is a (Magic% - 30)% CoS that the target's Armor rating will be halved 
+for remainder of the Spell's duration. 
+<Captain_Vittles> That's fine M.  Although 48 MP may be pricey...
+<Genoce> OK, 38 it is.
+<Genoce> In the meantime...
+<Genoce> 'Generic worldbook'. Rob, do you want to explain it?
+<Hiro> Anyway, M has brought up that one thing the FFRPG might benefit from is a generic worldbook. 
+<Genoce> This was Erich's idea.
+<eldersphinx> Rob's got the floor. Generic WB.
+<Hiro> The question is 1) how could we impliment it and 2) where in the hell will it go?
+<David_Smelser> 3) what is it
+<Captain_Vittles> By generic worldbook, do you mean an original setting...
+<Captain_Vittles> ...or an Esperworld mish-mosh?
+<Genoce> The former.
+<Hiro> It'd be a worldbook that would be used through the CR & the sourcebook for examples 
+among other things.
+<eldersphinx> So the new WB's not Esperworld. (Praise Heaven!) What *is* it? Or, more on-topic,
+ how do we define it?
+<Returner_Engine_Guy> worldbook...hmmm...well being as we are basically locked into a medival 
+setting....
+<Genoce> No FF game has ever had a medieval setting.
+<Genoce> Unless I missed something, and they had space travel during the Dark Ages.
+<Hiro> Not a true medieval setting. FFT came close.
+<Genoce> It had robots.
+*** killerb255 has joined #returners
+<Genoce> Rob - yes.
+<Wendolen> huh?
+<Genoce> Brandon!
+<Returner_Engine_Guy> hi
+<eldersphinx> Okay. How do we go about creating a generic WB?
+*** Xuenay has joined #returners
+<Returner_Engine_Guy> hi
+<Genoce> Hi there.
+<Xuenay> Hi all
+<Teucer> Heya.
+<Xuenay> Kaj Sotala, from the FFRPG mailing list
+<Genoce> Hello.
+<Genoce> We wouldn't need a whole Worldbook.
+<Genoce> Just setting information, mostly.
+<killerb255> ...then again, do we really need a default campaign setting?
+<killerb255> What are the pros and cons, first of all?
+<Genoce> That's question (2).
+<Hiro> The campaign setting would be either in the GMG or a seperate WB. There's no way in 
+hell we could fit a WB in the CR.
+<Hiro> I'd rather not turn the CR into a brick again.
+<Genoce> Yeah, plus what about those who don't *want* the setting?
+<Wendolen> well, the PBH and GM guide in D&D don't have a setting...
+<killerb255> I guess the bottom line is whether or not the benefits outweigh the bad stuff 
+regarding even having a setting...
+<Hiro> Depends on how much we get for the GMG, though.
+<eldersphinx> I'm hoping to hold the GM Guide to under a hundred pages if I can.
+<Genoce> You think you can produce 100 pages of content?
+<Genoce> I pegged it more at 40, 50.
+<Hiro> The WB guide is going to be around 18 to 20 pages whenever I get off my ass & finish it.
+<Demonic_Gerbil> I don't think a Generic Worldbook would be a *bad* idea.
+<Genoce> Who else thinks it's worth doing?
+<Xuenay> Sounds good to me
+<Xuenay> Me
+<Returner_Engine_Guy> Everyone, let's go
+<Captain_Vittles> Could be good, if it's done right.
+<eldersphinx> It *is* an extra project, and one that could take up quite a bit of work at 
+this time. Do we want to commit to it?
+<Returner_Engine_Guy> Oh Crist, I'll do it
+<Hiro> I think it should be a community project.
+<Returner_Engine_Guy> That's what I thought it was going to be in the first place
+<killerb255> ...as in everyone types an article?
+<Demonic_Gerbil> Those can be hard to implement Rob.  THings get chaotic quick.
+<Returner_Engine_Guy> as in we discuss all the aspects and then whoever wants to can type it up
+<Genoce> Wouldn't that create some kind of ungodly chimera?
+<eldersphinx> You'll end up with one person doing half of the writing work, trying to make 
+everything fit together.
+<Hiro> I'd say, we come with a set of continents, and have a person handle the development 
+of each country.
+<Returner_Engine_Guy> First we should all decide on a name for the planet.
+<Genoce> Why?
+<Genoce> Only 2 Final Fantasies ever bothered naming the damn thing.
+<Xuenay> Assuming we just dont take the FF7 approach and just call it 'Planet'
+<Returner_Engine_Guy> Because just calling it Earth is boring, unless thats what everyone 
+wants to do.
+<Genoce> Or R.
+<Captain_Vittles> R... lol.  Let's not go there.
+<Genoce> Actually, Era might be a good name.
+<killerb255> Era might not be too bad...
+<Genoce> It's a nice, symbolic name.
+<eldersphinx> Era here.
+*** Suoh_Akira has joined #returners
+<Xuenay> Era
+<killerb255> ...I'm up for Era. 
+<Genoce> Hey, Adam.
+<Returner_Engine_Guy> 4 Era
+<Genoce> Era it is.
+<killerb255> We just named a planet.
+<Teucer> Sure, Era ain't bad.
+<Genoce> So, now we need a central schtick.
+<Genoce> Crystals.
+<Genoce> Four of them.
+<Hiro> I say eight.
+<Genoce> Dark Crystals?
+<Returner_Engine_Guy> uhh, lets focus on setting first
+<Genoce> Crystals *are* setting.
+<Hiro> Fire, Earth, Water, Wind, Light, Dark, Ice, and Lightning.
+<Genoce> ...
+<Genoce> Crystal of Ice?
+<Genoce> Isn't Ice a para-element?
+<Xuenay> Light and Dark
+<killerb255> ...one side's dying and the other prosperous?
+<Hiro> I don't see a problem with the full eight. 
+<killerb255> ...and a war between who gets the prosperous side?
+<Genoce> How about each Crystal is connected to its Dark World counterpart?
+<Genoce> If you draw energy from one side, the other side gets weaker.
+<Xuenay> Dark World?
+<eldersphinx> FF4-style Crystals. I like it.
+<Teucer> I likes.
+<Genoce> The 'light side' has been sucking out the crystals to power their civilisation.
+<Genoce> Leaving the dark side in ruin.
+<Genoce> And now the Dark Side wants revenge.
+<Xuenay> Do we have to have a massive, global war like this?
+<Genoce> We need an Underworld.
+<eldersphinx> Here's a question. Do we want this WB to be an epic "PCs change/preserve the 
+world" setting, or a stable "PCs adventure and pursue their own small goals, without having 
+to worry about the world falling apart around their ears" setting?
+<Genoce> The latter.
+<Xuenay> Small goals
+<Returner_Engine_Guy> latter, definitely
+<Genoce> The former doesn't really allow for many adventure hooks.
+<Hiro> Somewhere in between.
+<Genoce> Settings are only good if the players can make something out of them.
+<Demonic_Gerbil> The latter setting would be more fun for everyone on a regular basis.  THe
+ former is just a one trick pony.
+<eldersphinx> Okay. In that case, we really can't build a big war or cataclysm into the 
+world setting.
+<Genoce> Unless it happened before.
+<Genoce> Vis-a-vis War of the Magi, Dark Warriors, etc.
+<Suoh_Akira> Right, M.
+<Suoh_Akira> We could come up with legends along those lines.
+<eldersphinx> Yes... but a war can't be used as a present-day world 'hook'.
+<Hiro> Happened before. There definitely will be a "Golden age that got blown up by abusing 
+the <killerb255> ....otherwise, it'd just be restricted among one set of rules, one set of 
+ideals, etc.
+<eldersphinx> Unless it's a Cold War style conflict - something built into the world keeps 
+armies from marching on each other, so the conflict is handled by small groups of spies or 
+raiders
+<Genoce> For example, you could have a hollow world.
+<Demonic_Gerbil> A cold war could be fun.  But we need lots of brush wars on the sides to 
+keep everyone happy (ala war of 1812 and the Napoleonic Wars).
+<Genoce> Anybody with my hollow world idea?
+<Genoce> People coming out of the poles?
+<Xuenay> I kinda like that hollow earth...
+<Suoh_Akira> I have no objections to a hollow world.
+<killerb255> ...doesn't matter to me, as long as it's optional.
+*** LordMagius has joined #returners
+<Xuenay> Two sides fighting, and then monsters from the Hollow Earth come and become the 
+third side?
+<Genoce> Steven, hey.
+<LordMagius> Mornin' all
+<Genoce> The monsters.
+<Genoce> Come from inside the planet.
+<Xuenay> Yeah
+<Suoh_Akira> Does the world in general know the origin of the monsters? Or are they ignorant?
+<Genoce> Ignorant, I'd say.
+<killerb255> Ignorance may make it interesting.
+<Suoh_Akira> I agree, Brandon.
+<Genoce> They just pop out of cracks in the ground.
+<Hiro> Steve: I'm considering doing a PDF release for the MCS to hold over things until the 
+Tome is finished. Are there are any changes that you've made to the MCS as of late?
+<Returner_Engine_Guy> So what IS their actual origin?
+<Suoh_Akira> And these monsters are, say, the renmants of the former army of Chaos? Or has 
+the Chaos idea been dropped?
+<Xuenay> Are the monsters just brainless monsters or is somebody leading them?
+<Demonic_Gerbil> Only two sides plus the monsters seems restrictive.  Perhaps add in a bunch 
+of semi-neutral parties that are caught between the hammer and anvil so to speak.
+<Xuenay> Agreed
+* Genoce nods.
+<killerb255> I'm up for leaving it as a GM decision.
+<eldersphinx> Allows gamemasters to customize the setting, and trips up players who Read Too 
+Much.
+<Hiro> A few factions would be a good idea.
+<Xuenay> Two major factions and lots of smaller factions that are either allied with one 
+side or try to stay neutral, just like with the real Cold War
+<Xuenay> Plus the monsters
+<Genoce> And the two factions try to manipulate the neutrals.
+<Hiro> I'd like to have some type of religion available. 
+<Suoh_Akira> Religion doesn't get much mention if Final Fantasy. It doesn't mean it's not 
+there.
+<Teucer> How can you have a church without a religion?
+<Genoce> Religion is incompatible with magic, in my opinion.
+<killerb255> That might be a good story issue: the incompatibility between religion and magic.
+<Hiro> One idea I used to have is that magic was controlled by the church.
+<Genoce> Magic replaced divine power.
+<Returner_Engine_Guy> that might work too, the players might try to fight the church's controll of magic
+<Genoce> So if there was to be a religion, it'd have to have a magic monopoly.
+<Hiro> Keep in mind we have polar opposites as far as the world goes. Magic could be popular 
+in the dark side, but forbidden in the light side.
+<Genoce> Only claiming that this wasn't in fact magic, but the power of (Deity).
+<Genoce> While on the Dark Side, they know the truth about magic.
+<Hiro> Heh. We should call the light side Elysium and the dark side Hades.
+<killerb255> ...or Black Magic could be popular in the Dark Side (practiced by Dark Knights), 
+while White Magic is popular on the light side (practiced by Paladins).
+<Genoce> Because of the Church.
+<Hiro> Maybe rather than dark/light, the 'dark side' could have been ravaged by a previous 
+war. Sorta like the Frontier from Lunar.
+<Demonic_Gerbil> Why give the Light and Dark sides topography to match the name?  I'd rather 
+that Good/Evil be represented by countries with differing ideals and not by how they look. ;-)
+<Genoce> Well, 'Dark' doesn't necessarily mean 'evil', either.
+<Xuenay> "If there was no darkness, we'd all be blinded by sunlight."
+<killerb255> ...and if there was no light, we'd just be blind.
+<Genoce> Actually, that's a good quote for the opening section.
+<Xuenay> So, are there going to be any definite geographical or other differences between 
+the Light and the Dark sides?
+<Xuenay> Or should they just be names?
+<Hiro> We have one of two routes. one is that one side is always light and the other always
+ dark. The other is one is a wasteland and the other is very pretty lush.
+<eldersphinx> For the scorched wasteland, how about damage from the last war? Either a 
+successful weapons deployment by the winners, or a failed weapons test by the losers.
+<Hiro> That'd work.
+<Xuenay> Hmm
+<LordMagius> That's got possibilities.
+<Genoce> Armageddon.
+<Hiro> One of the things I was considering with FF One was a war where the Crystals war abused.
+<Hiro> + to build super weapons. 
+<Xuenay> What if they werent really weapons, but a bunch of VERY powerful mages who cast 
+Ultima?
+<Xuenay> The one side managed to somehow smuggle them into the right positions the first time
+<Hiro> Weapons would make more sense if they used the Crystals.
+<eldersphinx> Over an entire continent? That's a *lot* of chained E:4 effects.
+<Xuenay> Maybe large parts of the continent was devastated, and the destruction of the local 
+ecosystem soon followed, as it had suffered too much damage to recover?
+<Xuenay> So, how was the Dark Side devastated?
+<Genoce> Ancient technology?
+<Suoh_Akira> Always a good idea to consider.
+<Xuenay> Hmm
+<Xuenay> How did the ancient technology disappear, then?
+<Genoce> In the retaliatory attack.
+<eldersphinx> Okay, looks like we have: 1) Naturally that way; 2) Devastation in the last 
+War; 3) Ancient cataclysm; 4) Reaction by the Planet; 5) Other.
+<Genoce> Or maybe we go with Rob's Crystal Weapons.
+<Xuenay> I'll vote for 3)
+<Genoce> 3 gets my voice.
+<killerb255> 3
+<eldersphinx> *When* the Dark Side got devastated may also be a good question. If it happened
+ long ago, then the entire Light Side/Dark Side series of wars could be an attempt by the 
+Dark Side to get greener grass.
+<Genoce> Obviously.
+<Genoce> Nobody wants to be trapped in a wasteland.
+<Suoh_Akira> Remember. We could consider combining ideas.
+<Hiro> Essentially lots of destruction. Another possibility is that the Church came into 
+power (if we have some kind of religion) and there was a crack down on technology.
+<eldersphinx> Back on topic. I don't see any way we can 'organize' a religion in the FF WB 
+without making it the bad guy. Censorship, information-control, and heirarchy are generally 
+par for the course.
+<eldersphinx> The one exception would be if we created an organized religion *without* a 
+Western-style church heirarchy - sort of like universal Buddhism or Shinto.
+<Genoce> Enlightenment-seeking?
+<Hiro> Actually, that might be neat. 
+<Xuenay> Sounds good
+<Hiro> or Norse. 
+<Genoce> World tree.
+<Hiro> Hmm. 
+<Hiro> Maybe give the dark side a Norse-eque religigon.
+<Hiro> -g
+<LordMagius> Thing is, why would the church have to be the antagonist?
+<Xuenay> Well, if it is a Christian-style organized religion, then it's pretty obvious that 
+it is the antagonist
+<eldersphinx> Magius: IMHO, if we set up an organized religion according to the cliches of 
+the style, it'd probably *have* to be antagonistic to keep its authority.
+<Genoce> Remember the Magic/Religion conflict.
+<eldersphinx> "No, no, White Magic comes from God, Black Magic is the devil, any White Mage 
+not in the priesthood is a Fallen soul and must be purified in fire", that sort of schtick.
+<Hiro> yes yes. But it depends on the situation. For intance, Mages might be considered elite 
+soldiers. 
+<LordMagius> Well, i'll just sumarize a point, the world had "priestly magic", many types of
+ "magician's magic", etc.  One of the main points about magic made was that it is universal, 
+whether it comes from a focus of (God) or a magician's own body.  It's all the same.
+<Xuenay> The options as I see them are:
+<Xuenay> 1) Western Christian despotic church 2) Nice, non-organized religion 3) Nice, 
+organized religion that doesnt interefere with anybody
+<Xuenay> I'd go for 2)
+<Xuenay> Who all thinks that we should either not have a religion at all or add it later?
+<Xuenay> I do.
+<Hiro> If it's a problem, we can put it to a vote either on the list or through web page. 
+Personally, I think the world could benefit from a religion regardless of how it's handled. 
+Humanity throughout its existence has believed in a higher power. I don't think it would be
+ much of a stretch to have one for Era.
+<Hiro> I think today's discussion has been great and these kind of discussions will be fun 
+in the future. Although, we didn't touch upon any of the really hot topics like 'what we're 
+going to do with the General/Magic Knight' or 'range formats'.
+<Genoce> Yeah, I noticed.
+<Genoce> Anybody want to pick up on those now?
+<killerb255> We might as well.
+*** Teucer has left #Returners
+<killerb255> I was about to say "change the subject"
+<Genoce> Bit late, but we've got enough voices here.
+<killerb255> So: opinion on General?
+<Genoce> I'm still holding my Leo = Knight opinion.
+<eldersphinx> And M aptly demonstrates that he is NOT a Leo fanboy. :)
+<killerb255> Honestly, I have the same opinion regarding Leo being a glorified Knight.  
+However, anyone else?
+<killerb255> ...surprised this didn't become Hell on wheels yet...
+<Genoce> Leo looked pretty freakish, anyway. And the redundancy with the Magic Knight is far 
+too high considering the large number of sword-slinging professions in the CR.
+<Genoce> Swordjam is... unfair to some.
+<Hiro> and whatnot.
+<eldersphinx> The General's Shock techniques *do* fill a useful role in the suite of combat 
+powers within the FFRPG.
+<killerb255> Leo's look is irrelevant, but the redundancy, I can kinda agree with.
+<Genoce> Yeah. The large number of sword-using professions has actually created an issue in 
+games where the number of swords is by far outstripped by the number of professions who can 
+use them.
+<Xuenay> The thing is, I like it when people have LOTS of classes to choose between
+<Hiro> With the Samurai getting a boost, the General, frankly, is a bit thin. Since it's 
+mostly an original job, there's not much room to take it. No new abilities we could give it
+ without making it a mess. And let's be honest, we already have another Adept/Warrior job 
+that channels elemental power through their weapons....
+<Genoce> Yeah, the Magic Knight.
+<Xuenay> I dont really mind removing classes, as long as we get more classes to replace them
+<Hiro> Which brings us to what came up yesterday: moving the General's powers to the Magic 
+Knight.
+<killerb255> Speaking of which, since the General is a Knight, Shock should be covered by
+the Knight (just the Steiner ability, not the entire command)...
+<Genoce> We might want to do something in regards to Brandon's Sharpshooter. I say another 
+missile-using profession is good.
+<eldersphinx> First question: If we give the Magic Knight "Mad Ranged Shock Attacks", what's 
+his weakness?
+<killerb255> ...but first.
+<killerb255> ...tie-breaker for the Archer.
+<Genoce> No tie-breaker.
+<Genoce> Archer gets White Magic.
+<Genoce> And Crossbows.
+<Genoce> That's it.
+<Genoce> Well, Charge +Aim +Disorder Shot +White Magic.
+<killerb255> ...it is canon with FF3j and FF4.
+<eldersphinx> I'm just wondering about General -> MK implementation. The big hole in the 
+MK's arsenal has always been the lack of a ranged attack.
+<killerb255> ...and the General is nothing more than Ranged attacks.
+<killerb255> ...going with the "change everything" bandwagon, I will say that the Beastmaster 
+is a glorified Blue Mage.
+<Genoce> My concern was more that the Beastmaster wasn't playable.
+<Hiro> The new MCS will probably a big help to Beastmaster players.
+<Xuenay> Does every class be PERFECTLY balanced? I mean, of course they need to be balanced, 
+but that everything that might slightly hinder them is a no-no?
+<eldersphinx> What sort of time delay is built into the current rules?
+<Genoce> A week or so, possibly more. Let me check.
+<killerb255> You're right.  That was my original argument with the Magic Knight.
+<eldersphinx> Ouch.
+<killerb255> ...but oh well: it's one major weakness is now disspelled with the General merger.
+<Xuenay> A slightly worse weakness than with the other classes does not automatically equate 
+to nobody wanting to play them
+<Genoce> Erich summarised it best when he said that people are going to feel just a little 
+resentful when their pals are firing off Ultimas and Cleaves while they're stuck with some 
+crappy second-rate Ability.
+<eldersphinx> Workable. Or, alternatively, allow the Beastmaster to learn a new rage quickly,
+ but then require him to 'practice' it - use it exclusively - for a longer period while 
+adventuring?
+<Genoce> How would that work out?
+<Genoce> And let's not forget that the Beastmaster requires the ToM to work properly.
+<eldersphinx> So a Beastmaster who already knows how to use Brawler and M-Tek Rages, and who
+ wants to learn Wererat, could only use Wererat rages for a day or so after he first learned 
+the rage?
+<Genoce> ...that's the general 'balance' issue in a nutshell.
+<Genoce> The game should be equally rewarding for everybody.
+* Hiro nods
+<killerb255> I agree.
+<Xuenay> I never disputed that
+<eldersphinx> Hmm. If we move the General's Shocks to the Magic Knight, do they have to stay 
+as long-range effects?
+<Hiro> Sword Magic is still short ranged. And they have to pay MP for it.
+<Hiro> And Shocks, unless we give them an MP cost, would have an init. penalty.
+<Genoce> Which actually makes them more limited in the long run.\
+<killerb255> I'd say ditch half the Shocks, since they're going to have enough power packing 
+high-level spells.
+<Genoce> Yeah.
+<Genoce> Blair said he wanted to change the functionality anyway.
+<Genoce> His take on it is -- lower Elemental spells are long-term enchantments.
+<Genoce> Higher Elemental spells are one-shots.
+<killerb255> ...that would *really* make MP a weakness.
+<killerb255> Ok.  I'll take the happy medium.
+<Suoh_Akira> So what? Fire would enchant the blade, whereas Fira would damage the enemy?
+* Hiro ponders
+<killerb255> Maybe the Magic Knight should get the choice to chant, keep the chant for the 
+designated rounds, yet they can have the choice to release the spell...
+<Genoce> Rune Knight.
+<Suoh_Akira> RK? I say give them Mighty Sword. There's precendent.
+<killerb255> Easy.  I kinda worked this out a while back.
+<Genoce> Go ahead, Brandon.
+<killerb255> ...the progression from Mighty Sword from the old Knight *could* be thrown in 
+with the exact progression from Runic.
+<killerb255> ...and it would still be balanced.
+<killerb255> After all, by time they get Mighty Sword, they'll end their Red Magic progression.
+<killerb255> ...at least that was true before the new Magic progression writeup.
+<killerb255> Basically, keep the Runic powers at 1, 20, 45, and 60.
+<Genoce> I know you were wondering whether the Rune Knight should switch progressions.
+<killerb255> Keep the Mighty Sword old Knight progression at:
+<killerb255> 46, 51, 56, 61
+<killerb255> ...within reasonable adjustment.
+<Genoce> The thing is, we could do a little more with the Rune Knight.
+<Genoce> One idea I had that isn't entirely canon but might be fun is to turn the RK into a 
+kind of magic dynamo.
+<Genoce> Stick him on the frontlines, soaking up magical energy. Then the RK can release their 
+absorbed energy in the form of a special attack or similar.
+<killerb255> aka: Runic Charge.
+<Genoce> Yep.
+<Genoce> Only making that the Leitmotiv for the RK's abilities.
+<Genoce> By bringing Mighty Sword into it.
+<killerb255> Hmmm...
+<Genoce> Because there's no holistic connection between MS and Runic.
+<killerb255> ...there isn't.
+<Genoce> It's just two separate Ability sets, and that looks kind of awkward.
+<Suoh_Akira> So, MP absorbed through Runic would power Mighty Sword?
+<Genoce> Something like that.
+<killerb255> This is neither Celes nor Dycedarg here as well...
+<Genoce> Yeah, but it's a logical middle ground between the two of them.
+<Suoh_Akira> What the Hell? I'll take a stab at it. How can I improve my rep by just waiting?
+<Genoce> Oh, wait. We need a new Geomancer.
+* Hiro wonders if a 10d6 line of powers for Geomancers would be out of the question.
+<Hiro> hmm. 
+<killerb255> Probably not.
+<eldersphinx> Probably not. The Geomancer is closer to a MP-less Black Mage than anything else.
+<Genoce> I'd be more concerned with basic functionality.
+<killerb255> ...or make it 3d6, 5d6, 7d6, and 9d6.
+<Hiro> Or we could make it 3d6, 6d6, 9d6, & 12d6. Might be too much though. No non-mage does 
+that much damage.
+<killerb255> What the Geomancer really needs is, primarily, functionality, secondarily, versatility.
+<eldersphinx> M, can you send a copy my way? I'll see what I can do with it.
+<killerb255> As far as functionality goes, I'm kinda up for the old Geomancer/Dancer chart 
+over the Geomancy roll.  The two mechanics contradicted each other.
+<eldersphinx> Here's a thought for Geomancers - a higher-level ability called "Alter 
+Environment" or something like that.
+<Genoce> I think 'Ignore Terrain' is more of an example of what the Geomancer can do with 
+their talents.
+<eldersphinx> Basically, it would allow the Geomancer to use additional attacks such as 
+summoning a storm, shifting bedrock to create a small hill or fissure, or something similar...
+<Genoce> Are you going to do anything with the Dragoon?
+<killerb255> The only problem I might have is that I may have made High Jump a bit too
+ munchkinous.
+<killerb255> Jump, land last, triple damage...ouch.
+<killerb255> I think what I'll do with High Jump is for it to have the same mechanics as 
+Power Jump: a CoS to remain in the air for one more round, then they land the next round 
+and inflict triple damage.
+<killerb255> ...failure means (whichever one of these two is more balanced):
+<killerb255> 1) They land and do no damage.
+<killerb255> 2) They land as a normal Jump and inflict double damage.
+<Genoce> (1)
+<Genoce> What's the point of taking a risk if you don't actually risk anything?
+<eldersphinx> What's the CoS you'd planned on using for High Jump?
+<killerb255> Just a sec, I'll look at Power Jump's CoS...
+<killerb255> 20% + (Level/5) + (Magic/3)
+<killerb255> ...that might be a bit low for High Jump
+<Hiro> That's gonna have to change. :)
+<eldersphinx> Hmm, maximum of 50% CoS. Probably should up that one a bit.
+<Hiro> So, I'd say 55 + Level + Agility, Defense.
+<killerb255> ...of remaining in the air?  I don't know how an enemy's defense would come to
+ play...
+<eldersphinx> I'd recommend the 40 + Level + Stat, Brandon. Gives an overall 50 - 60% CoS 
+for most Dragoons using the power...
+<Hiro> LV. 50 guy with Agility of 18 would have a CoS of (123 - Defense)%.
+<Genoce> Seems steep enough.
+<killerb255> This formula would work, but again, how would an enemy's Defense factor towards 
+a Dragoon remaining in the air?
+<eldersphinx> How Defense for High Jump comes into play: Target sees Dragoon hanging in the
+ air, ducks under a rock. 
+<Hiro> No, I'm thinking something else. Average monster for about Lv. 50 will have around a
+ 80ish in Defense.
+<Genoce> That's more for hitting the target.
+<eldersphinx> How well the Dragoon's jumped determines whether he can still land on the target.
+<killerb255> I know that, but...
+<killerb255> OH, OKAY?
+<killerb255> They don't need to remain in the air for an extra round...
+<LordMagius> To keep him in the air, he should use his own defense rating as he is using the
+ power on himself.
+<killerb255> ...they just land, and use Rodger's formula for triple or nothing.
+<Suoh_Akira> But if they fail, they used all that time for nothing... It should have a mid to
+ high rate of success.
+<killerb255> ...not too high, though.  Otherwise, High Jump would substitute Jump for the rest
+ of the campaign.
+<Suoh_Akira> I say make the base 60. Hmmmm...
+<Genoce> Yep. It's an alternative, not a substitute.
+<killerb255> ...now for Power Jump.  That should probably not factor in Defense because the
+ fundamental of that is remaining in the air, multitargetting spears along the way.
+<killerb255> ...n/m.  I'll go with Steve's logic for Power Jump (remaining in the air).
+<eldersphinx> Hmm. For the new MCS, does a monster have Defense equal to (Level + Agi + Speed)
+ generally? Or is it something like (Level * 1.5 + Agi + Speed)?
+<Hiro> No. It's Level + Agi + Spd.
+<eldersphinx> Cool. So the effective CoS for a Dragoon using High Jump against an equal-level
+ monster will be (Base power CoS) + (Dragoon's Stat) - (Monster's Agi) - (Monster's Spd).
+<Genoce> Essentially.
+<killerb255> - Monster's Level as well.
+<eldersphinx> Yes, but (Dragoon's level) - (Monster's Level) = 0.
+<Hiro> That's an important factor. 
+<Suoh_Akira> That seems way too low. Making a chance that low will make it stupid to use the
+ power.
+<killerb255> I guess the Base power CoS's need to be fixed...
+<Genoce> Definitely.
+<eldersphinx> Here's what I'm thinking. Say we give High Jump a CoS of (75 + Level + Stat).
+<Genoce> Adam - Risky, more like.
+<Suoh_Akira> Why use High Jump where you have such a high risk of failure when you can do Jump
+ and be relatively safe, after all.
+<killerb255> Simple: you gamble for extra damage.
+<eldersphinx> Then subtract the monster's defense - (Monster Level + Monster Agi + Monster
+ Speed).
+<Hiro> Good point.
+<Suoh_Akira> And if you lose, you do no damage.
+<Hiro> x3 damage doesn't seem worthwhile when you can do double damage as  a sure thing.
+<eldersphinx> Against an equal-level monster, the effective CoS will boil down to (75 - Monster
+ Spd), give or take a few percentage points.
+<Genoce> Exactly. That's the risk.
+<killerb255> ...then we can raise the CoS and/or give the Dragoon longer airtime w. High Jump.
+<Suoh_Akira> How will longer airtime make the power useful? -_-*
+<killerb255> ...the invulnerability.
+<eldersphinx> Jump does double damage over two rounds, yes? And High Jump does triple damage
+ over three rounds?
+<Genoce> They can't be hit.
+<Genoce> Play FF3 until Garuda.
+<Genoce> Then you'll see why Jump is fundamentally useful in battles.
+<killerb255> I remember that fight.
+<Genoce> Worst battle ever.
+<Genoce> Though it was kind of neat to have a 'Dragoon Squad' all launching one after another.
+<killerb255> ...that's why Jump is so useful: the invulnerability. 
+<Suoh_Akira> Still... Longer airtime won't offset the fact no damage is done if they fail.
+<killerb255> That's one of the few ways the bastard can be beaten.
+<Suoh_Akira> The CoS needs to be higher.
+<killerb255> I guess if they stay in the air for an extra round, then it could be guaranteed.
+<killerb255> ...after all, you're trading damage for invulnerability in this respect.
+<Genoce> Yep.
+<Genoce> I think it's a good compromise, myself.
+<killerb255> Ok then: High Jump, in air for two rounds, land, triple damage.
+<killerb255> ...versus Jump: in air for one round, land, double damage.
+<killerb255> ...this way, we don't have to mess with CoS. :)
+<Genoce> Fine by me.
+<killerb255> Power Jump still keeps its CoS.  After all, remaining in the air too long with
+ something that powerful (rain of spears doing double damage each round while remaining in 
+the air)...
+<killerb255> Dragon's Crest w. Dragon Killer.
+<killerb255> Then again, would that be all that bad: double damage to a dragon w. the Dragon
+ Killer advantage?
+<killerb255> = quad damage?
+<killerb255> ...okay...that *can* be bad...
+<killerb255> ...but then again, the ability isn't gained until 64th level.
+<Genoce> Seems a bit redundant, really.
+<killerb255> Hmmm...10d6 + Magic x MDC...it could be redundant.
+<killerb255> ...against a Dragon, it's useful.  Against anything else, just jump.
+<Genoce> And how many Dragons is the average PC going to face?
+<killerb255> ...true.
+<killerb255> Let's see: other options:
+<killerb255> 1) Use the e-game formula.  Again, that goes back to how many dragons the player
+ will face, since that formula
+<killerb255> ...is 250 x Dragons killed.
+<killerb255> 2) Throw Dragon Breath back in.  It targetted groups of enemies, however, it's
+ basically Minus Strike with the enemy's HP instead of your own.
+<killerb255> ...which can be horribly munchkinous.
+<Hiro> That'd be pretty nasty for a boss fight.
+<killerb255> Hmmm...maybe a way to balance it could be 1/2 the enemy's missing HP...
+<Hiro> Might be a good way to handle it. At least against a boss.
+<killerb255> ...the targetting in FF9 was weird, though.  It targetted groups of enemies.  If
+ you fought 20 chocobos, 1 behemoth, and 3 tonberries,
+<killerb255> ...you could target the 20 chocobos, the 1 behemoth, or the 3 tonberries.
+<killerb255> ...or maybe drop this property altogether and restrict it to single targets...
+<Genoce> I think that might be advisable.
+<killerb255> ...or a multitarget range of R:3 E:2 V:1 or something...
+<killerb255> Heh, that's the first time the Dragoon received more treatment than the Thief
+ since 2.0. :)
+<Genoce> Speaking of the Thief, are we still doing the Robber's Evidence/Thievery swap?
+<killerb255> Yeah.  The name Thievery is so misleading.
+<Genoce> Sounds like an advanced 'Steal'.
+<killerb255> It'll be named "Robber's Evidence (Thievery)"
+<killerb255> RE was the Japanese name.
+<killerb255> ...so it's canon.
+<Genoce> Yep.
+<killerb255> I thought about having Steal-All become X-Steal, working like Quadra Slam or
+ Disorder Shot, but it really doesn't matter either way.
+*** Demonic_Gerbil has joined #returners
+<killerb255> Probably few.
+<Demonic_Gerbil> People are still here.  Wow.  :p
+<Genoce> Yeah, we're still truckin'.
+<Xuenay> Of course we are, it's only nearing 7 am
+<Hiro> I need to find a place to stick descriptions for the monster power categories.
+<Genoce> Unless anybody's got any clever ideas for the Beastmaster.
+<killerb255> ...should we save the Mimic and the Gambler for another session?
+<Genoce> Mimic Blair already resolved.
+<Genoce> Gambler... uh, I've been tinkering with. It'll be done. Eventually.
+<killerb255> What was his solution?  I didn't check the message boards to find out.
+<Genoce> They only mimic one action at a time.
+<killerb255> Is that their only Job power?
+<Genoce> Apparently.
+<killerb255> ...if so, that might be rather weak, especially if the Mimic is solo.
+<killerb255> ...which might be a bad idea for any Mimic anyway. :)
+<Genoce> The Mimic is pure group player.
+<killerb255> I do remember you guys discussing the ability Gogo had: to use other powers as 
+his own.
+<killerb255> ...the FF5 Mimic had that, in a way, as well.
+<killerb255> ...but I think it may have been deemed munchkinous.
+<Genoce> Yes, it was.
+*** Captain_Vittles has joined #Returners
+<Genoce> There's Blair.
+<Suoh_Akira> WB, Blair.
+<killerb255> Mimicking *one* ability may be enough to balance them, since the Mimic is *only*
+ able to mimic the last action.
+<Captain_Vittles> Hey
+<killerb255> Speak of the devil. :)
+<Genoce> And here's me thinking we were winding down again. We're talking about the Mimic.
+<Genoce> Or Mime.
+<Suoh_Akira> Blair, could you tell me your current lineup for MK/General Shocks?
+<Suoh_Akira> Which ones go which ones stay?
+<Captain_Vittles> I haven't looked at MK yet.
+<Captain_Vittles> I can't believe this is still going on.
+<Captain_Vittles> M... isn't it morning for you now?
+<Genoce> I'm enjoying the sunset.
+*** Jared has joined #returners
+<Genoce> Now that's timing.
+<eldersphinx> Yo, Jared.
+<Genoce> Hey, Jared.
+<Xuenay> Hi there... You're a little late.
+<Jared> Any really big flamewars?  
+<Captain_Vittles> no
+<Hiro> Nope. :(
+<Genoce> Yeah, we're just getting down to deciding how to edit the log.
+*** Trunks has joined #returners
+<Genoce> Hi, Dustin.
+<Genoce> Blair -- you're on the half of the magic I'm not doing.
+<Genoce> Adam -- You've got the Rune Knight.
+<Genoce> Brandon -- Getting the Dragoon overhauls.
+<killerb255> ...and the Thief corrections.
+<Genoce> By the way, Dustin -- how's the FFIX WB coming?
+<Suoh_Akira> I'll try and have a rough draft done soon.
+<Genoce> Rodger -- you wanted to do the Artifact Swords?
+<eldersphinx> Can do.
+<Agentrolf> I've got most of the Mist continent done
+<Agentrolf> But i've run into a rut with the Magic stone ability system
+<eldersphinx> Who wants to float the Academic/Applied skill split to the list?
+<Captain_Vittles> Adam - if you're doing the Rune Knight, then I'll worry about the Magic
+ Knight.
+<Genoce> That's Rob's Job, I think.
+<Genoce> Jared -- do you want to revise the Beastmaster?
+<Jared> Sure.
+<Genoce> The functionality's still broken because of the long training period. See if you 
+can't find a way to make it playable.
+<Jared> Long training period, eh?  Anything else that needs changing?  
+<Genoce> You can base it off the rewrite I submitted to the list.
+<eldersphinx> I can tackle some ideas on a Geomancer remake.
+<Jared> IOW, how the abilities that actually function in combat?  
+<Genoce> Yeah, and how they're obtained.
+<Genoce> Those are the two main bugbears.
+<Jared> Genoce: Send it to bmilne@agt.net so I can have a look at it.  
+<Genoce> It should still be in the list archives...
+<Genoce> But OK.
+<Teirlap> And I could take something minor if needed.
+<Genoce> Do you want to tackle the targeting tables?
+<Teirlap> For Called Shots?
+<Genoce> Yeah.
+<Teirlap> How hard is that?
+<Genoce> Uh... it'll take some doing.
+<Teirlap> I could probably come up with one right now off the top of my head.
+<Teirlap> The NPBCS is making progress however.
+<Teirlap> I'm still in the 'sorting' phase: Determining which current Job powers are somewhat
+ standard, and which are just plain off the wall strange.
+<Teirlap> I.E. Charge, Draw Out, Rage...
+<Genoce> OK. Let me know when you're ready to beta.
+<Teirlap> Sure thing.
+<Genoce> Need to hard reset and work on a transcript.
+*** Disconnected
+Session Close: Mon Jul 23 07:32:21 2001
+
+

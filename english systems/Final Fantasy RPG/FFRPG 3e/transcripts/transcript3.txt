@@ -1,0 +1,1056 @@
+Session Start: Sun Aug 05 15:56:36 2001
+*** Now talking in #returners
+*** ChanServ sets mode: +nt
+*** ChanServ changes topic to 'The official channel of Returner Games Inc. This channel is 
+dedicated to the discussion & development of the Returner Final Fantasy RPG. For more 
+information, feel free to visit our web page at http://www.returnergames.com/. (Hiro)'
+*** ChanServ sets mode: +o Genoce
+*** eldersphinx has joined #returners
+*** ChanServ sets mode: +o eldersphinx
+<eldersphinx> Partly what I've been pondering with the Geomancer is some powers that can
+ differentiate the different Terrain abilities at high levels.
+<Genoce> What do you mean?
+<eldersphinx> Well, mechanics that would be unique to each Terrain - and hopefully, somewhat
+ different from other class powers.
+<Genoce> Still having a little trouble visualising...
+<eldersphinx> So the Powerful Desert ability wouldn't just be a 8d6 'same-old-same-old' attack,
+ but might instead be "Burning Sun - The Geomancer's ability intensifies the heat and radiance
+ of the sun overhead to unheard-of levels. All Water and Ice attacks deal half damage."
+<Genoce> Or slowing movement for monsters, or giving allies the ability to walk on water, that
+ kind of thing.
+<eldersphinx> Yep. I guess my main problem is going to be making the abilities *useful* - in a
+ desert setting, the PCs may want to be using Water/Ice. The monsters likely won't.
+<eldersphinx> The other thing I'm considering is a high-level Terrain Manipulation ability -
+ the Geomancer summons a storm, or starts an earthquake, or something along those lines.
+<eldersphinx> And then can invoke Terrain effects based on the summoned effect - lightning
+ bolts, earthstrike, similar.
+<Genoce> Against an appropriate Magic% roll?
+<Genoce> Makes sense. 
+<eldersphinx> Basically, it's a way for the Geomancer to 'bring in' a new set of Terrain
+ abilities and use those effects, when she *really* doesn't want to use what's at hand.
+<Genoce> Incidentally, I'm working on a short guide for Engineers to build Constructs using the
+ MCS.
+<eldersphinx> "Crap, these Forest Terrain effects all suck rocks against the Lord of Trees
+ we're fighting. Alright then - Terrain Manipulation: Storm! Eat lightning!"
+<eldersphinx> Constructs with the MCS. Could be interesting.
+<eldersphinx> Incidentally, do you think we might be able to get to the point where we had more
+ than one type of Engineer character again?
+<Genoce> For those folks who want to have a little robot pal tagging along or something. 
+<Genoce> Hm. Hard to say. We're scrabbling enough to find Abilities for the one Engineer we
+ already have...
+<Genoce> Where'd the divisions be?
+<eldersphinx> What I'm thinking is that there's fairly solid precendent for an Engineer-type
+ that *only* builds Constructs - Dr. Lugae, from FF4.
+<eldersphinx> As a matter of fact, a Construct-building Engineer *could* conceivavly use rules
+ similar to a Monster Trainer character, just with different names on all the powers.
+<Genoce> I'm seeing more future in overhauling them as Mediators.
+<eldersphinx> Probably.
+<eldersphinx> I do like the idea of giving them Oracle-style status effects, though, too.
+<Genoce> Does 25,000 gil for a Level 50 Construct, Large-Sized, sound a little too cheap for
+ you?
+<eldersphinx> This would be about an effective a combatant as an extra character of about 40th
+ level, right?
+<Genoce> Yeah.
+<Genoce> Unless I make the extra systems cost more.
+<Genoce> 50,000?
+<Genoce> That'd be ([Level x 500] x Size Modifier).
+<Genoce> ...which would technically allow a starting Engineer to begin the game with a Level 1
+ Construct.
+<Genoce> In place of a normal Invention.
+<eldersphinx> Hmm. Given that the Construct *is* the Engineer's class power, and doesn't come
+ with Cleave or Level 8 Black Magic of its own, souonds about right.
+<eldersphinx> Has anyone ever figured out a "Gil curve" yet - how much gold a character of a
+ given level is expected to have?
+<Genoce> Not really. It's not exactly a constant, short of looking at experience level/GP
+ distribution with monsters.
+<Genoce> A Level 1 Monster is worth 400 XP and 150 gil.
+<Genoce> Assuming the average party of four, that'd come out to 100 XP and 37 gil per
+ character.
+<Genoce> Per Level.
+<Genoce> At Level 50, that would mean about 1875 gil per monster per character.
+<eldersphinx> Yep. What I mean is along the lines of "A Level 40 character has fought enough
+ monsters to earn..." (calculating)
+<eldersphinx> about 400,000 XP. How many Gil has he earned in that time?
+<eldersphinx> I guess on a linear, it would be about 150,000...
+*** Adam_Is_Afk has joined #returners
+*** Adam_Is_Afk is now known as Imagined_Reality
+<Genoce> Yep.
+<eldersphinx> Hey, Adam.
+<Imagined_Reality> Hello.
+<Genoce> That's not including awards for selling equipment, completing quests, etc.
+<eldersphinx> Okay, I guess the only trick is to figure out what 150k gil can buy you.
+<Genoce> Cumulatively.
+<Genoce> Adam, what headway on the RK and Bard?
+<Imagined_Reality> Well.... I'm having trouble describing Soul Ruin. Please.
+<Imagined_Reality> Bard stuff is pretty much done.
+<Imagined_Reality> The idea I outlined to you will be default.
+<Imagined_Reality> But as an alternate rule will be the one of each stat boost per person per
+ battle thing.
+<Imagined_Reality> What modifiers are we looking at for those every round skill checks?
+<Genoce> -10, 15% per Round.
+<Imagined_Reality> So it gets bigger, or remains at 10-15% per round>
+<Genoce> Cumulative.
+<Imagined_Reality> I dunno about that, M... If we're going to do that, maybe it should be five
+ per round..
+<Genoce> Depends on how long a Bard should be able to twist out a song.
+<Genoce> Rodger - I don't think Constructs should get Spell Abilities. Do you agree or
+ disagree?
+<Imagined_Reality> Well, a typical song is about our minutes long.
+<eldersphinx> Don't know if dropping it down to 5% per round is necessary. I mean, a five-round
+ fight, that's only a 20% penalty at the end of the battle.
+<Imagined_Reality> But a Bard's song typically tells a long story.
+<Imagined_Reality> That's assuming a long fight.
+<Imagined_Reality> Stuff happens.
+<eldersphinx> How about 5% for first and second level spells, 10% for third and fourth, etc?
+<Imagined_Reality> Hmmmm...
+<eldersphinx> Allows low-level Bards a chance to allow their basic effects time to last, high
+-level bards have to *worry* about their high-level effects lasting.
+<eldersphinx> Means that a Bard might not want to throw a Level 8 stat boost at the beginning
+ of a big fight - he might start with a more-certain Level 4 effect instead.
+<eldersphinx> M: I can definitely see Constructs not having Spell Abilities. They're not
+ special-ops tools.
+<Genoce> OK, cool.
+<Genoce> Job Abilities should stay, though.
+<Genoce> If for no other reason than the fact that Cait Sith in FFX had Steal.
+<eldersphinx> ... Although I can see some players wanting their Robo-sidekick to be able to
+ Peep an enemy, or help out with an Antidote spell.,. I wonder if we might be able to just give
+ Constructs a really crappy Magic% score, and allow them to use Spell Abilities?
+<Genoce> Mechanical things aren't supposed to have magic, though.
+<eldersphinx> M: I assume that your average Construct wouldn't be using Job Abilities on a
+ scale equal to it's monster level?
+<eldersphinx> I just don't want an excuse for an Engineer to have an Ultima-wielding pet.
+<eldersphinx> Y'know, looking back at the Geomancer... I'm not sure that the powers are as one
+-dimensional as people think.
+<eldersphinx> Of the ten terrains, only four of them are lacking at least two 'special effect'
+ attacks.
+<Imagined_Reality> How are the abilities one sided?
+<eldersphinx> Almost all direct attacks.
+<eldersphinx> Out of forty different effects, only one is a healing ability.
+<Imagined_Reality> In FFT, most of the attacks pegged on a status too.
+<eldersphinx> Adam: And that's the case here, too. Though being able to throw Stop with the
+ Level 1 Plains ability is somewhat broken.
+<eldersphinx> When Stop is a Level 8 mage spell, and a Geomancer can unleash it at Level 1?
+<Imagined_Reality> I say have Hell Ivy have a effect like Hold and move Stop elsewhere.
+<eldersphinx> The Hold spell effect. :)
+<Imagined_Reality> So all that's really needed is so shuffle the status effects around. Maybe
+ throw in a healing power or two too?
+<eldersphinx> We may want to bring this up during the formal meeting, and let members
+ brainstorm on it.
+<Genoce> Did you see Jacob's revision of it at all?
+<eldersphinx> The Geomancer may just need a bit more imagination in its power write-ups. I
+ mean, forming an evocative description of the power from what's currently in the write-up is
+ *not* an easy task.
+<Genoce> Uh-huh.
+*** Hiro has joined #returners
+*** ChanServ sets mode: +o Hiro
+<eldersphinx> Hey Rob.
+<Hiro> hey
+<Imagined_Reality> Yo, Rob.
+* Hiro yawns
+<Genoce> Early enough for you?
+<Hiro> Considering I just dragged myself out of bed a minute or so ago, yes.
+<Genoce> Another late night, I presume.
+*** Demonic_Gerbil has joined #Returners
+<Genoce> Hi, Elisha.
+<Demonic_Gerbil> Howdy.
+<Hiro> I might as well bring this up now. I have a possible fix in mind for the Map combat
+ issue- that is, to create an appendix for map combat/mass combat. I'm tentatively calling it
+ 'Final Fantasy RPG Tactics'.
+<Hiro> My idea in addition to map combat in general would cover unit based battles (where each
+ character controls a unit of soldiers) and large scale army battles (where the characters may
+ be fighting thousands against thousands). Most of these two parts of system are still pretty
+ fuzzy, but I expect to have more as I get around to writing the appendix up in greater detail. 
+<Genoce> This would replace the Mass Combat rules for the PCom, right?
+<Hiro> Yeah. Or, it would include them to some extent.
+<Genoce> So where would that leave the range dilemma?
+*** Jeff has joined #Returners
+<Genoce> Hey, Jeff.
+<Jeff> Hey, M.
+<eldersphinx> Hey.
+<Demonic_Gerbil> Hi.
+*** dave has joined #Returners
+<Genoce> Hi.
+* dave nods
+<Genoce> Actually, why don't I give a quick rundown of what I had in mind?
+<Genoce> 1. Range Issues. I really want to see the map combat question brought to a close at
+ this meetings. Three weeks is long enough.
+*** LordMagius has joined #returners
+<Hiro> Ranges have been a big sticking point as of late. I'd like to see the matter finished
+ once & for all.
+<Jeff> As far as I know, there's been one use of map combat ever in FFRPG PBeM history.
+<Genoce> And most of the GMs I've talked to agree they could get more use out of meters.
+<Genoce> Most? All.
+<Jeff> I don't like meters.
+<Genoce> What, then. Feet?
+<Jeff> Granted, it makes more sense.
+<Hiro> Meter/Yards. I'd like to keep it somewhat unit-independant.
+<Imagined_Reality> I say meters.
+<Hiro> As far as the map combat system goes, M & I loosely have plans to move it into its own
+ appendix in the CR along with some material for unit-based battles and large scale stuff.
+<LordMagius> large scale combat, are you going to be updating the stuff in the ord then?
+<Genoce> I had some ideas.
+<Genoce> Which still leaves the question as to what this does for our range debate.
+<LordMagius> simple, one hex/square = 10 meters/yards/feet/inches/etc...
+<Jeff> That makes hexes freaking huge.
+<eldersphinx> And player characters grow or shrink depending on what you define a 'hex' as?
+<Hiro> 10 meters = 30 yards = 90 feet.
+<Hiro> very roughly.
+<LordMagius> 10 meters = 10 yards = 30 feet
+<Jeff> You could have a whole small engagement in a single hex at 30 yards.
+<Hiro> doh
+<Genoce> This does not solve the ranged weapons issue.
+<Genoce> Nor does it cover the 'living room Ultima effect'.
+<Hiro> It could also be rather confusing.
+<Jeff> What exactly is this ranged weapons issue?
+<Genoce> Rifles shooting 12 meters.
+<Hiro> I feel the different conversion rates would settle the issue.
+<eldersphinx> The problem I see with twinking scales is making spell AoEs work. Why does a
+ Fire2 hit a 3-meter wide area in single combat, but a 30-meter area in a mass engagement?
+<Genoce> That's what I call the 'living room Ultima issue'
+<Jeff> Point taken.
+<Imagined_Reality> I have it!
+<Imagined_Reality> Because the unit pools all of their powers together.
+<Imagined_Reality> Say you have a unit of Black Mages.
+<Imagined_Reality> They pool their magic together, and execute a larger effect of Fire2.
+<Jeff> Mass engagements, though, won't necessarily always be in units.
+<Hiro> That could be a bit tricky. Besides- just how many FF games have a whole unit of black
+ mages on hand?
+<Genoce> Which also begs the question: if Black Mages can chain together in mass combat, why
+ not in the smaller-scale FFRPG?
+<Genoce> Though there are precedents for that.
+<Jeff> Double/Triple Techs.
+<eldersphinx> And Twin.
+<Hiro> Which aren't core stuff.
+<Jeff> Make them so. :P
+<Genoce> Should we have a core Limit system?
+<Jeff> Tempting.
+<Hiro> Very.
+<Jeff> But it'd piss off those people who want a more old-school FF game.
+<Imagined_Reality> Like me.
+<Jeff> I like them because, again, customization.
+<Genoce> It doesn't need to be compulsory.
+* Jeff nods to M.
+<Jeff> I say we move both Combos and Limits into Core, but tag them with a very prominent
+ "Optional" tag.
+<Demonic_Gerbil> Why not write up a couple different versions (so each different Limit Break
+ style is covered) and then stick them in as optional
+<Jeff> FFX handles it nicely because everyone raises their Limit meters a different way.
+<Genoce> Exactly.
+<Genoce> The way I saw it, we can break it into three trigger types for Breaks.
+<Genoce> What are we going to do in regards to hex ranges?
+<Imagined_Reality> We need scale.
+<Jeff> I like a small scale, but that's just me. Too big, and combat loses realism as people
+ literally are fighting in one hex.
+<Genoce> I mean on a more fundamental level.
+<Imagined_Reality> We need to make it adaptable for ALL distances.
+<Hiro> Why can't we simply go with different conversion rates for REV stats? ie, the rifle
+ example. R:8. Can shoot 8 hexes away or 16 meters. 
+<Genoce> Because it's easier to just say: 
+<Genoce> Rifle. Maximum Range: 450 meters.
+<Genoce> Conversion Chart for Map Combat:
+<Genoce> 200-450 meters = 8 hexes.
+<Genoce> There.
+<Genoce> Values preserved.
+<Hiro> You can shoot farther than the basic range with a penalty for accuracy.
+<Jeff> So a hex is 50 meters?
+<Genoce> No.
+<Genoce> A hex is a hex. 
+<Imagined_Reality> Then we get back to the uniform distance problem.
+<Hiro> I highly down anybody with a Rifle can really shoot accurately something 400 meters
+ away.
+<Hiro> -down +doubt.
+<Jeff> Depends on the rifle.
+<LordMagius> sorry rob, but I can.
+<Genoce> Can I finish?
+<eldersphinx> Depends more on the target. Sitting duck? Sure. Intelligent goblin? Yeah, right.
+<eldersphinx> Go ahead, M.
+<Genoce> As I've said before, the problem is that we're trying to find a uniform scale where
+ there really isn't one.
+<Genoce> The hex values we have are based on FFT for the most part.
+* Jeff nods to M.
+<Genoce> And that's hardly an accurate reproduction of anything.
+<Genoce> Hex combat isn't supposed to really be an 'accurate' representation of the battlefield
+ by that dint.
+<Jeff> I think I see what M's saying.
+<Genoce> We sacrifice accuracy for playability.
+<Jeff> It makes sense.
+<Jeff> Hex ranges and meter ranges are independent.
+<Jeff> Because there's no way we can properly convert the two without scale.
+<Genoce> Yep. OK. Do we want to take the mass combat appendix and run with it?
+<eldersphinx> Mass combat in general, probably. If we're removing Jared's old kitbash.
+<Genoce> I worked out a basic 'unit generation system'.
+<Genoce> Anyway, the way I saw it, it'd involve three types of units.
+<Genoce> Heroes, Units and Engines.
+<Jeff> Engines?
+<Genoce> Siege Engines. 
+<eldersphinx> Reasonable. Though 'Engines' would probably include large monsters as well.
+<LordMagius> War Machines
+<Genoce> Yeah.
+<Genoce> Anything that's larger than a single hero.
+<Hiro> Engines sounds pretty vague.
+<Jeff> Units are composed of multiple creatures/heroes?
+<Genoce> Yeah.
+<Genoce> Basically, the grunts.
+<Hiro> Makes sense.
+<Jeff> So could you theoretically mix the two?
+<Hiro> Units and War Machines can be built through the MCS or something similar.
+<Jeff> Ie, Brigandine has one Rune Knight, then a units worth of monsters under him.
+<Hiro> Langrisser is similar.
+<Genoce> OK, but units are essentially considered one large target with large HP.
+<Jeff> Like Langrisser.
+<Jeff> Alright, I see where M is going.
+<Genoce> The number of people in the unit determines how many times the unit attacks, how much
+ health it has to spare, and so forth.
+<Jeff> Heroes = Commanders in Langrisser, Units = Units.
+<Hiro> Okay, so how do we handle damage in the Unit Scale?
+<Genoce> DC dependent on unit size.
+<Jeff> (Ie, a 4-5 HP unit is not as effective as one at full strength.
+<Genoce> So, Rob wants to handle mass combat?
+<Jeff> I'll work with Rob on it.
+<Genoce> OK. When can we expect to see something?
+<eldersphinx> Will we be able to get much further on a mass combat discussion? Or is it time to
+ send this topic to Development and move on?
+<Hiro> I'd probably say send it to the development. Jeff & I will work on something sometime
+ this week since I'm going to be off.
+<eldersphinx> Sounds good. On to class discussion, then?
+<Imagined_Reality> Let us begin with the Bard.
+<Adam_Sama> Okay.
+<Adam_Sama> For stat boosting spells...
+<Adam_Sama> Basically, the stat boost only last as long as the song is played.
+<Adam_Sama> The Bard must pass a skill check everyone round to continue playing.
+<Adam_Sama> S/he may end the song at any time, but must wait until the next round to begin a
+ new one.
+<Demonic_Gerbil> Uh Adam, so a lone bard wouldn't be able to take advantage of stat boosting
+ songs himself?  IIRC, one of the complaints about the Mimic is how he's dead by himself.  Not
+ letting the bard pump himself up is paramount to the same thing.
+<Adam_Sama> A Bard is a support person.
+<Jeff> He should be able to help himself though.
+<Adam_Sama> There IS, however, another option.
+<Adam_Sama> A stat boost spell last the battle.
+<Adam_Sama> But any job may only be affected by any song once.
+<Adam_Sama> Any stat boosting song, that is.
+<eldersphinx> IIRC, a Bard isn't too shabby in the direct-attack department. That'd allow him
+ some solo capability even without self-boost spells.
+<Adam_Sama> If we go with the every round skill checks, however, I won't eliminate the stronger
+ versions of stat boosts.
+<Adam_Sama> If I run with the second idea, I will.
+<Hiro> I'm tempted to to bring up splitting the stat boosters and stat decreasers between the
+ Dancer and the Bard.
+<Demonic_Gerbil> It bothers me Rob, just cause the Bard doesn't have much else to mess with the
+ enemy in his arsenal.  ^_^  But it makes sense too... the Bard in FF affects his party, the
+ Dancer affects the enemy party.
+<eldersphinx> Sounds fair. The Dancer's always seemed more attack-oriented, and the Bard
+ defense-oriented, IMHO.
+<Adam_Sama> We should, however, keep the attacks on the Bard. Give it SOME attack value.
+* Jeff nods.
+<eldersphinx> Sure. Direct attacks for the Bard is fine.
+<Jeff> I'm gonna agree with Rodger here.
+<Jeff> The Bard should work in opposite to the dancer, otherwise, they're the same.
+<Jeff> Give it some attack capability, but that's ti.
+<Jeff> Er, it.
+<Jeff> We're talking about the Bard.
+<Genoce> So, what's on the Bard front?
+<Demonic_Gerbil> So far, stat down attacks look they're going to the dancer and... (waits for
+ someone else to fill the rest)
+<Hiro> I'm in favor of moving the stat down songs to the Dancer as a way to un-tank the Bard as
+ well as give the Dancer something of use.
+<Jeff> The Bard is a tank?
+<Jeff> Could have fooled me.
+<Genoce> Brandon had a good analysis of the whole profession.
+<Jeff> And the Dancer had stat downs in FFT to begin with.
+<eldersphinx> The main thing that allows the Bard to tank is its healing abilities.
+<Adam_Sama> But as long as the attack songs remain, I think we have a happy medium.
+<Hiro> It's a tank in that it can do almost everything- status conditions, heal, attack,
+ inflict conditions, etc.
+<Genoce> And who is going to handle the Dancer?
+<Adam_Sama> It means the Bard keeps the stronger versions of his stat boosters.
+<Adam_Sama> I have to go afk when we table the Bard for a bit.
+<Demonic_Gerbil> All the dancer needs is the stat down attacks moved over, right?  If that's
+ it, I guess I could do the write up and float it to the list.
+*** LordMagius has joined #returners
+<LordMagius> I'm back
+<Genoce> Hi, Steven.
+*** Haeru has joined #returners
+<Genoce> Hi.
+<Haeru> Greetings!
+<Genoce> OK. So, Bard has been partitioned off. Dancer has been partitioned off.
+<Genoce> Other problem professions...
+<Genoce> Artist.
+<Genoce> Well, the current writeup is extremely screwy.
+<Genoce> Especially with penalties, abilities, out of combat usage, and the Level 83 max.
+<Genoce> The first thing we'd need to do is tone it down to Level 64 as the Ability cap.
+<eldersphinx> Sure.
+<Haeru> For some odd reason, the L64 cap fits the e-games just as much as it fits the demand
+ for lack of powergaming...
+<Haeru> You can get just about everything in an FF game and then beat it by Level 64.
+<Hiro> I'm sure we can manage to fit inot the usual 10 string setup or something similar.
+<Hiro> Or we could ask Richard, who wrote the Artist abilities to figure something out.
+<Genoce> All right. Mimic?
+<Genoce> Question from the floor here...
+<Genoce> Jon Lantzy again. 
+<Genoce> A simple question that's been bothering me about the mimic.  What is wrong with the
+ 2.0 rules for the mimic?  I can understand the reasoning behind trying to merge the mimic and
+ the beastmaster, but I've never been able to get an answer as to why the 2.0 mimic is
+ considered.... broken or unbalanced.
+<eldersphinx> Well, in a group the Mimic is scary. Solo the Mimic is a joke.
+<Demonic_Gerbil> It is?  It can whip out all sorts of fun stuff on the enemy as long as it has
+ a friend nearby. :)
+<Jeff> The Mime worries me.
+*** Teirlap has joined #returners
+<Hiro> Not when you consider the Mimic miming Ultima or Cleave...
+<Adam_Sama_Is_Afk> It's based too much off of the FFT Mime.
+<Jeff> I say we keep the memorization ability.
+<Haeru> On the contrary.
+<Hiro> There's a difference: the FFT Mime had no equipment.
+<Genoce> Hey, Teirlap.
+<eldersphinx> IIRC, the Mimic is most closely based off of the FF5 Mimic.
+<Teirlap> 'Afternoon (or 'Evening).
+<eldersphinx> Hey Teirlap.
+<LordMagius> mornin
+<eldersphinx> Back onto the Mimic. Do we need to do something to give it some solo punch, do
+ something to tone down its power in a large party, or both? Or neither?
+<eldersphinx> IMHO - "The Mimic is lunchmeat on his own, and bloody *nasty* when with more than
+ three other PCs."
+<Haeru> The Mimic never was intended to be a solo character.
+<Jeff> He's not that much lunch meat if he memorizes another's abilities.
+<eldersphinx> Well, that's a question to address. Can the Mimic successfully memorize another
+ PC's abilities and then hold onto them for a long period?
+<Jeff> Didn't it always have that ability?
+<Haeru> Seems a little on the inviting cheese in...
+<Hiro> Maybe we should simply expand the rules for memorizing abilities. I'm tempted to say it
+ should be based on the abilities used. For instance, if he mimes the Fire 1 spell, he can use
+ Fire 1 later. But he can't use Fire 2, because he doesn't know it.
+<eldersphinx> Memorization, yes. How long it *kept* the abilities relied on the GM's kindness.
+<Jeff> Not if limiting factors are applied.
+<Haeru> Until the end of combat? Heh.
+<Jeff> 1) To memorize someone's abilities, you'd need to spend a fair deal of time with them.
+<Jeff> 2) Duration. Can't keep em forever.
+<Hiro> hmm. Maybe limit it somehow based on their level.
+<eldersphinx> Limiting factors on the Mimic.
+<eldersphinx> I gotta say, the Mimic power is probably more twinkable than the Memorization
+ power.
+<Jeff> Indeed.
+<Jeff> Because all a Mimic has to do in combat is....well, Mimic.
+<eldersphinx> Anybody have any objection to *not* giving the Mimic the Mime power at first
+ level?
+<Jeff> What good is a Mimic that can't Mimic, Rodger?
+<Haeru> That seems... iffy.
+<Hiro> For one, any ability that has an initiative penalty must go after the original attacker.
+<eldersphinx> Just let them Memorize a fellow PC's abilities as a starting character?
+<Hiro> I think that's already obvious.
+<Jeff> That might make sense.
+<Jeff> It's more difficult to learn to use a power on the fly, than to study someone and work
+ at it.
+<Hiro> How about this as a limiter for memorization: allow the mime at low levels to only
+ memorize abilities used in battle that they mime. Then at a later level give them an ability
+ to use the abilities used by others that they see.
+<Hiro> Sorta like Visualization from the Blue Mage.
+<Adam_Sama> How long does the memorization last?
+<Jeff> Level or Level/2 in days?
+<Hiro> (XP LVL - XP LVL need for ability)/2 hours?
+<Demonic_Gerbil> THe Mimic should only be able to have a certain number of power memorized at
+ any time, like Magic/3 or something.
+<Demonic_Gerbil> Or he could memorize a whole arsenal and kill everything himself.
+<Hiro> That's another thing that should be added.
+<Hiro> The limit on powers the mimic can memorize.
+<Jeff> And is he memorizing single powers, or a power set?
+<Jeff> Ie, does he memorize dispatch, or all Sword Techs up to the level of the Swordmaster?
+<Demonic_Gerbil> Single powers.
+<Genoce> So, who's going to handle the writeup this time around?
+<Demonic_Gerbil> Maybe he has to be at a high enough level to use them if he was in that job. 
+ SO a low-level mimic doesn't get Quadra-Slice from a high-level NPC Swordmaster.
+<Jeff> Mimic can memorize one power for every 8 levels of experience.
+<Jeff> Therefore, at 64th level, the mimic can have 8 class powers, plus Memorize, plus mimic.
+<Jeff> 10 powers.
+<Jeff> Just like everyone else.
+<Jeff> Someone want to condense everything we just said about the Mimic real quick, so one of
+ us (I'll do it, since I proposed it, if no one else wants), for legibility?
+<eldersphinx> One other thought for the Mimic - create some treasure-items that allow him to
+ 'memorize' abilities that nobody else in the party might have.
+<eldersphinx> Well, say, a 'Paladin' Gem that would allow a Mimic to use Memorize to get Stasis
+ Sword in one of his Memorize slots, even if no Paladins were in the party.
+<Hiro> (XP LVL - XP LVL required for the power)/2 hours.
+<Jeff> DL/Gabe Gilreath had a character like that he wrote, at least similarly speaking. His
+ usable abilities were based off various relics he had equipped.
+<Haeru> I thought of one thing that might be useful as a limiter on the Mimic's powers if 
+necessary.
+<eldersphinx> The Gems also provide something of a fix for the people who are masochistic 
+enough to use a Mimic in a solo game - they can pick up Gems as class items, and be able to do 
+*something*.
+<Demonic_Gerbil> Hmmm...  Do memorized powers require MP to use if the Mimic memorizes a spell?
+<Jeff> The Mimic needs MP dice then.
+<Hiro> d6 should be enough. Or d8.
+<Demonic_Gerbil> I say Memorized powers do, but we leave the Mimic command free of things like 
+that.
+<Hiro> Mimic and memorize are two different powers.
+<Demonic_Gerbil> Anything Mimed is free of any costs.  The Mimic only needs to have enough MP 
+to cast the spell, he doesn't get charged for it when Miming.
+<Genoce> So, who's going to spin all this into a writeup?
+<Jeff> Apparently me.
+<eldersphinx> Next topic is the Geomancer.
+<Genoce> Rodger, do you want to talk this one through?
+<eldersphinx> With the Geomancer, it
+<eldersphinx> 's basically a matter of focus.
+<eldersphinx> Sorry about the rogue carriage-returns, BTW.
+<eldersphinx> The Geomancer can't really do anything but attack.
+<Adam_Sama> It needs some defensive value.
+<Demonic_Gerbil> That's all the FFT Geomancer could basically do...
+<Haeru> They had secondary abilities to back them up in FFT.
+<Jeff> But since you don't know the effect you get until you target the intended AoE, it's hard 
+to try and heal your friends when you could inadvertently impale them with tree branches.
+<Jeff> Hmm, maybe toss in one non attack orientated power per terrain type?
+<eldersphinx> That's about what I was thinking.
+<Haeru> Seems appropriate.
+<eldersphinx> It's actually quite a bit better now that it has the Dancer powers as backup.
+<Genoce> I thought water walking.
+<Genoce> Things like that.
+<Genoce> Kind of consolidate the whole 'ignore terrain' schtick.
+<Jeff> Could do a Camouflage type thing with vanish.
+<Hiro> Or being able to breathe underwater.
+<eldersphinx> I'm thinking that two or three terrains would get a healing ability, three more 
+might get movement - flight, water-walking, or even teleport - and the others would get 
+Defensive abilities.
+<Hiro> Maybe a power to survive harsh environments like tundras or deserts?
+<eldersphinx> One other potential problem I see with the Geomancer is the point at where their 
+abilities top out. 8d6, max.
+<Haeru> Have Geomancy will travel.
+<Jeff> 8d6 is stronger than an Elemental.
+<Hiro> Hmm. That's something that's bugged me in the past as well. But I'm unsure how to really 
+fix it. 
+<Jeff> You could have one 'ultimate' type ability per terrain, too, if you wanted.
+<Hiro> The level 4 attacks were designed to be the be all super power.
+<eldersphinx> I've actually had one thought for a 'high-level' Geomancer power where the 
+Geomancer summons a natural phenomenon.
+<Hiro> Yeah. You can make a Tsunami, earthquakes, typhoons, and all kinds of stuff for level 4 
+powers.
+<Jeff> Ie, Awaken Landscape, or whatever.
+<Haeru> I don't think the Geomancer would really -want- to cause massive landscape destruction 
+unless it was really necessary, much less considering the power of such an event would far 
+exceed any other class...
+<eldersphinx> I'll tackle a write-up on that, but basically it'd allow for a higher level of 
+Geomancy effects, based around the disaster invoked.
+<Genoce> OK. So, Rodger -- do you want to go ahead and spin out a full set of rules and post it 
+to the list?
+*** PoeticJustice has joined #returners
+<eldersphinx> Sure thing.
+<Genoce> Hi, Jacob.
+<eldersphinx> For disasters, BTW, I'm basically looking at four - a Storm effect (Wind and 
+Lightning), an Earthquake (Earth), and two others.
+<PoeticJustice> Hi, Everybody! (Hi, Dr. Nick!)
+<eldersphinx> Heatwave (fire effects and anti-Water/Ice) may make my list. So may Blizzard.
+<PoeticJustice> Where are we?
+<eldersphinx> Geomancer.
+<Genoce> Don't they already have a 'Local Quake' attack?
+<PoeticJustice> Something similar to the Quake spell?
+<Adam_Sama> Something bigger, perhaps?
+<Genoce> Call it 'Magnitude 10'.
+<Adam_Sama> Can we visit the idea my friend came up with for the Black Belt?
+<Adam_Sama> My friend suggested the possibility of a Black Belt being able to hit twice like 
+Yang and the FFI Black Belt.
+<Genoce> Technically speaking, that's what DC does.
+<Genoce> As I see it.
+<Jeff> DC is basically the FF1 "# of hits".
+<Genoce> Hitting twice with a Glove or a Claw is the same thing as dual-wielding a sword.
+<Genoce> You need Two Weapons, plus two Claws/Gloves.
+<Genoce> I wrote this into the Skill description but forgot to mention it earlier.
+<Jeff> But one Job already has auto Two Weapons.
+<PoeticJustice> Hurm....makes logical sense....but I figgured Claws and Gloves were more 
+intuitive -- you punch with 'em, just like a fist...
+<Hiro> Question though: why does the Black Belt need a seperate skill to punch with both hands?
+<Genoce> Because it takes the cheapness factor out of it.
+<Genoce> That's why.
+<PoeticJustice> Good point....it does make it much more rules-sense...
+<PoeticJustice> There's just a lot of prescedence for Monks punching a bunch of times to deal 
+their damage, which wasn't that much more than normal...
+<PoeticJustice> Though Pummel does that, so nevermind...:)
+<Adam_Sama> Next is...
+<Genoce> Engineer.
+<Hiro> Which support powers do we have so far?
+<Genoce> Well, there's Maintenance.
+<Hiro> And Scan.
+<Genoce> Then there's a weaker version of Maintenance for the Engineer's allies.
+<Jeff> Engineer's getting support powers?
+<Genoce> No.
+<Genoce> Not Scan.
+<Genoce> Scan = history.
+<Hiro> Why?
+<Genoce> Because it's an invention-based advantage.
+<Hiro> Scan/Peep/whatever.
+<Genoce> Was an Invention in FF4.
+<eldersphinx> Scan can be provided with an invention. Easy.
+<Hiro> It makes a decent ability for them.
+<Genoce> It doesn't make any sense, though.
+<Genoce> Construct Killer, anyone?
+<Adam_Sama> Engineers start with a single level one invention of their choice?
+<PoeticJustice> Yeah....I'm with M....makes more sense for someone like a Blue Mage to know 
+what the monsters pack...
+<Genoce> Adam - Yes.
+<Jeff> Construct Killer?
+<Genoce> That's their 'Level 1' Ability, so to speak.
+<Adam_Sama> Then they can choose whatever invention does Scan if they want to.
+<Adam_Sama> Let's leave it at that.
+<Hiro> That might be cheap, but it'd make sense.
+<PoeticJustice> They sorta know how to hit mechaincal critters to destroy them, since they know 
+what makes 'em tick...likin' it.
+<Genoce> I also talked to Rodger about giving Engineers the ability to build little robot 
+buddies.
+<Genoce> Yet another FFX item.
+<PoeticJustice> Hehe...also like it. Little mechanical familiars. :)
+<Hiro> That could be kinda dangerous in the right hands.
+<Adam_Sama> Obsessing over FFX already, M? ¬_¬
+<Genoce> You'd better believe it.
+<Genoce> Rob - It's using a modification of the MCS.
+<PoeticJustice> No more dangerous than an animal or similar, I'd think, Rob....
+<Genoce> Animal Companion.
+<Genoce> Only you have to pay for it.
+*** Deathcrow has joined #returners
+<Genoce> Hey, Crow.
+<Deathcrow> Hello
+<Genoce> If you've got a choice between a 500-gil invention and a 500-gil 
+construct/robot/familiar, you start getting a little more differentiation between Engineer 
+types.
+<PoeticJustice> Yeah.....you could eventually have one decked out in gadgets, and one riding 
+around in M-Tek-Armor-Lookin'-Stuff
+<PoeticJustice> Quite cool, I think. :)
+<PoeticJustice> I've been wanting to play a character with little robot buddies. :)
+<Genoce> Incidentally, speaking of that, Joe made the suggestion that Engineers should be 
+allowed to upgrade their inventions, too.
+<Genoce> To save time in PBEMs.
+<Genoce> I think it's a good idea, personally.
+<Genoce> Since they get a starting invention anyway, it'll make it more feasible for Engineers 
+to keep up with the rest of the pack.
+<Adam_Sama> Save time AND money.
+<Hiro> That's something I've considered in the past, although I think at that point, I went 
+about it in the wrong way.
+<PoeticJustice> Sure...."levels" of inventions.....upgrade it to something more potent.
+<Genoce> How so, Rob?
+<Hiro> ie, like Wild Arms where you could upgrade damage, ammo, etc.
+<Hiro> Hmm.
+<Genoce> Wouldn't it just mean swapping one System with another?
+<Genoce> Or adding on Systems?
+<Hiro> Adding systems, more likely. But then- that's what upgrading (essentially) would do.
+<Genoce> Then the cost would be calculated by only the Systems being added.
+<Genoce> As well as the time requirements.
+<PoeticJustice> So something that can scan/peep might eventually also gain the ability to grant 
+a bonus to hit or something....
+<Genoce> Yeah.
+<Genoce> You could keep adding bells and whistles onto a starter invention.
+<Genoce> Which is pretty much in character.
+<Genoce> You can picture Engineers having their one 'ultimate invention' they keep working at 
+and refining.
+<PoeticJustice> Or you could keep the scan/peep, and build something else that does something 
+totally differen?
+<Genoce> Well, you can only get so much mileage out of the average pea-shooter.
+<Genoce> And you can't just turn it into an Armor Generator overnight.
+<Genoce> In some cases the Engineer would have to start from scratch.
+<Adam_Sama> Right...
+<Hiro> We could limit inventions to a maxium of three Systems. Or make inventions based on 
+size.
+<Genoce> Or just make Systems mutually exclusive.
+<Hiro> one system is pretty small. but two is bigger. and three is like a friggin' bazooka.
+<eldersphinx> Actually, a useful limitation might be to subdivide systems into different 
+categories. Say, Attack, Defend, Move, and Perceive.
+<eldersphinx> And any given Invention can only have powers from one category,
+<Adam_Sama> Nice idea, Rodger.
+<PoeticJustice> Better divide it into at least 3...
+<Adam_Sama> Why should an Engineer not be able to make a scope for his rifle?
+<Adam_Sama> Let's see the engineer makes a sort of low powered beam rifle.
+<Adam_Sama> Why shouldn't he be able to make it more accurate through a scope.
+<Genoce> Wouldn't he be using the Sniper Scope weapon accessory?
+<eldersphinx> An invention ability that grants a bonus to attack, for instance, would go into 
+both the Attack and the Perceive categories.
+<Hiro> Doesn't necessarily have to be a Sniper Scope. It could just be a system that grants a 
+bonus to hit.
+<Genoce> Hm. So, should the ability for Inventions to 'link up' be covered as a separate 
+system?
+<Genoce> Like 'Modularity' or something to that effect?
+<Hiro> That might make inventions cost too much.
+<Genoce> Unless it's added outside of Systems as a special feature.
+<Hiro> Actually the modularity system might work: Simply do the scope or whatever as a 2nd 
+invention.
+<Genoce> Any particular cost/time disadvantages?
+<Hiro> I wouldn't say so. Simply make a 1 level System. So if the Scope has a +20% bonus (LVL2) 
+it'd be a LVL 3 invention with the modularity.
+<Genoce> OK.
+<Genoce> We'll have to see how that works out.
+<Hiro> What about other Engineer abilities?
+<Genoce> Bearing in mind that the Inventions are, essentially, the Engineer's progression, I 
+think the four we have might just do it.
+<Hiro> Construct Killer, Robot, Maintenance, and what else?
+<Genoce> The Level 1 invention I considered an Ability, of sorts.
+<Hiro> On a slightly engineer related note, teh Repair skill should have some kind of note on 
+how to repair Damaged or Broken equipment.
+<Genoce> Definitely.
+<Genoce> By the way, any particular objections towards allowing Invent to cover Explosives and 
+Ammo?
+<Deathcrow> It would be the field of chemists
+<Genoce> Hm. Good point.
+<Genoce> Especially as FFX handles it as such.
+<Genoce> OK. So we'll give Alchemy the equivalent of 'Refine'.
+<Deathcrow> Ammo design could be done by engineer, but the chemical components would 
+bwefinitely be chemist
+<Deathcrow> The two of them working together could create killer ammo
+* Hiro nods
+<Genoce> It'd be a nice teamwork incentive if we could pull it off.
+<Haeru> An Engineer has to have fuel for his creations...
+<eldersphinx> Chemist-Engineer teamwork = Double Techs?
+<Deathcrow> Probably
+<Genoce> The new Battery items in Chapter 5 are what I'd pegged as the main power source of 
+Inventions.
+<Genoce> I like it.
+<Hiro> Maybe list explosives or ammo with a difficulty penalty based on how powerful it is.
+<Genoce> Like Recovery and One-Shot items.
+<Deathcrow> The engineer could work on the shell as some kind of invention and the chemist 
+could use alchemy to create the powder
+<Genoce> Hm. Maybe a full-bore section on 'collaborative productions' is worth adding.
+<Genoce> Especially when considering Metalworking.
+<Genoce> Should I tackle the writeup?
+<Genoce> Or does anybody else fancy giving it a shot?
+<Deathcrow> I could try to give it a shot, but you'd have to tell me what you want in details
+<Genoce> OK. 
+<Hiro> Speaking of skills, I have some thoughts on other ways to improve the use of skills. One 
+idea is maybe incorporating different kind of skill rolls if it hasn't already been done. I was 
+thinking along the lines of 'Unopposed Skill Actions', 'Opposed Skill Actions', 'Contested 
+Skill Actions', etc.
+* Hiro ponders
+<Hiro> I was thinking of Opposed Skill Actions to cover Character vs. Character skill uses that 
+doesn't require a Skill Contest. Like using Intimidation on a character would modify the skill 
+user's by the opponent's M. Defense. 
+<Hiro> Or something similar.
+<Hiro> The classic example of an Opposed Skill Action would be the use of a Weapon Skill.
+<PoeticJustice> Wouldn't it usually be Whoever Does it Best Wins?
+<eldersphinx> PoeticJustice: Not when one character isn't using a skill. Do you resist being 
+Intimidated by using your own Intimidation back?
+<Hiro> If both characters had the Intimidation skill and were using it in a stare down, that'd 
+be a Skill Contest.
+<PoeticJustice> Hmmm....good point...I'd say the call would be a Spirit check....but it should 
+probably be spelled out in each skill...which might be what you're talkin' bout, Willis...
+<Hiro> I was thinking of something simpler than a Spirit attribute check. Maybe simply use the 
+resisted attribute x 2 as a modifier.
+<PoeticJustice> Simple is goood....
+<PoeticJustice> So each skill would have an attribute that resisted it?
+<PoeticJustice> Or just Intimidate and similar?
+<Hiro> It could simply be what the skill defaults to.
+<Hiro> In some cases, it might need to be spelled out. This could be done by puting a slash and 
+having what it's resisted with. ie, Intimidation (Strength/Willpower).
+<Genoce> Any objections if I stick my mounted combat rules into the ToM?
+<eldersphinx> None at all.
+<PoeticJustice> It would make sense, there, with the mounts...can't use mounted combat without 
+'em...
+<Hiro> Especially considering the CR never had mounted combat rules. :p
+<Demonic_Gerbil> Question:  Are we going to have all the palette-swapped versions of monsters 
+with their own templates for leveling, or are we going for generic ones like Bomb and set up 
+the templates so the Palette swaps (Grenade, etc.) and their different abilities are derived 
+from this master template?
+<Genoce> The palette-swapped versions are essentially higher-level creations using the same 
+basic template.
+<Hiro> Essentially the format is along the lines of- group monster description, template, pre-
+made monster stats, template powers, monster stats, powers, repeat.
+<Genoce> By the way, feel free to fudge the MCS if you want. 
+<Genoce> I do. 
+<Hiro> Elisha: That's the plan. There will be stats for Bombs, Grenades, and Explosives.
+<Demonic_Gerbil> That's what I figured, just wanted to make sure. :)
+<Hiro> I'm also goofing a tad with the format. I think this might settle a problem M & I have 
+been forseeing for Vol. 1 as far as the templates taking up too much space.
+<Genoce> We can use the reduction in file size to sneak in some additional artwork.
+<Genoce> For something like the ToM, it might be advisable to include a few visual aids, 
+provided they don't end up ballooning the file.
+<LordMagius> After I get the stats finished, and the tome uploaded to the files section, we can 
+pick over the format.
+<Hiro> M: if you have any ideas for lowering the size, I'd be happy to hear them.
+<Genoce> Chop the graphic in half, for one.
+<Genoce> That, and more efficient formatting.
+<Genoce> Anyway, should we consider this issue covered for the time being?
+<eldersphinx> More than likely.
+<eldersphinx> I can't see anything that should be discussed immediately here.
+<Genoce> All right. That brings us to our next topic of discussion:
+<Genoce> Playtesting.
+<Genoce> This is a particularly crucial issue, as I see it.
+<Hiro> To put it bluntly, it's high time we went about getting some serious playtesting done to 
+figure out where the system stands- what needs to be fixed or changed.
+<Hiro> One avenue for at least performing stress tests (ie, seeing how combat handles at high 
+levels) could be done using IRC to do it with.
+<Haeru> I'll go for an IRC game...
+<Genoce> What we'd need -- I worked this out earlier -- is a laundry list of professions that 
+need testing.
+<Genoce> Summoners would be at the top of the list.
+<Haeru> Combat is still a tad slow on IRC, but it works out within a few hours, depending on 
+the scale of the fight...
+<Genoce> Yeah. 
+<Genoce> And a lot faster than having to plot every move by e-mail.
+<Hiro> I've seen IRC games that cover as much in three hours as it would take three months over 
+PBEM.
+<Genoce> All we'd need then is a GM and a confirmed group.
+<Genoce> And a meeting time.
+<Hiro> Pending on how things work out, maybe run the game every other sunday or Monday. Sunday
+& Monday are the days I have off work.
+<PoeticJustice> Monday probably works best for me....weekends are busy....
+<Genoce> Monday evenings...?
+<Hiro> Plus with an IRC game, we can post logs to the site. New gamers can see from them how 
+gameswork.
+<Genoce> Yeah, that's been one request we've been getting.
+<Hiro> Might make for a new intro to the GM Guide when it starts falling into shape after the 
+CR is completed.
+<PoeticJustice> An IRC game is DEFINATELY a good idea....it's one step away from being in the 
+same room.
+<Haeru> Monday would work just fine for me.
+<Hiro> Save for time zones. 
+<Genoce> Hm.
+<Genoce> What times does everybody have open?
+<Genoce> I can try to squeeze something in.
+<eldersphinx> I don't get home until after 6 PM, Pac time...
+<Hiro> Any time sunday or monday works for me. Friday and Saturdays are possible, but I'm not 
+going to have much time.
+<PoeticJustice> So any time Monday.
+<Genoce> OK, let's settle on a GM.
+<Hiro> I recommend Rodger.
+<eldersphinx> I'd take the job, but I probably have less free time than most.
+<Genoce> Unless we do it tag-team.
+<eldersphinx> OTOH, the other people whose talents I'd recommend also have little free time. :)
+<eldersphinx> You and Rob, as the primary suspects. :)
+<Hiro> Tag-Team might be feasible, pending on the storyline. Having two GMs would be a good way 
+to make sure either one gets burnt out.
+<Genoce> Provided there's some kind of consensus.
+<Genoce> Plus we can throw in higher-level professions as NPCs controlled by either GM.
+<Haeru> I have free time, but I feel notorious for being unable to focus on too many games at 
+once...
+<Genoce> I don't think that'll be such a problem.
+<PoeticJustice> And it also allows to experiment with different game styles, a bit...
+<Hiro> I think M & I should be able to work something out.
+<eldersphinx> It strikes me that we may need more than one playtesting group. Making sure that 
+the Level 30 Summoner works is a lot different than making sure that the Level 60 Summoner 
+works, frinstance.
+*** killerb255 has joined #returners
+<Adam_Sama> Brandon!
+<Deathcrow> Hello Killer.
+<Genoce> Hey, Brandon.
+<Hiro> That's more or less 'stress testing'. I was thinking about doing that as well as a 
+campaign over IRC.
+<Hiro> So. Playtesting is in pretty decent shape. Now, do we want to do a regular campaign as 
+well as the stress test?
+<Genoce> We could use it to flesh out Era in the process, too.
+<PoeticJustice> Good point, M.....it'd work pretty well...
+<PoeticJustice> Well, the Era thing.
+<Hiro> The Stress Test likely will be M or me coming up with the stats for different jobs at 
+different levels. Kinda like the test some people might remember me doing ages using Lucas to 
+test new HP formulas.
+<PoeticJustice> The rest....well, we could always play a campaign of multipule stories at 
+once...
+<Jeff> There's the possibility of doing it SaGa style (shudder).
+<Jeff> Basically, there's one story arc, and the characters are at whatever level for it.
+<Jeff> Then, months or years later, there's another, and their levels are raised to X.
+<Hiro> Because the Stress Tests only involve combat and let us get the data we need quickly.
+<Hiro> I was thinking simply generate the characters and some monsters and let them duke it 
+out. 
+<eldersphinx> Let's see how it works. If we need more setting, we can always add it in.
+<PoeticJustice> True, too...Stress Tests don't really need story at all.
+<Adam_Sama> Well, it looks like I'm out on the playtesting gig.
+<Hiro> Right. We just need the cold hard data.
+<killerb255> Well, I'm just catching up, so are they're going to be set jobs to choose from...
+<killerb255> ...namely, the ones that have changed...
+<killerb255> ...or do we pick?
+<Hiro> brandon: THat's more or less what'll be. Most of the character will be the one's we've 
+had trouble with like the Summoner, Knight, Rune Knight, etc.
+<eldersphinx> Back onto topic? Does anybody have a suggestion for playtest material?
+<Genoce> Pretty much everything.
+<Genoce> Summon System is at the top.
+<Genoce> Maybe I'm just exaggerating its importance.
+<Genoce> But it does need to be tested.
+<eldersphinx> Okay. Meet me here at 6 PM Pacific, Tuesday?
+<eldersphinx> 30th level PCs, as many as are welcome?
+<Haeru> Any favored classes?
+<Genoce> Let's see. What's recently been changed to a somewhat playable state?
+<eldersphinx> Just about anything, looks like. The Mimic may be a good choice, if nothing 
+better suits.
+<Genoce> Ninja...
+<Hiro> We have a Berserker, Magic Knight, and Summoner.
+<Genoce> And a Chemist.
+<Hiro> I'll play a Bard.
+<eldersphinx> the Dragoon and the Thief are also obvious candidates, as may be the Archer.
+<Genoce> Archer's not done yet.
+* Demonic_Gerbil is Berserker. URKA!
+<Adam_Sama> Summoner for meee!
+<killerb255> I say Charge and Aim as two different commands for the Archer.
+<Hiro> I say go with five for the first session. We can come up with more later.
+<Haeru> I'll be a Mimic.
+<eldersphinx> Alright. 30th-level characters, 40 points in starting stats, and, say... 30,000 
+gil for equipment.
+<killerb255> ...how many CP?
+<killerb255> nm...that'd be about 600 CP, unless that changed?
+<Adam_Sama> How many summons? >.<
+<Genoce> As many as your MP can handle.
+<Hiro> For HP/MP, there's the formula for high level characters for determining HP relatively 
+easy if I could remember.
+<killerb255> Level x
+<killerb255> (10 + Vitality + 1 die roll lower + Vitality/2)
+<Hiro> (300 x 0.30) 
+<killerb255> right?
+<killerb255> Oh, okay.
+<killerb255> Roll 30 times?
+<Adam_Sama> That's what I say.
+<Demonic_Gerbil> Oh yeah, we're using the new equipment tables right?  Where can I find a copy? 
+:p
+<Genoce> Well, let's get a quick list of the most critical stuff.
+<Genoce> The new lists are definitely at the top of the pile.
+<Genoce> I'm going to have to cut out a few of the kind-of-in-limbo writeups like Blaster 
+Edges, but Throwing Weapons, Two-Handed Swords and Explosives will definitely be available.
+<killerb255> I'll purposely try to munchkin with the Dragoon, then that'll tell me what needs 
+changing.
+<killerb255> The only thing I can think of is High Jump...
+<killerb255> ...combined with Reis's Wind...
+<Hiro> We could state Reis' Wind doesn't work while using Jump.
+<killerb255> ...how about any Regen spell as well?
+<killerb255> ...say that Regen doesn't regenerate while in the air.
+<Genoce> Well, no effects are calculated while in the air.
+<Demonic_Gerbil> Why wouldn't it?
+<Genoce> 'E-game logic'.
+<killerb255> ...or simple anti-munchkin abuse.
+<killerb255> ...kinda the same reason Dragon Spirit only works once per round.
+<Haeru> Power of the Dragon overrides other things?
+<Hiro> 'dramatic hang-time'
+<killerb255> ...otherwise, they would have permanent Life 3/Auto Life/Reraise.
+<Haeru> While jumping, they cannot regenerate, due to all their energy being focused towards 
+the jump?
+<killerb255> So all status effects get slowed down in the air?
+<Genoce> Yeah, I guess you could spin some tale about the expenditure of 'ki' or 'dragon 
+energy' or what have you.
+<killerb255> ...or Reis just doesn't like airborne Dragoons (lame, but I can think of something 
+else).
+<killerb255> BTW, I'm trying to remember if Freya can Regen in the air...
+<killerb255> ...or Kain, for that matter.
+<killerb255> How about if, by chance, a Dragoon does get knocked out of the air with a long-
+range weapon or a spell targetted at the Dragoon in the air...
+<killerb255> ...they fall and take damage?
+<LordMagius> I don't think they recovered in the air, however, if the effect was placed while 
+they were on the ground, it did remain in effect.
+<Haeru> Suspension, in other words.
+<killerb255> BTW, M.  What do you have regarding the Gambler writeup?
+<Genoce> I'm about ready to pass it onto someone else. My plate's about as full as Rob's.
+<killerb255> I'll do it.
+<Genoce> I've been using the excuse that I wanted to use Elemental Wheel as the 'X-Slot' 
+Ability, though.
+<killerb255> It'll probably have more remakes than the Dragoon and Thief put together, 
+considering the immense ideas that came from the list.
+<killerb255> ...right now, I'm thinking of going with the canon first, then add stuff in to 
+balance.
+<killerb255> So far, we have Setzer and Cait Sith as main canon.
+<killerb255> ...with Wakka and maybe Selphie as other.
+<killerb255> Which basically leaves possible powers as:
+<killerb255> Slot Machine: Setzer, Cait Sith
+<killerb255> Dice: Cait Sith
+<killerb255> Magic Slot: Selphie
+<killerb255> Weapon Slot: Wakka
+<killerb255> ...as well as any list ideas.
+<Genoce> Well, if you've got information I don't, go right ahead.
+<killerb255> ...the only thing about Magic Slot is justifying that a 
+<killerb255> ...Gambler would have any form of magic.
+<Genoce> I suppose it can be worked out.
+<Genoce> I'll leave that in your hands, though.
+<killerb255> Ok.
+<Genoce> I'm confident you'll do OK.
+<killerb255> Thanks.
+<Genoce> Uh, I think Rob's got something to bring up.
+<Adam_Sama> Rob now has the floor.
+<Hiro> Well, since things have quieted down I might as go through with a very big proposal that 
+I want to bring up to your attentions. I was hoping Rodger & Jeff would be back in time for 
+this, but pending on the kind of reception it gets, the discussion/proposal willl move to the 
+list. Before you go off the handle, keep in mind that I AM aware that I am not the owner of the 
+FFRPG and will not do this unless I have the support of the Returne
+<Hiro> That said, the proposal is none other than this: retitling the next version of the Final 
+Fantasy RPG as the Returner Engine. Before you go flood me and brandish weaponry, let me 
+explain why I'm bringing this up six years into the game's development. :p
+<Hiro> Ever since we (the Returners) managed to drag the FFRPG back into development after the 
+original founders dumped it, there have been a number of people that have wanted to use the 
+game system for non-FF stuff. I can remember as far back as early '98 people coming forward 
+wanting to do worldbooks for games like Wild Arms or Suikoden. 
+<Hiro> I even went as far as trying to do a spin off of the FFRPG system- the original Returner 
+Engine system. In the end, it was a good idea marred by bad timing since the project started 
+off a few months before the FFRPG Complete (CR 1.0) did. By the time the FFRPG Complete was 
+done, it was obvious that the RE system was unnecessary if the main support was going to be for 
+the FFRPG.
+<Hiro> What I'm proposing will have little serious effect on the game system itself. Most of it 
+will stay exactly the same with the Final Fantasy series working as the 'core' of the Returner 
+Engine but with the extra flexibility to allow easier coverage of other games provided with the 
+proper amount of customization such as rules for race ability, spell, and item construction 
+available in the core. 
+<Hiro> The only significant change *may* be for chapters one and seven (Character Generation & 
+Magic) and even that depends on the discussion the game gets. As Chapter One goes, I'm thinking 
+of using just four basic jobs- Warrior, Mage, Expert, and Adept. Abilities would be determine 
+through sets you could purchase like a Dragon Arts set or a Thief set. These would depend on 
+what job the character has.
+<Hiro> As for Magic, to remove the white magic/black magic moniker, spells would reorganized by 
+category. You would have for instance, Elemental magic, Non-Elemental Magic, Healing Magic, 
+Support Magic, etc. 
+<killerb255> Well...it doesn't sound like a bad idea, I guess if the FFRPG and the Returner 
+Engine remain separate entities, despite the similar rules.
+<killerb255> ...basically 50-60% of both would be cut and paste from each other.
+<killerb255> ...maybe 70% if need be.
+<Haeru> Well, there's the basis of the FFRPG... the skills and stat system..
+<Genoce> It'd be more in line with a heavy duty WBG aid, as I see it.
+<Haeru> That remains consistent between FFRPG and Returner, yes?
+<killerb255> ...but the rest of it is changes needed to make the GURPS-like feel of what the 
+Returner Engine is supposed to accomplish.
+<killerb255> I'd say finish 2.5, THEN make the Returner Engine.
+<Hiro> That might be the best way to go about it. But the Returner Engine would retain nearly 
+everything that makes the FFRPG tick. The only difference will be some changes to the system 
+and most of those will be minor. 
+<Hiro> I see it as a natural development. In this way, the system itself is more tied to the 
+'company/group'. One of the spectres that always been at our back has been Squaresoft showing 
+up one day and telling us to remove the FFRPG.
+<Hiro> I'm not about to see six years of development go down the tubes.
+<Hiro> And four years of my life.
+*** Jared has joined #returners
+<Jared> Heheheheheh.  What was on today's agenda?  
+<LordMagius> You probably don't wanna know.  :)
+<Jared> Yes I do.  Was the beastmaster destroyed?
+<Genoce> No.
+<Hiro> What's the point of having the Beastmaster if it takes *days* to gain his powers if 
+other jobs get them automatically?
+<Jared> We can probably shave that time to hours.
+<eldersphinx> Here's the question. Can we give the Beastmaster some kind of schtick that makes 
+it different from a Blue Mage, without trapping it?
+<eldersphinx> Here's a thought about a way to limit a Beastmaster's abilities without a time 
+lag. What if we gave the Beastmaster 'free' learning ability - no time lag, no inactivity 
+required - but only within a particular type of terrain, or against a particular type of 
+monster?
+<eldersphinx> So at character creation, a Beastmaster might choose to be a Forest-dweller, say. 
+He can learn Rages, through whatever mechanic, against any monster that he fights in a forest - 
+but nowhere else.
+<Jared> Very nice.
+<Jared> It's also canon in a way-Gau could only learn rages on the Veldt.
+<killerb255> You know what?  That's not too shabby.
+<killerb255> ...but still, monster rages are somewhat underpowered anyway, considering that 
+monster attacks don't do nearly as much damage as PC attacks.
+<eldersphinx> ... That's a thought for a high-level Beastmaster ability, though. Some kind of 
+'Shapechanging' talent, into a monster form that the Beastmaster's already learned a Rage for.
+<killerb255> ...they're not underpowered for a monster, but they are for a PC.
+<Hiro> Especially given that it would debend strongly on what kind of monsters the character 
+fights and where.
+<killerb255> ...if the Beastmaster fights 50-pound weaklings for too long, it's not going to 
+get any stronger.
+<killerb255> Anyway, I guess Rodger's idea for the Beastmaster combined with the recent writeup 
+may make for some satisfactory results.
+<killerb255> ...now I need to see the current Mimic writeup to see if it can hold its own.
+<Genoce> Yeah.
+<Genoce> We're pretty much at the end of the line anyway.
+<Hiro> I'm guessing (roughly) we might manage to get the CR ready by late September or early 
+October pending on how well things go with playtesting. RE might be ready around November or 
+early December.
+<Genoce> Let's not get too optimistic.
+<Genoce> Playtesting may reveal additional problems.
+<Hiro> Let's hope not...
+<killerb255> Actually, I'm thinking a little bit after FF10's domestic release is where 2.5 may 
+be complete.
+<killerb255> ...nm.
+<killerb255> ...they pushed that to February.
+<killerb255> ...it'll probably be done before then.
+<Genoce> In which case we'll have to update.
+<Genoce> Again.
+<Hiro> I think there needs to be a cut-off point for the FFRPG. 
+<Genoce> FF10?
+<killerb255> 10 sounds like a good point...
+<killerb255> ...since it is a happy medium between old and new.
+<Genoce> Last one out turn off the lights, OK?
+Session Close: Mon Aug 06 08:00:17 2001
+
+

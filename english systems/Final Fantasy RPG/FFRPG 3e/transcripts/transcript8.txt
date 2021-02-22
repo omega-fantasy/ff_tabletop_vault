@@ -1,0 +1,387 @@
+Session Start: Sun Oct 28 18:01:41 2001
+*** Now talking in #returners
+*** Topic is 'The official channel of Returner Games Inc. This channel is dedicated to the 
+discussion & development of the Returner Final Fantasy RPG. For more information, feel 
+free to visit our web page at http://www.returnergames.com/ | Playtest postposed due to 
+Acts of God - rescheduled for 4 PM EST next Saturday.'
+*** Set by esphinx_afk on Sat Oct 27 21:48:05
+-> *chanserv* op #returners Genoce
+*** ChanServ sets mode: +o Genoce
+<Genoce> Quick question. 
+<Genoce> What does everyone think of having two grades of Status weapons?
+<Captain_Vittles> Two grades?  As in FFX style Attack and Buster?
+<Genoce> Aye.
+<Genoce> Basically, it'd just mean an increased CoS.
+<Genoce> We don't have to do it, but I just thought of it.
+<Captain_Vittles> But a shorter duration.
+<Genoce> Or same CoS, increased duration.
+<Captain_Vittles> It could work.  It would make a high-level status weapon worth taking.
+<Genoce> Well, I'm skewing the Status Conditions anyway.
+<Genoce> I'll save it for the actual talk.
+<Captain_Vittles> Skewing?  I hope this won't affect my spells...
+<Genoce> It just means the better Status Conditions come later.
+<Genoce> OK, I'm just going to leave it at that. I'll have to do a lot of lateral thinking if I 
+want to work in weapons like Tri Edge and Ascaron.
+*** Hiro has joined #returners
+*** ChanServ sets mode: +o Hiro
+<Captain_Vittles> yo
+<esphinx_afw> Heya.
+<Ixquic> Yo.
+<Genoce> Hello, Rob.
+*** esphinx_afw is now known as eldersphinx
+<Ixquic> Well, if we're going to keep these ridiculous prices for Robes, I think we need to 
+toy with the AR and MAR values. I mean, each different piece of armor only offers a few 
+extra points of protection. Which isn't much.
+<Hiro> We could probably the same about all armor.
+<Genoce> Say the same, Rob?
+<Captain_Vittles> Rob has a point.  All forms of armor don't increase by much when moving 
+up the line.
+<Genoce> How much difference do those 'points' make?
+<Ixquic> Little to none.
+<Angel242> At 5 points per armor jump? It might add up
+<Genoce> Just do the same thing we did last time.
+<Genoce> Two characters.
+<Genoce> Same level.
+<Genoce> Same VIT.
+<Genoce> Two grades of Armor.
+<Ixquic> Of the same type, I would assume.
+<Genoce> Obviously.
+<Ixquic> Give me five minutes.
+<Genoce> OK, let's say 2 Level 30 Fighters. 
+<Genoce> VIT 15.
+<Genoce> Wearing Mail.
+<Genoce> Against an attack doing 150 damage.
+<Ixquic> Stone Skin included?
+<Genoce> No.
+<Genoce> While we're waiting for that, let's look at the weapons again.
+<eldersphinx> Hmm. Here's an argument. A Level 30 character, wearing nothing but Clothes, 
+has better Arm and MArm stats than a normal person wearing a Red Jacket.
+<Genoce> That's down to the way Rob changed the armor formula.
+*** Jeff has joined #returners
+<Genoce> Hi, Jeff.
+<Genoce> Adam, what have you got for us?
+<Ixquic> Fighter 1 is wearing Platina Mail. He has a total of 51/41.
+<Genoce> Right.
+<Ixquic> Platina Mail costs 4480.
+<Jeff> 'Lo.
+<Ixquic> Fighter 2 wore Shield Armor. Increasing both stats by TWO.
+<Ixquic> For a difference of...
+<Ixquic> 4380.
+<Ixquic> You pay 4380 more Gil for an upgrade of two points.
+<Ixquic> Fighter 1 takes 99 damage. Fighter 2 takes 97.
+<Genoce> Anyway, if we could cut to the core of the issue here -- the problem here is the 
+same as with the weapons.
+<Genoce> The prices are increased independently of the capabilities.
+<Genoce> Problem 1: Weapon and armor increases are disproportionate to their actual 
+performance.
+<Genoce> Problem 2: Weapon and armor prices are too low in general.
+<Genoce> Now, Problem 1 would be dependent on changing the pricing structure around 
+on a performance-based rather than slot-based model.
+<Genoce> As it is, the next weapon in the series may actually be less powerful than the 
+previous.
+<Genoce> Since things like Elemental Affinities and Random Effects are scattered randomly up 
+and down the progression, there is no actual correlation between what you pay and what you 
+get.
+<Genoce> For instance, take the Enhancer.
+<Genoce> You pay 9600 for that.
+<Genoce> You get +2 MAG, +2 SPR.
+<Genoce> Now, the next weapon in the series is the Falchion.
+<Genoce> You pay 14400 for that.
+<Genoce> And you gain +1 damage.
+<Genoce> In all actuality, we can strip all weapon lists down to four weapons.
+<Genoce> 1d[x], 2d[x], 3d[x], 4d[x].
+<Genoce> No-frills, no special attributes, nothing.
+<Genoce> Each of these four grades of weapons has a number of variants.
+<Genoce> For instance, the 2d10 sword, Mythril Sword, is the 'basic sword'.
+<Genoce> Then you have the Twilight Sun. 2d10 damage, added Random Effect: Blind* at 
+an additional cost.
+<Genoce> Or, for a few hundred gil more, Ice Brand, with Random Effect: Blizzard and Ice 
+Affinity.
+<Genoce> You can throw in +1 damage or +2 damage to go with the effects.
+<Genoce> As a freebie.
+<eldersphinx> Like the Blood Sword and Force Saber, only for everything...
+<eldersphinx> M: Actually, the +1 or +2 damage effects could probably work as straight STR 
+bonuses...
+<Genoce> Good point, Rodger.
+<Ixquic> So, these would all be seperate weapons. 
+<Genoce> Yes.
+<Genoce> I'm just using the term 'variant' because it's slightly easier to visualise.
+<Genoce> Now, with armor, we could do a similar model. The 'grades' of armor aren't quite as 
+neat as the weapon dice.
+<Genoce> But it's possible to break down into a number of basic, no-frills pieces of armor and 
+then make ones with special abilities available at a higher cost.
+* eldersphinx would favor tweaking the armor lists so that Arm and MArm stats increased in 
+jumps of 8 - 12 points per piece...
+<Genoce> We can increase the armor stats *if* we drop the Level bonus.
+<eldersphinx> The Level bonus to armor never made that much sense to me, anyway...
+<Genoce> That way, the level of armor stays about the same, the armor model is more realistic, 
+and armor is worth the money.
+<Genoce> Best possible solution, surely?
+<Jeff[Break]> All this new terminology is necessary?
+*** Jeff[Break] is now known as Jeff
+<Genoce> What terminology?
+<Jeff> Ie, Status+, etc.
+<Jeff> Slow Action/Fast Action being my personal favorites.
+<Genoce> It's there for a reason. 
+<Genoce> Remember the old weapon tables?
+<Genoce> The ones with three or four different ways of describing the exact same thing?
+<Jeff> Yes. I realize that not all of it was a bad idea.
+<Genoce> The Slow/Fast/Reaction system also has its points. 
+<Genoce> Take, for example, Reaction Abilities.
+<Genoce> Let's say somebody attacks a character with Counter.
+<Genoce> The character Counters.
+<Genoce> Now the target has a Counter of their own. Do they counterattack?
+<Ixquic> No.
+<Genoce> Obviously. Otherwise, you'd be sitting there all day. 
+<Genoce> So you could say 'Counter can only be used once' or 'Counter cannot be used 
+against [ability x]'.
+<Genoce> *Or* you can say 'Reaction Abilities cannot be used in response to other Reaction 
+Abilities', and remove any doubt from the matter.
+<Jeff> This is true.
+<Genoce> Or the famous Class/Aspect system.
+<Genoce> We recently had the following question on our board:
+<Genoce> Ok, it's probably clearly stated somewhere and I just missed it but I'm new to this 
+system so give me break...anyway the question is: Does an aspect take on the abilities of the 
+class, or does the aspect only get that aspect's abilities? Does a Beastmaster only get 
+Beastmastery, or does he get Beastmastery and Call Animals? Does a Dark Night get Dark Sword 
+only, or does he get Fighter Skill and Dark Sword?
+<Hiro> This is no longer a factor with the 4 class system.
+<Hiro> Since there is no Warrior job.
+<Genoce> From somebody who's used to the Class/Aspect system, it might seem like an 
+arbitrary change.
+<Genoce> On the other hand, for somebody who's just entering the system, it'd make more 
+sense.
+<Genoce> Anyway. What's next on the agenda?
+<eldersphinx> Damage cap discussion. If we need to have one.
+<Genoce> Well, this one should be fairly simple.
+<Hiro> I think we still need it.
+<Genoce> So, resolution is as follows.
+<Genoce> Does Gravity obey the damage cap?
+<Captain_Vittles> yes
+<Genoce> If yes, then there's no issue.
+<Jeff> The damage cap is nice and logical.
+<Angel242> Then what's the point to using Holy Explosion, when stasis sword does as much 
+damage?
+<Jeff> Stasis Sword is 25% extra damage.
+<Angel242> No, it's 150%
+<Jeff> Holy Explosion is 200%.
+<Ixquic> At level 60, It's possible.
+<Angel242> I have, for damage listings...150, 160, 170, 180, 200. Not including affinity
+<Jeff> Well, if we remove it...
+<Jeff> Quadra Slice finishes off bosses single handedly.
+<Jeff> <Swordsmaster> "Alright, Haste me and sit back. *whack* *whack* *whack* *whack*."
+<Angel242> News flash people...20 strength, just plain old stasis sword=1417 damage at leve l99.
+<Genoce> Anyway. What is it, Adam?
+<Ixquic> Fighter. While everyone seems content with my writeup for the most part, there seems 
+to be one topic being debated. Rifles. Should Fighters be able to use them, or should we leave 
+that up to the GM to decide?
+<Genoce> That's a 'no'.
+<eldersphinx> Given that whether Rifles exist in the -campaign world- is a GM call to start with...
+* Genoce nods.
+<Ixquic> Alright then. No Rifles for Fighter.
+<Hiro> IMO, unless it's a relatively modern or high-tech world, nobody but Engineers should have 
+them.
+*** killerb255 has joined #returners
+<Genoce> Hey, Brandon.
+<killerb255> Hey
+<Ixquic> Howdy.
+*** Demonic_Gerbil has joined #Returners
+<Demonic_Gerbil> Howdy.
+<Genoce> Hi.
+<killerb255> So Rodger, what do you have so far with your new-and-improved Geomancer?
+<eldersphinx> A dead Muse, mostly... :(
+<Hiro> The number of dice rolls for it need to go down, for one.
+<Hiro> That's all, IMO, it really needs badly.
+<killerb255> How many die rolls does it have to use on average?
+<Hiro> You have to roll for Magic%... then you have to roll for level... then for the effect.
+<Hiro> And then damage.
+<eldersphinx> It also needs more high-end powers, IMHO. The current writeup has a bunch of 8d6 
+attacks and nothing.
+<killerb255> ...a lot of the old writeup was also SSDD, as not all of the effects inflicted statuses.
+<killerb255> ...to differentiate between terrain.
+<eldersphinx> The Level and Effect rolls will be combined, at the very least, but it may be possible to 
+build that into the Magic% roll as well...
+<killerb255> ...or maybe just forget Magic%, and just use 1d8?
+<killerb255> ...as the Geomancer doesn't have anything too terribly overpowering to justify chances 
+to miss?
+<killerb255> Sure, if it had 10 and 11d6 attacks, sure, but their most powerful attacks are 8d6.
+<Ixquic> 8d6, while nothing to sneeze at, is not much.
+<Genoce> Technically, neither is Fira. 
+<Genoce> But a Black Mage still has to roll for it.
+<eldersphinx> The Geomancer -should- likely have 10d6 attacks, though.
+<killerb255> Even the highest Samurai Draw Out can do more than that.
+<Genoce> But the Draw Outs also have a chance of failure.
+<Lucas> We want to increase damage.
+<killerb255> Ok, then, let's start from scratch: we have two objectives with the Geomancer:
+<killerb255> 1) Increase damage.
+<killerb255> 2) Reduce die rolls.
+<killerb255> ...ok, 3.
+<killerb255> 3) Eliminate redundancy between terrains.
+<Genoce> Overlap, more appropriately.
+<Genoce> And 4) Add more variety. I think Rodger mentioned that.
+<killerb255> The Geomancer has nothing more than a 2d6, 4d6, 6d6, and an 8d6 attack, regardless of 
+whether he's standing on a building or in a pile of cow flop.
+<killerb255> ...and not all of the effects have statuses to differentiate.
+<Genoce> Just say that Geomancy requires a *significant* amount of terrain to use.
+<killerb255> In other words, and I know it can change, but as the Geomancer stands now: what's the
+ purpose of having different terrain if you're just going to do the same thing?
+<eldersphinx> And the answer to how is: Elemental affinities (we have nine), different Statuses (twelve 
+or more), 
+different areas of effect (four), different beneficial Status effects (several), potentially different damage 
+codes...
+*** Jared has joined #returners
+<Genoce> Hi, Jared.
+<Genoce> Playtests prove bosses are too fragile.
+<killerb255> Exactly.
+<Ixquic> I talked about covering this earlier, Brandon.
+<Genoce> So we go with four times the HP for bosses and six times the HP for super bosses/what have 
+you.
+<Hiro> Which is prolly why they're getting x2, x4, and x6 HP now.
+<killerb255> I think the MCS was made in mind a solo character or a group of two characters fighting 
+whatever is 
+generated out of it.
+<Jared> If one has six characters allayed against him (really, what tabletop GM is going to make half his 
+players sit on their duffs while the other half does all the adventuring?)  Their HP can go down damn fast.
+<Hiro> And x2 for minibosses.
+<Genoce> Right.
+<Genoce> Yeah, but you're supposed to crank up the Level if the party is larger than 4.
+<eldersphinx> M: Large groups of characters are always going to have a better time against single bosses 
+than small groups of characters. I'd suggest a sliding scale for boss HP - x(number of opponents) for normal 
+bosses, 
+x(number of opponents *1.5) for super bosses.
+<eldersphinx> Going back to the Geomancer, one more question.
+<eldersphinx> We have three canon sources for Geomancer powers - FF5 Job, FF6 Mog, FFT Job. Which 
+ones should Geomancer powers be based on?
+<Ixquic> A mixture of the tree.
+<eldersphinx> I'm in favor of a five-power string for each terrain - combine the one power from FFT and the 
+four FF6 powers where possible, sub in the FF5 powers to fill any holes (for instance, no Building dances in 
+FF6). Any objections?
+<Genoce> None.
+<Jared> Nope.
+<Captain_Vittles> notta
+<killerb255> None here.  That makes 2d6, 4d6, 6d6, 8d6, and 10d6 with some varying effects.
+<eldersphinx> I also intend to start most powers with 3d6... in line with the new magic effects.
+<Hiro> I don't think the extra 1d6 will do much trouble.
+<killerb255> So will a d10 roll be what governs which power comes out, or will Magic% be?
+<eldersphinx> Brandon: Not sure yet. I may leave it with a random roll, I may base the power effect on the 
+Magic% roll...
+<killerb255> ...I don't have the writeup.
+<killerb255> ...and the penalties for each: -4, -8, -12, -16, and -20?
+<eldersphinx> I've got Elisha's writeup, I'll look it over.
+<killerb255> ...and I'd also start with having only up to the Level 3's available early, as the Geomancer needs 
+some reason to level up.
+<Ixquic> the good thing about Mog's Dances is a ton of them had healing effects.
+<Captain_Vittles> Make it based on FFT.  Wherever the Geomancer stands, that's what they use.
+<eldersphinx> ... I'll write up assuming that we're going with a Geomancy table that uses random 
+power selection, and we can tweak as needed. It's going to have random power selection *or* 
+Initiative penalties - not both.
+<killerb255> That's true.  Random mechanics tend to upset any need for Initiative Penalties.
+<Captain_Vittles> It's the whole "one penalty only" rule.  Only summoners take 2 penalties.
+*** Lumaga has joined #returners
+<Lumaga> wow, full house
+<eldersphinx> BTW, question on Summons. If they don't use a Magic% roll, how do we use CoS summons 
+in R&E?
+<Genoce> Most Sundays generally are, Matt.
+<eldersphinx> Adam: Well, suppose you summon Siren to cause Silence. Take a -10% Init penalty and pay 
+50 MP, right? Make no Magic% roll, because it's a Summon. Now Silence generally has a (Magic%-15)-MDef 
+to take effect, right? How does that work for Siren's power?
+<Captain_Vittles> Status summons should be subjected to (Magic%-modifier)-MDEF, just like a status spell.
+<killerb255> Status *anything* should be subjected to that.
+<killerb255> ...unless otherwise stated.
+<killerb255> In other words, I guess its safe to say, in the FFRPG, if it uses MP, it's magic.
+<Captain_Vittles> Leave it for later, when we can do some serious magic combat testing.
+<killerb255> As it stands now, Job powers always hit, unless they're status-related or special cases (Steal, 
+Break, etc.)
+<Hiro> Right.
+<Captain_Vittles> So a Paladin could use Holy Explosion every round, and all he pays is time?
+<Hiro> Yes.
+<Captain_Vittles> Whereas a mage pays time (the round itself), MP and a chance to miss?
+<killerb255> Mages don't pay time, as they don't have Initiative penalties (Summoners being the exception).
+<Captain_Vittles> They still use the round for their turn.  Paladins and Mages both spend the time.  Paladins 
+go later but always hit.  Mages go immediately, spend MP and may miss.
+<killerb255> Magic uses Magic%, other Job powers always hit.
+<Genoce> Though not always their intended target.
+<Captain_Vittles> Well, for now we'll leave it as it is.
+<killerb255> ...it can change upon a comparison playtest or something.
+<Captain_Vittles> Like I said, heavy duty magic combat testing is needed.
+<Captain_Vittles> Actually, I just wanna see if Magic% causes more misses than hits.
+<Captain_Vittles> If not, then I don't care how often Paladins can use Holy Sword.
+<eldersphinx> So a question on Paladin-like powers - do they do too much damage? I mean, look at their first 
+power, Stasis Sword. Half again normal damage, a Holy affinity, a flat (no MDef allowed) chance to Slow the 
+target, and area effect. All for -2 Init.
+<Captain_Vittles> 150% is ludicrous
+<Captain_Vittles> Area effect + element + status = more than enough
+<eldersphinx> I mean, knock it down to normal damage and single-target, and it'd probably still be a bargain 
+as a useful ranged, Holy-element attack.
+<killerb255> ...and they get it at Level 5.
+<killerb255> If anything needed to be changed, just tone down Stasis Sword (and maybe Black Wave) to 130%.
+<Captain_Vittles> 125%  :p
+<Captain_Vittles> Easier to calculate
+<Genoce> 25, 50, 75, 100.
+<eldersphinx> Even better. 120, 140, 160, 180, 200.
+<Captain_Vittles> 0, 25, 50, 75, 100
+<Ixquic> I move for a vote. Let's settle this here and now.
+<Ixquic> Rodger's idea versus Blair's on Holy Sword.
+<Genoce> OK, I'm throwing in for Blair.
+<Angel242> If I can't keep the status quo, I'm better off with Rodger than Blair
+<eldersphinx> I'm voting for Blair's numbers.
+<Captain_Vittles> I vote for myself as well
+<Ixquic> Rodger.
+<killerb255> I'll agree with it.
+<Lumaga> i vote blair
+<Ixquic> 5-2.
+<Ixquic> Motion carried.
+<Genoce> OK, guess we have a resolution. 
+<Genoce> What's next on the agenda?
+<Genoce> Sunday.
+<Genoce> A double-feature playtest over the weekend would be ideal.
+<Genoce> We really need the time.
+<Captain_Vittles> Im tweeking my monster, but can't promise anything yet.
+<eldersphinx> Saturday is the Level 30 magic playtest. I'm running it. Sunday may potentially be Blair's baby.
+<Ixquic> We need a new Barbarian released. The new Samurai and Geomancers written up. And mucho 
+playtesting is needed.
+<Genoce> OK. So we'll have a To Be Confirmed for Sunday. 
+<Captain_Vittles> OK, I'll tentatively say I can do it.  As I really don't have anything concrete next weekend.
+<Ixquic> I can take over Sunday if Blair goes MIA, I guess.
+<Hiro> A November is looking really unlikely. We'll be lucky if it's ready by Christmas.
+<killerb255> M and I figured that much yesterday, Rob. :)
+<Genoce> And in January FFX comes out.
+<Captain_Vittles> Level 65, 65000 gil.
+<Captain_Vittles> One artifact, must be approved by me
+*** Captain_Vittles is now known as Amy`
+<Amy`> Oh!  For the benefit of those present, I'll tell you the currently taken but maybe availble artifacts.
+<Amy`> Ribbon, Minerva Plate, Save the Queen, Excalibur, Wing Edge, ... something else
+<Amy`> Rob - is the Hero Ring an artifact?
+<Amy`> Hero Ring is taken
+<Amy`> Save the Queen will probably open up, as that's Mike's weapon.  But I may use it for my back-up 
+NPCs.
+<killerb255> ...I'm thinking about withdrawing my addition of Swallows to the Thief, as, although they're a 
+canon Thief weapon, they're pretty damn big...
+<Genoce> That's why you need Polearms Skill to use them.
+<killerb255> ...however, d8 damage x 2 may be some trouble, as that would be the single most powerful weapon.
+<Amy`> It's 2 separate attacks
+<Amy`> One could miss
+<killerb255> Never mind, I see where it says it now.
+<Amy`> Axes are too weird for sword magic, agreed?
+<Angel242> If you call it sword magic, yeah. But if you call it weapon magic...
+<Amy`> So for sword magic - Swords, 2H Swords, Katana, Knives and Ninja Knives?
+<killerb255> Right now, what I'm doing with the Master Skill list is to rank each one from 1 through 10, 10 
+being the most useful.  I'm not sure how helpful this will be in solving our Skill problems, but I think it would be 
+a start.
+<killerb255> Example: Cooking = 3 Climbing = 9
+<Genoce> Hey, any objections if we run through the Skills now?
+<Genoce> And everybody throws in their numbers?
+<Genoce> We might as well take advantage while we've got the chance.
+<Jared> Sabin, Tifa and Amarant relied on weapons for their attacking power, and Yang and the FFT monks 
+could pummel you senseless while barehanded.  Are there rules for unarmed combat by monks?  
+<Galen> Yes. Wearing gloves. :)
+<killerb255> The thing is, each Monk/Black Belt can either go barefisted OR use weapons (FF3j being the 
+exception).
+<Genoce> I have rules for brawling somewhere in the archives.
+<Genoce> Buried in one of my 'let's cram as many things into one post as possible' posts.
+<Genoce> Gloves being the standard 'unarmed' weapon.
+* Genoce waves off.
+<Ixquic> Peace, Gentlemen.
+<Genoce> Last one out turn off the lights. 
+Session Close: Mon Oct 29 06:01:04 2001
+

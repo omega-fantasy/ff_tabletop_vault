@@ -1,0 +1,870 @@
+Session Start: Sun Aug 26 20:26:08 2001
+*** Now talking in #returners
+*** Topic is 'The official channel of Returner Games Inc. This channel is dedicated to the 
+discussion & development of the Returner Final Fantasy RPG. For more information, feel free 
+to visit our web page at http://www.returnergames.com/. | During test games, please use 
+#returners2 for non-game related chat'
+*** Set by Bernard` on Wed Aug 08 04:42:43
+*** ChanServ sets mode: +o Genoce
+*** Hiro has joined #returners
+*** ChanServ sets mode: +o Hiro
+<Genoce> Hey, Rob.
+<eldersphinx> Hey Rob.
+<Hiro> Hey.
+*** Ixquic has joined #returners
+<Genoce> Well, well.
+<eldersphinx> Alo, Adam.
+<Ixquic> Okay. I'm going to send this to everyone ahead of time.
+<Ixquic> A couple things.
+<Ixquic> There are no ranges yet. I'm working on deciding on those now. Init penalties will 
+be added in at a later time too. I'm looking through the CR to get ideas about them.
+<Hiro> There's a conversion scheme for the ranges. 
+<Hiro> btw, M, does that same conversion rate cover 'Effect' as well?
+<Genoce> No. Blair and I were discussion Effect the other day.
+<Genoce> We settled E:2 at 4 to 8 meters, but haven't decided on E:3 and E:4.
+<Ixquic> And instead of going with 1/10th of the damage restoring MP, we switched to MP cost. 
+So, if a RK absorbs Fire, they get 4 MP back.
+<Ixquic> However, Destroy Sword is not canon. We went with statuses instead of stat reductions. 
+Stat reductions are the Dancer and Knight's forte.
+<Ixquic> So far, there have been no problems with the ability set as is.
+<eldersphinx> Alright. First note - Destroy Sword needs ranges.
+<Genoce> Real ranges.
+<Ixquic> Mighty Sword ranges could work.
+<Genoce> Just use the old ranges and convert them to meters.
+<eldersphinx> Question: If we're rebuilding the ranges anyway, can anybody think of a reason to 
+not rebuild the ranges from the ground up?
+<eldersphinx> Well, I was thinking that for spells and similar effects, we'd probably have 
+better luck defining a person's "full move", and then figuring out how many rounds a person 
+charging a mage would be under fire.
+<eldersphinx> Okay, assume that a person can move (10+Speed) meters per round.
+<Genoce> Uh-huh.
+<eldersphinx> If a Fire1 spell has a range of 15 meters, then a mage can only get off one spell 
+before the enemy charges, gets to point-blank range, and knocks the mage down.
+<Ixquic> 1 hex equals how many meters again?
+<Genoce> It doesn't equal anything, Adam.
+<Genoce> It's a non-fixed rate of conversion. 
+<eldersphinx> If the spell has a 30 meter range, the mage can cast two spells. And so on.
+<Genoce> Let me see. 
+<Genoce> Fire 1 has R:4.
+<Genoce> Using the conversion chart...
+<Genoce> R 4           21 - 40
+<Genoce> We can assume around two or three Rounds of fire at that range, in other words.
+<Genoce> HEX RANGE      METER RANGE
+<Genoce>    R 8          251 - 450
+<Genoce>    R 7          101 - 250
+<Genoce>    R 6           71 - 100
+<Genoce>    R 5           41 - 70 
+<Genoce>    R 4           21 - 40
+<Genoce>    R 3            3 - 20
+<Genoce>    R 2      Extended Melee (2)
+<Genoce>    R 1          Melee (1)
+<Demonic_Gerbil> You know, if you're giving guns 100+ meter ranges, spells and class powers 
+should have them too otherwise everyone will just use guns and spend weeks at a time lying in 
+wait for the perfect shot.
+<Genoce> You realise that guns are restricted and bow ranges are STR-dependent, right?
+<Genoce> And those are the maximum ranges.
+<Genoce> Attacking at anything above Safe Range means that you incur hefty firing penalties.
+<eldersphinx> IMHO, one of the major advantages of spells (or a disadvantage of guns, if you'd 
+like) is how cover comes into play.
+<eldersphinx> With a spell, you point at a location, and the spell effect bursts from that 
+point. With a gun or projectile weapon, you have to have a straight line from the gun muzzle 
+to the point you're trying to hit.
+<Genoce> Unless the target is completely covered.
+<Genoce> You'd need LoS to hit anything with a spell.
+<eldersphinx> So if there's someone crouched behind a wall, and you have a gun, you're SOL. But 
+if you have a Fire2 spell handy, you can bring the spell up just above the enemy's head, and 
+toast him.
+<Ixquic> Another thing we should talk about soon is my idea about spreading spell effects.
+<Genoce> Or indirect targeting. 
+<Genoce> 'Barraging', so to speak.
+<Genoce> It's like artillery fire. If you have something with E:2 or E:3, you could try hitting a 
+target in cover by firing a shot at a point adjacent to it.
+<Hiro> How would this be handled in game terms?
+<Genoce> Just saying that E:2 and E:3 effects don't need an LoS.
+<Hiro> Sounds sufficient.
+<Genoce> Incidentally, if nobody's got any objections, let's quickly work out a conversion scheme 
+for E.
+<Genoce> How large would you say Ultima's area of effect is?
+<Genoce> 20 meters?
+<eldersphinx> How about this for an E: conversion? (Hexes)^3 meters.
+<eldersphinx> E:2 would be an 8 meter diameter effect.
+<eldersphinx> E:3 would be 27 meters.
+<eldersphinx> E:4 would be 64.
+<eldersphinx> Round as desired.
+<Genoce> Let's round it to this.
+<Genoce> E:2 4-8 meters.
+<Genoce> E:3 9-25 meters
+<Genoce> E:4 26-60 meters
+<Hiro> Well, Ultima would certainly be able to nuke a city block with those kind of ranges.
+<Genoce> It *is* supposed to be the ultimate magic.
+<Genoce> And it's preferrable to the 'living room Ultima' the last edition had.
+<eldersphinx> I mean, it's not Lavos' Awakening or anything, but...
+<Ixquic> It's no small chunk of change either.
+<Genoce> If a Mage character reaches Level 60 or so, they should have something to show for it.
+<Genoce> This does raise another question.
+<Genoce> Should we assume those 'all allies' recovery items and effects automatically have E:60?
+<Hiro> Woah.
+<Genoce> Or E:30.
+<Hiro> This could be a big problem for groups in melee. 
+<eldersphinx> The question of how Focused and Unfocused abilities work is also going to start 
+mattering here, I think.
+<Genoce> All spells are inherently unfocused.
+<eldersphinx> According to FFT. In the other FF games they were distinctly non-Unfocused.
+<Genoce> That's because there was no opportunity for friendly fire in those games.
+<Hiro> Right. Good guys on the right, bad guys on the left.
+<Genoce> You never got somebody in the middle of the enemy ranks after making an attack, after 
+all.
+<Genoce> That's because there was enough of a theoretical divide between the two.
+<Hiro> That mystical line where characters have to leap over to hit their opponent.
+<Hiro> Keep in mind that combat in the FFRPG isn't like the majority of the FF games. There is 
+no enemy & ally sides and the mythical line that divides the two that the heroes must leap over 
+to hit their opponents.
+<Genoce> You'd have to be stupid to stick around inside a Mage's area of fire, considering you 
+can move before and after an attack.
+<eldersphinx> Elisha - Even if all spells are unfocused, a mage who aims carefully can take out 
+several opponents.
+<eldersphinx> Take the following line:
+<eldersphinx> Hmm. Nevermind the map attempt. Say you have a line of PCs in melee with a line 
+of monsters. Three on each side.
+<eldersphinx> If each character or monster takes up an area 2 meters square (and that includes 
+room to maneuver, swing weapons without poking allies, or so on), the fight's six meters wide 
+by four meters deep. A Fire2 spell would catch the entire fight, if dropped in the middle of 
+it.
+<eldersphinx> But if the same spell was dropped 5 meters *behind* the fight, the three 
+monsters would all get caught, the PC in the center of the line might catch a bit of the edge, 
+and neither of the other 2 PCs would be touched.
+<Hiro> Or, Mages could be given the option to tone down the area of effect.
+<Genoce> Didn't we already give Mages the ability to adjust the effects of their spells?
+<Genoce> This was Rodger's idea.
+<Genoce> In that case, this is a non-issue.
+*** Captain_Vittles has joined #Returners
+*** ChanServ sets mode: +o Captain_Vittles
+<Genoce> Hey, Blair.
+<Captain_Vittles> hello
+<Hiro> We've been discussing the Effect stat for spells and some other range related stuff in 
+general.
+<Genoce> We actually don't need a range profile for caster-only.
+<Captain_Vittles> I assume that 4-8 meters mean a radius of 4-8 meters?
+<eldersphinx> Radius, or diameter?
+<Genoce> Actually, radius might be a bit excessive.
+<Captain_Vittles> Radius, because it's easier to target
+<Genoce> Then you should probably hack the numbers in half.
+<Genoce> So if we're using radii, it'd look more like this.
+<Genoce> E:2 2 - 4
+<Genoce> E:3 5 - 15
+<Genoce> E:4 16 - 30
+*** lime_boi is now known as Limeboi
+<eldersphinx> ... Though as a thought, would a penalty to the spell's MDC maybe work better?
+<Captain_Vittles> Example time
+<Ixquic> 2/3rds after MDC is what I say.
+<eldersphinx> Blair - I'll run a set of numbers too, if you don't mind.
+<Captain_Vittles> Firaga on one target - 100 damage.  Firaga split to attack many targets - 
+66 damage
+<Hiro> I think it'd be easier to calculate 2/3s of the damage rather than MC. 
+<Captain_Vittles> Though by reducing MDC, the mages could have a set Single Target MDC and 
+Multi Target MDC
+<Hiro> Hrm. That means keeping track of two different MDC stats.
+<Captain_Vittles> How do you split MDC x1?
+<Genoce> A Mage wouldn't have MDC x1 by the time he got to split spells, would he?
+<eldersphinx> Here's an example of FFRPG rules using a straigt 2/3 damage split.
+<eldersphinx> Fire2 - 4d6 damage, Magic 16. MDC x4.
+<eldersphinx> ST average damage: 14 + 16 x 4 = 120.
+<eldersphinx> MT average damage: 14 + 16 x (8/3) = 80 to each target.
+<Captain_Vittles> I have the lowest spells being splittable
+<eldersphinx> -40 damage, but hitting a 4-meter area instead of a 1-meter area. Quite fair, 
+IMHO.
+* Captain_Vittles nods
+<Captain_Vittles> And I can get around the MDC x1 thing by making low level spells single 
+target only
+<eldersphinx> Or possibly rule that they *can* be cast as MT, but only by mages with MDC 
+x2 or better.
+<Captain_Vittles> Too many rules.  I'd rather just have them single target.  Besides, how 
+many low levels mages fight excessive numbers of monsters?
+<eldersphinx> Anybody think that not allowing mages to MT before they reach Level 8 is going 
+to break the game?
+<Hiro> It'd be easier to just make them single target. By the time most mages get x2 or x3, 
+they'll be close to being able to using LVL 3 Magic.
+<eldersphinx> The new Primary progression gives mages Level 2 spells at Level 9, yes?
+<Hiro> Another thing to keep in mind- most mages aren't going to be doing much damage with 
+LVL 1 magic.
+<Captain_Vittles> The new one is at 8.  :p
+<eldersphinx> A lucky (and good) low-level mage will do 18 damage with a Fire1 - that would 
+split to 12 damage under the current system.
+<Hiro> Not that much damage when you start factoring in M. Armor.
+<Captain_Vittles> Might as well leave them as Single Target.
+<eldersphinx> So under the current system, mages get Level 2 magic and MDC x2 at the same 
+time. Sounds like a good place to put the first ST/MT spells...
+<Captain_Vittles> Level 2 just introduces the stronger spell 'families', like Poison and 
+Water.
+<Hiro> Think of a LVL 5 monster (LVL x 1 M. Armor) w/ SPR of 5. 10 M. Armor right there.
+<Captain_Vittles> Ummm, are Rune Knights supposed to get to Level 6 Red Magic?
+<Captain_Vittles> The spell progression says 4, Adam's prototype says 6.
+<eldersphinx> I wouldn't mind allowing Paladins and Dark Knights to have Level 6 magic, 
+actually.
+<Genoce> If we go with 6, it'd mean getting rid of a few Abilities.
+<eldersphinx> Cecil's (limited) spell selection did include Remedy and Exit, after all.
+<Captain_Vittles> I'd rather just limit their magic.  :p
+<Genoce> And strictly speaking, wouldn't that make them Adepts rather than Fighters?
+<Captain_Vittles> I'll just start splitting spells at spell level 3
+<eldersphinx> I would like to see mages get *some* option to split a spell before Level 18 
+or whenever they get spell level 3 magic... but hey.
+<Captain_Vittles> Level 15
+<Hiro> I don't think there are many multi-target at levels 1, 8, or 15.
+<eldersphinx> I think the General has a couple of powers that MT.
+<Genoce> Can I give a quick note about 'multi-targeting'?
+<eldersphinx> M: Sure.
+<Genoce> OK. In technical terms, a multi-targeted Spell wouldn't actually allow you to 
+choose multiple targets.
+<Genoce> It would be more like this.
+<Genoce> You select a target.
+<Genoce> Then everything within (E) meters of the targeted point gets hit.
+<Captain_Vittles> But having the single/multi difference means you could take a spell that 
+would normally hit allies and monsters, and focus it on one monster for better damage.
+<Genoce> I don't mean that there wouldn't be a difference, Blair.
+<Genoce> I'm just pointing out how 'multi-targeting' essentially works.
+<Captain_Vittles> You don't need a map to say "everything within 4 metres gets hit"
+<eldersphinx> It may be a good idea to rename "Multi-Target" to "Area Target" to clarify 
+matters, and to help people make the switch.
+<Captain_Vittles> good idea
+<Genoce> Seconded.
+<Captain_Vittles> Look at the way it's set up right now.  The spells hit an area, but you 
+need a map to put a quantity on the area.  This way, we're eliminating the map.
+<Demonic_Gerbil> But you'll still need a map.  Unless the GM wants to define everyone's 
+position relative to each other without a map to show it.
+<Genoce> That's not that hard.
+<Genoce> That's about par for any pen-and-paper RPG, Elisha.
+<Demonic_Gerbil> Maps and "you're all here, they're all there" are so much easier to 
+manage. ;-)
+<eldersphinx> Face it, if we put the combat system into numbers, we're never going to meet 
+anybody who actually runs all the calculations.
+<eldersphinx> But we *will* be providing the best common ground between the "Take the numbers
+ and set up a map" crowd and the "Look at the numbers, wing all the ranges, and trust the GM's 
+judgement" crowd.
+<eldersphinx> Providing a system that's easily flexible in *multiple* directions is more 
+important, IMHO, than providing a system that fits really well into only one style of combat.
+<Genoce> Seconded. 
+<Genoce> You can always shave off layers of detail as needed.
+<Genoce> It's easier to drop things than it is to build them up.
+<Genoce> Related question: what about V?
+<eldersphinx> Straight conversion to meters up/down, just like E.
+<Captain_Vittles> You know, E could handle V
+<Genoce> I'm wondering if V isn't superfluous.
+<eldersphinx> Blair: But we don't necessarily have perfect spheres for all effects.
+<eldersphinx> Skean bursts, for instance, would likely cover an area in an 8 meter radius from 
+the burst point, but only go "V" by 2 meters tops.
+<Genoce> But bear in mind that 'height levels' aren't really going to be as neat as they were 
+in FFT.
+<Captain_Vittles> This leads to one of my ideas...
+<eldersphinx> It may be possible, with Effect areas, to define 'vertical' in terms of a spell 
+shape rather than a meter measurement.
+<Captain_Vittles> All spells (and powers I suppose) could be written as Type R:? E:? V:?  
+Example: Firaga - Sphere R:X metres E:X metres (No need for V in this case).
+<Hiro> Like giving each spell a V rating equal to its LVL/2.
+<eldersphinx> Blair - You caught my thought. A spell with a 'Circle' area would be a flat 
+circle burst, a 'Sphere' would have a maximum height equal to its horizontal radius, etc.
+<Genoce> This gets back to what we discussed a while back, Blair.
+<Captain_Vittles> Skeans would be Circle (R:? E:? V:? less than E)
+* Captain_Vittles nods to M
+<Captain_Vittles> Quake would be Circle with V:0
+<Genoce> Shouldn't be that hard to get a quick 'vocabulary' of effects together and convert 
+accordingly for V.
+<Genoce> So, we've got Circle, Sphere, Beam...
+<Genoce> Pillar?
+<Genoce> Something meaning that it's the same V everywhere...
+<Genoce> Like Meteor.
+<eldersphinx> Cone is something of an off-the-wall possibility, as well.
+<Genoce> Saturate?
+<Genoce> 'Pillar' sounds silly in that context.
+<Genoce> I'm more inclined to say 'Saturate'.
+<Genoce> Meteorites don't really discriminate.
+<eldersphinx> Pillar, V: Infinite may work better as a separate type of area effect.
+<Genoce> Yeah, because that implies it's a solid mass of an effect.
+<Genoce> 'Saturate', on the other hand, is more of a steady bombardment.
+<Captain_Vittles> Pillar will be rather limited.  How many spells use it?  One Light and one 
+Dark spell I think...
+<Captain_Vittles> Though Pillar could apply to 'enchantment' spells, like Might or Aura.
+<Genoce> What's the point? They're single-target anyway.
+<Genoce> This would only be the case for area effects.
+<Genoce> In case of a single-target, the V component is incorporated in the range.
+<Captain_Vittles> Single Target would just be listed as Single Target, R:Whatever.  And Caster 
+would just be listed as Caster.  :p
+<Genoce> No need to have a whole range profile just for something that's caster-only.
+<Genoce> We should write this up together with the conversion notes for hex scale and release it.
+<Genoce> Do you want to write up the types?
+<Genoce> We already have the straight R/E conversions.
+<Captain_Vittles> What are we using?  Circle, Sphere, Pillar, Caster, Single, Saturate...
+<eldersphinx> Beam.
+<Genoce> I don't think we have any cone effects...
+<Genoce> Some spell effects could theoretically be cones.
+<Genoce> Magic Breath comes to mind.
+<Genoce> Or Megaflare.
+<Captain_Vittles> Though you could easily say Bahamut flies in and toasts an area with a Saturate 
+or Pillar effect.
+<Genoce> Anyway, that about covers the range issue. 
+<eldersphinx> On to Job discussion?
+<Genoce> OK.
+<Genoce> What professions need to be covered today?
+<Genoce> Adam wants Bard time.
+<Genoce> Let's start with that.
+<Ixquic> Okay.
+<Ixquic> Rob wants more beneficial status songs.
+<Hiro> In particular, I think the Bard could use songs that have the same effects as Protect, 
+Shell, and (Possibly) Reflect. 
+*** KillerB has joined #returners
+<Genoce> Brandon.
+<Genoce> Hey.
+<KillerB> Hi
+<Genoce> I'm fifty-fifty on that. 
+<Genoce> We don't want to turn the Bard into a singing White Mage.
+<Captain_Vittles> The Haste song should be higher.
+<Hiro> The Song of Hermes shoudl be LVL 6 or LVL 7.
+<KillerB> The Haste song should be at least a higher level than that of the White Mages' song 
+levels...
+<eldersphinx> If the Bard gets songs that act as Protect and Shell (Level 4, say?) but no Barrier 
+or M. Barrier, it has a significant disadvantage over White Mages. Would you rather chain-ST a Bard 
+Song, or cast a single Barrier WM on the party?
+<Captain_Vittles> The barrier type spells are changing though
+<Genoce> Yeah, Blair tightened up the lineup a little.
+<Captain_Vittles> Protect blocks 1/2 physical damage.  Barrier blocks 1/2 physical damage for a 
+group.  Wall blocks all physical damage for one.
+<eldersphinx> I think I'm working off of your change, right Blair? Barrier is now Protect MT, 
+and M. Barrier is Shell MT? And both Barrier and M. Barrier would be the exclusive property of 
+White Mages?
+<eldersphinx> I like the idea...
+<Ixquic> Okay. Life 3 is out, Protect and Shell are in.
+<Hiro> More varied attack songs.
+<eldersphinx> I wonder if the Bard could have some anti-Status abilities, protecting himself only.
+<Genoce> Anti-Status?
+<Genoce> That's Chemist domain.
+<Demonic_Gerbil> Leave the elemental attacks to the Dancer please.  ^_^
+<Captain_Vittles> A Nameless Song to balance the Nameless Dance would be good.  Song Level 8, roll 
+1d10 for beneficial status.
+<eldersphinx>Are you thinking about a Song with effects similar to the Marvel Shoes accessory?
+<eldersphinx> One thought - we may want to give the Nameless Song a smaller Initiative Penalty 
+than most Level 8 songs.
+<eldersphinx> I mean, why sing Nameless Song with a -16 Init penalty when you can sing Haste Song 
+(say), use a -14 Init penalty, and get the exact status you want?
+<eldersphinx> I expect that unless a Bard specifically chooses his Song progression to avoid status 
+effects, he'll have songs that specifically target the most useful status effects that Nameless 
+could provide, by the time he gets Level 8 songs.
+<Ixquic> So the Bard has a random multiple status song, and an all stat booster at the Eighth level.
+<KillerB> As for the initiative penalties themselves, I don't think any of the songs, 8th level, 
+for example, should be as powerful as, say, a Level 64 standard ten-string ability...
+<KillerB> ...given that 8th level songs have a -16 penalty, and the average Level 64 ability has a 
+-20.
+<KillerB> I think the song progression is the exact same progression as the old progression for a 
+Red Mage and a Magic Knight.
+<Hiro> More like new progression for the Red Mage.
+<Ixquic> May I point out that the songs use MDC? Bards have lower MDC than DC. Most ultimate 
+abilities use the Job's main 
+<Ixquic> So, it balances out.
+<Captain_Vittles> If they don't get it until Level 64 or so, and are forced to use MDC, then the 
+best songs can be on par with the better job abilities.
+<Ixquic> They get it at 63.
+<Ixquic> But we're assuming they'll pick attack songs.
+<eldersphinx> I think we can assume that most Bards will take at least one Level 8 attack song, 
+sometime.
+<Ixquic> I don't see any reason to lower damage for them though. Bards have a low enough MDC to 
+balance it out.
+<Hiro> I'm tempted to say that Bards should get +1 every 8 LVLs for MDC.
+<eldersphinx> Bards are as good at singing as Red Mages are at magic?
+<eldersphinx> I can see it.
+<Hiro> I would say so.
+<Ixquic> okay. In that case, may I move on to the Rune Knight?
+<Genoce> Yes.
+<Captain_Vittles> Level 6 Red Magic is too high.  They already have a full string of abilities.
+<Ixquic> Level six magic, or a loss of two powers?
+<Captain_Vittles> Level 4, because it's easier than balancing spells, plus (typing)...
+<Captain_Vittles> Red Magic only goes to level 8.  If the Rune Knight gets Level 6 with less powers, 
+it still makes them better than a Red Mage IMO.
+<Captain_Vittles> Level 4 magic is mostly pointless after a certain XP level.  But that's where the 
+job abilities get better.
+<eldersphinx> Level 4 White magic is fairly useful in a non-combat supporting role.
+<Captain_Vittles> M made a good point earlier - higher spell levels make them Adepts rather than 
+Fighters...
+<Demonic_Gerbil> The Dark Knight only needs Level 4 magic for early levels, after that it has 
+enough crushing power without a boost.
+<KillerB> ...as for L4 White with a Paladin, that's enough curing power for them considering the 
+sheer power of their Holy Sword skills.
+<Ixquic> I revamped Destroy Sword.
+<Ixquic> Stat reduction is the Knight and Dancer's area, not the Rune Knights.
+<Ixquic> So I made Destroy Sword into something decidely anti-mage.
+<Genoce> Moving on...
+<Genoce> Brandon, I think you want to have a little brainstorming time for the Gambler.
+<KillerB> Sure.
+<Genoce> First of all, what are we looking at?
+<KillerB> ...Jared does have a good point regarding Slots: it is hard to hit the exact same number 
+three times in a row.
+<eldersphinx> Admittedly, if you have one slot power for every 3-of-a-kind, the probability of 
+getting *something* good goes up quite a bit.
+<Genoce> In that case, your best bet is to minimise the possible spread.
+<Genoce> Here's a suggestion: 3d6.
+<Genoce> You have 6 possible 'pictures' right now.
+<eldersphinx> 1 in 36 chance of getting a 3-of-a-kind, some kind of 3-of-a-kind.
+<KillerB> 3d6 was proposed before, but the chances of getting the exact number three times in a 
+row has decreased greatly.
+<Genoce> Not if you add some alternative combinations.
+<eldersphinx> If additional powers of "2 of one kind, 1 of anything else" were available, the odds 
+of something good would go up dramatically.
+<Captain_Vittles> Most of Setzer's and Cait Sith's 3 of a kind powers were very rare.
+<Genoce> The multiple 'Wheels' are one point of contention.
+<KillerB> ...the problem is where the Gambler gets the wheels from if that is a tool for progression.
+<KillerB> ...purchasing is most logical, but expenses can get in the way.
+<Genoce> I'm not too hyped about the prospect of purchasing, but my objections are already on the 
+record.
+<KillerB> I agree with your objections, but the Gambler is already a compulsive spender anyway. :)
+<KillerB> ...as for having rare combinations of symbols, I did give the Gambler the ability to 
+"Do Over," much like FF8's Selphie.
+<Genoce> How about making *each usage* of the Ability cost something?
+<KillerB> ...again, that doesn't address where the Gambler gets their wheels from.
+<Captain_Vittles> Pay per use could be good.
+<KillerB> ...if it's a -10 penalty.
+<KillerB> ...for every Do Over.
+<Genoce> Yeah, but how about 'Thievery'? Where does the Thief get their trapped chest from?
+<KillerB> ...the trapped chest isn't as tangible of an object as, say, a Gambler slot machine.
+<Genoce> Brandon - the slot machine doesn't actually need to be physically there.
+<KillerB> If it doesn't need to be physically there, then I'm all for a progression for wheels.
+<Genoce> Mm. Simplest way of doing it, as I see it, is to go into a 'bigger risks for bigger 
+payoffs' kind of model.
+<Genoce> With prices increasing with the power of the Wheel.
+<Genoce> IE: The more money a Gambler has, the higher their power will be.
+<Hiro> It would be a good idea to include the variable damage formulas similar to the ones 
+used in the 2.1 Gambler.
+<KillerB> The damage formulas will remain the same.
+<Captain_Vittles> But then we do what Rodger said, and make 2 of a kind mean something
+<KillerB> Rodger and Blair's idea of two of a kind is in.
+<KillerB> ...and this also goes with M's idea of two HITS or YEAHs on the Consecutive Attack 
+Wheel.  That's in, too.
+<KillerB> Do Overs are also in, at a -10 penalty, so the Gambler can have a little bit of 
+insurance, but can still get his ass kicked if he Do Overs too many times.
+<Genoce> What about pay-per-spin?
+<KillerB> I dunno.  Will the amount increase the probability of different symbols, or would it 
+be a flat fee?
+<Genoce> Flat fee per wheel was my suggestion.
+<Genoce> Rather than purchasing a 'wheel' wholesale.
+<KillerB> I'll go with the more divine/make believe slot machine, so they can't crack it open. :)
+<Genoce> Never mind the encumberance issue with hauling a slot machine around.
+<KillerB> Well, I guess with two of a kind, Do Overs, and whatnot, paying per spin may be too 
+much of a hinderance.
+<KillerB> ...they already have to pay with Coin Toss.
+<KillerB> ...which that alone would make almost EVERY luck power obsolete if they all require Gil.
+<Genoce> Unless you want to simply go for a Level-based Wheel progression.
+<KillerB> If it's level-based, then a tangible slot machine wouldn't be acceptable, since they'd 
+have to get their wheels somehow.
+<KillerB> ...so it'll be intangible.  Sorry Engineer fans. :)
+<KillerB> ...unless you can come up with a good explanation for a tangible slot machine with 
+wheels that account for an expense weakness...
+<Genoce> It's either Level-based or pay-per-spin, as I see it.
+<KillerB> Pay-per-spin doesn't explain where the wheels come from on the machine, but then again, 
+you can spend more money to use the more expensive wheels, though.
+<Genoce> One-off purchases of class-defining Abilities are difficult to balance.
+<KillerB> How about I write up two different versions of the Gambler, and see what everyone agrees 
+on, all factors considered.
+<Genoce> Go ahead, Brandon.
+<KillerB> However, the gist of both will get:
+<KillerB> Chocobo Wheel, Moogle Wheel, Consecutive Attack Wheel, Elemental Wheel,
+<KillerB> ...Status Wheel, Lucky Seven, I'm debating on Gambit (just for Blair. :) )
+<KillerB> ...that's more than enough abilities for a Gambler, even without Cards.
+<Captain_Vittles> You shouldn't put the friendly fire and natural HP restrictions on it.  Just do 
+what M suggested on the list and make it a Reaction ability.  That way the Gambler doesn't have to 
+waste a turn on variable damage, the other PCs will never hit him to activate it, and natural HP 
+doesn't matter.
+<KillerB> BTW, should Magic Slot be a wheel option or should it remain with the explanation 
+regarding "The Gambler has tapped into Magical powers, however, he lacks the control that 
+specialized Mages muster"?
+<Genoce> Wheel.
+<KillerB> Ok.
+<KillerB> I guess there could be three numbers on the Magic Wheel: 0, 1, and 2.  Whatever adds 
+up, is the Red Magic spell level the Gambler will cast.
+<KillerB> ...as for which spell, goes back into the Summoner random mechanic issue...
+<Genoce> Make a table or something.
+<KillerB> Ok.  Also, EVERY Luck power has the Do Over option.
+<KillerB> Again, it's a -10 penalty for each Do Over, so it's not overly munchkinous, especially 
+with enemies attacking the compulsive Gambler.
+<Ixquic> -10 is pretty hefty...
+<Demonic_Gerbil> I can just see how that's going to work:  out of combat, the Gambler sits there 
+and "do over"s until he gets Lagomorph.  Over and over...  until the party is healed back up again.
+<KillerB> You can't push it too far, anyway, because two or three Do Overs is basically a turn 
+forefit, unless the Gambler is in Haste.
+<Ixquic> -10 per Do Over.
+<Demonic_Gerbil> Just axe "do over". Only Selphie could do it.  None of the other gamblers could.
+<KillerB> I could limit Do Overs.
+<Genoce> Extremely easy limitation there, Elisha. 
+<Genoce> Make Slot have to target something.
+<Genoce> With Lagomorph being an accidental result.
+<KillerB> You can only Do Over a number of times equal to your Magic or Spirit/3.
+<KillerB> ...per round.
+<Genoce> Ten times maximum?
+<Genoce> Per round?
+<Demonic_Gerbil> Per day or something.  Gamblers can't get too much insurance.
+<eldersphinx> A better fix on the Lagomorph-Do Over problem may be to remove Lagomorph, rather than 
+Do Over.
+<Demonic_Gerbil> Pay per use will eat the Gambler money up and he will just use Dice all the time 
+instead.
+<KillerB> The reason I'm insistent on keeping Do Overs is because of using d6s, even with
+two-of-a-kinds, your chances of getting something good is all too rare.
+<Genoce> How about making Do Overs Level-based?
+<Ixquic> Level/11+1, perhaps?
+<Genoce> Level/11+1? That's a seriously ugly set of numbers, Adam.
+<Genoce> How about just saying:
+<Genoce> 'The Gambler starts out with one 'Do Over' and gains one additional 'Do Over' every 11 
+Levels'?
+<Captain_Vittles> If you're playing a character with random powers, then they shouldn't be expecting 
+do overs at all.  It's a job hazard...
+<KillerB> Not really.  Do Overs give the Gambler some sort of chance at being useful, not too much 
+of one.
+<Genoce> If you need a further limitation...
+<Genoce> Say you can only Do Over one particular spin per Round.
+<eldersphinx> If for nothing else than to keep the campaign from ending on a 1/216 roll.
+<KillerB> ...and again, you can't Do Over if the penalty takes you to Initiative 0 or less, unlike 
+other Initiative-based abilities.
+<Genoce> So, where does this leave us?
+<KillerB> Well:
+<KillerB> Slot Machine: 6 wheels.
+<KillerB> Dice
+<KillerB> Coin Toss
+<KillerB> Lucky Seven
+<KillerB> Possibly Gambit.
+<KillerB> ...a perfect 10 string. :)
+<KillerB> ...and Bribe
+<KillerB> ...instead of Gambit, maybe.
+<Genoce> OK. 
+*** miamiw has joined #returners
+<Genoce> My mechanics worked slightly differently, though.
+<Genoce> Hi, Mike.
+<Genoce> I essentially said the Mediator should 'make an offer'.
+<Genoce> IE: The player writes down how much gil he's willing to spend.
+<Genoce> Then the GM checks it against the monster's Level.
+<Genoce> HP, I mean.
+*** Sephorus has joined #returners
+<Genoce> Hi there.
+<Sephorus> Hey.
+<Genoce> If it's HP x 2, then the monster leavs.
+<Genoce> Rodger, what's next on the agenda?
+<eldersphinx> Dancer. Elisha?
+<Demonic_Gerbil> So, everyone like my dancer?
+<eldersphinx> I would like to see the d20 ditched. The curve that it generates can cause balance 
+problems.
+<Genoce> Not to mention the game doesn't officially use d20 anymore.
+<Demonic_Gerbil> So instead of 2d20, 4d10?
+<KillerB> 4d10 is good. :)
+<KillerB> ...especially since it makes the minimum two points x DC higher.
+<Genoce> So you even get a bonus.
+<eldersphinx> BTW, on Sword Dance and Wiznaibus, is there *any* chance that the power will miss?
+<Demonic_Gerbil> No, but there's no chance that there's a critical either.
+<eldersphinx> Well, the power itself is *already* a critical, so...
+<eldersphinx> I mean, I could see a Dance roll versus target Mdef, realistically.
+<eldersphinx> Brandon: Compare Sword Dance to Quadra Slam. Similar total damage (one strike at 
+x2 versus four strikes at x1/2) and add into the account the fact that Sword Dance only goes to 
+Armor once.
+<eldersphinx> And Wiznaibus hits all opponents.
+<Demonic_Gerbil> But the Dancer has to roll a level 3 dance to use Sword Dance.  And a level 4 
+dance to use Wiznaibus.
+<Genoce> 'All opponents'?
+<KillerB> ...how about 150% (or +50%) extra damage.
+<KillerB> ...as for Wiznaibus, I don't think he means "all opponents" in its truest sense.
+<Genoce> Put an effect on it.
+<eldersphinx> How about the following mechanic for Sword Dance and Wiznaibus: Make a Dance check 
+- MDef. If successful, 2x normal damage. If failed, 1x normal damage.
+<eldersphinx> And from the Wiznaibus power description, Any target with 20 hexes of the user 
+who is 
+<eldersphinx> currently hostile towards the character (this does not include 
+<eldersphinx> opponents under the effect of Flirt) takes damage as if struck by 
+<eldersphinx> Sword Dance, without the ability to Defense the attack.
+<eldersphinx> That's fairly explicit.
+<Demonic_Gerbil> But Rodger, the Dancer already has a 1 in 6 chance of doing a regular attack 
+when it dances.  Now if it uses Sword Dance you want them to have a chance to do the "FAILURE" 
+attack again?
+<KillerB> That is right.  The Dancer is a random character.  At least the Swordmaster can control 
+when he wants to use Quadra Slam...
+<eldersphinx> No, I don't want them to do Failure. I want them to do 1x normal damage, no chance 
+for the opponent to dodge.
+<eldersphinx> Consider that the Dancer has a 1/6 chance of Sword Dancing as early as Level 10.
+<KillerB> Ok then, I'd say switch Sword Dance with a Rank 3.
+<eldersphinx> And that by Level 30, the Dancer has a 2/3 chance of being able to pull either Sword 
+Dance or Wiznaibus... and that their alternative power is a Level 5 in that case.
+<KillerB> Sorry, Rank 4.
+<eldersphinx> If Sword Dance was a Rank 4, and Wiznaibus was Rank 5, I could go for the powers 
+in their current forms.
+<eldersphinx> As they stand, there's far too good a chance that they'll break a game somewhere.
+<KillerB> I guess moving Sword Dance and Wiznaibus up a rank would be in order then?
+<Demonic_Gerbil> Moving them screws up the ranks.  The level 4 and 5 dances are too strong to be 
+moved down.
+<Demonic_Gerbil> And I want to keep an even 5 dances per rank.
+<KillerB> +50% extra damage for Sword Dance instead of x2.
+<eldersphinx> Nameless Dance could potentially be a Rank 3, and Temptation Tango in the Rank 4 
+slot.
+<eldersphinx> Or +50% damage.
+<KillerB> ...as for Wiznaibus, what's the current damage formula for that?
+<eldersphinx> Wiznaibus is Sword Dance on all opponents. Within 20 hexes of the Dancer.
+<Demonic_Gerbil> What's E:20 converted to meters M?
+<Genoce> ...too damn much.
+<Demonic_Gerbil> Why don't I make that 20 meters instead?
+<Genoce> OK, 20m.
+<Genoce> Incidentally; Adam, Elisha - ranges should be converted with the next release of your 
+relevant writeups.
+*** Andrew`` has joined #returners
+<KillerB> E: is easy enough.  What is the formula for R?  I know you stated a chart, but it's easier 
+for me to remember things with a formula.
+<Genoce> There is no formula.
+<Genoce> I based it off the weapon ranges.
+<KillerB> Alright.  I think it'd be best to post, publicly, on the list (and maybe the board), the 
+charts for all three.  Again, I'll need the vertical ranges in order to submit the latest Dragoon, 
+Thief, and Gambler writeups.
+<Genoce> There aren't Vertical ranges to speak of.
+<Genoce> The new model looks like this:
+<Genoce> (Type) R:x E:x
+<KillerB> So V's gone?
+<eldersphinx> It's subsumed into the spell Type.
+<Genoce> For example, Sphere R:40 E:28 means that the center of the effect has V:28.
+<eldersphinx> Circles have an effective V:1; they're basically bursts that hug the ground.
+<Genoce> Saturate is V:oo
+<Genoce> Etc.
+<KillerB> So the syntax for, example, Dice could be Range: Circle 20 meters?
+<Genoce> Circle R:20 E:(whatever)
+<Hiro> That sounds rather cumbersome.
+<Hiro> Why not: Range: R:20 E: X (Circle)
+<KillerB> Oh, okay.  So the visual text will still use :type: - R: E:, but the numeric values will 
+be in Meters then...
+<eldersphinx> I like putting the spell effect type after the effect value myself.
+<Genoce> OK. Let's handle it that way, then.
+<eldersphinx> One other comment on Effect types: We could potentially have multiple effect types in 
+the same spell for added fun. For instance, canon Bahamut ZERO from FF7 would have E: 2 (Saturate), 
+60 (Circle).
+<KillerB> So Bahamut ZERO's explosion Teraflare beam would be the E:2 saturate, whereas the explosion 
+would be E:60 circle then?
+<eldersphinx> Yep. Fun to visualize, huh?
+<KillerB> I guess Dragoon Jumps could either be saturates, or spheres with an insane E:
+<Genoce> Dragoon Jumps are single-target.
+<Genoce> What happens when the Dragoon Power Jumps in a room with a four-meter ceiling?
+<Genoce> Aside from badly concussing himself.
+<eldersphinx> Heck, forget about that question - what happens to a Dragoon who's elbow-crawling 
+through a 1/2 meter high tunnel and gets into a fight?
+<KillerB> ...well, there's the balancing factor for High Jump and Power Jump. :)
+<Genoce> You need enough room to use it.
+<Genoce> Maybe put a minimum 'headroom' on both.
+<KillerB> ...and the Dragoon has other abilities to use as well:
+<KillerB> Cherry Blossom, Dragon Breath, etc.
+<KillerB> ...and Reis Wind in case he gets pounded in a tunnel and needs some way to heal. :)
+<Genoce> What's next?
+<KillerB> How about the Fighter?
+<Genoce> Fighter does need to be covered at some point, though.
+<Genoce> Monster Trainer, too.
+<eldersphinx> Any ideas on Fighter at this time? Or move on?
+<Genoce> We can adopt some Limit Breaks.
+<KillerB> Yeah, someone did mention putting Mighty Sword on the Fighter.
+<KillerB> Actually...
+<KillerB> ...if the Knight's breaks do damage, then Mighty Sword can die here. :)
+<eldersphinx> The Fighter always has been the one Warrior class that didn't have any flashy ranged 
+stuff, and didn't push any of its powers through a specific weapon.
+<Demonic_Gerbil> Add two more powers and *boom* you have a ten-string.
+<KillerB> Destroy the Fighter altogether may not be a bad idea.  They were basically pre FF3j 
+Knights.
+<eldersphinx> The role of the Fighter class in the FFRPG is as a template.
+<Genoce> The old Fighter was the professionless Fighter.
+<eldersphinx> It's the one class you can play if you want to run an Axe-wielder, a Hammer-user, a 
+Boomerang expert...
+<eldersphinx> Are we ready to move on?
+<KillerB> Sure, what's next?
+<eldersphinx> Advantages and Disadvantages.
+<Genoce> OK, guess this is 'suggestion box' time.
+<eldersphinx> M has a list of new Ads and Disads, and we're making some modifications to some old, 
+broken ones.
+<Genoce> Basically, the culling of Ads and Disads is taking place on three levels.
+<KillerB> I was going to say that we need more advantage suggestions than disadvantages.  Last 
+time I checked, we had more disads than ads.
+<Genoce> Well, the disads are being stripped, too.
+<Genoce> Too many of those are 'free Advantages'.
+<KillerB> Yeah, I'll admit guilt to using a disadvantage as a free advantage, and some of my players 
+have, too.
+<Genoce> The GM input I've gotten from this has been a big help.
+<Genoce> For example, the rampant abuse of 'Family Heirloom'.
+<Genoce> First are the 'free Advantages' among the Disadvantages (stuff like Rebellious Spirit). 
+<Genoce> Second are the useless Advantages like 'Absolute Timing'.
+<Hiro> Which means anything involving role-playing oriented advantages & disadvantages...
+<Genoce> No, not really.
+<Genoce> Just the ones that are flat-out worthless compared to their fellows.
+<KillerB> Known Criminal is a role-playing oriented disadvantage, and it's a very balanced one at 
+that.
+<Genoce> Or Phobia.
+<KillerB> ...Strong/Weak Alcohol Tolerances are Ad/Disads respectively.
+<Genoce> Got those already.
+<Genoce> As a basic guideline for Advantages/Disadvantages -- they shouldn't be something that's 
+replicated by a Skill or profession Ability. 
+<Genoce> For example, 'Danger Sense' is essentially 'Awareness', the Skill.
+<Genoce> Oh, Old and Young got moved out of Disads.
+<Ixquic[AFK]> To...?
+<Genoce> Character Concept.
+<Genoce> For those who want to play characters outside of the recommend age range.
+<Genoce> As Adam pointed out, there's no actual *Disadvantage* to being Old or Young.
+<Ixquic[AFK]> You give something up, but you get something back.
+<KillerB> What are we looking for regarding ads and disads?  Should they be:
+<KillerB> 1) Combat related?
+<KillerB> 2) Non-combat related?
+<KillerB> 3) Role-play related (probably not, as per Jeff's paraphrase.
+<Ixquic[AFK]> 4) All of the above.
+<KillerB> Oh well.  The more I think about it, the more I think that Ads and Disads are just 
+Skills with another name.
+<KillerB> If they are, then we could keep the Disads, and make them CP bonuses...
+<KillerB> ...since there are always more Disads than Ads...
+<Genoce> Ads != Skills.
+<KillerB> Maybe I shouldn't have implied that 100%.
+<KillerB> ...but at least 50% of them are Skills with another name.
+<KillerB> ...and those 50% should be addressed.
+<Genoce> Chances are they got hit in my first wave of slash-and-burn editing if that was the 
+case.
+<KillerB> Ok.
+<Genoce> What did we want to ask Blair again?
+<KillerB> The $500 question is: will Magic Knight receive Shock?
+<Captain_Vittles> As they stand now, they don't need it.
+<KillerB> Will they be discharging their spells out of their swords to account for range, or 
+should this wait until the full writeup?
+<Captain_Vittles> As it stands now, they get 2 types of spells - one type grants an elemental 
+to their weapon (a la FF5) and I'm considering allowing those enchantments to be discharged.  
+the other type is Steiner-esque attacks - the Magic Knight dashes forward and strikes for extra 
+damage, but the weapon doesn't keep a permanent element.
+<KillerB> As it stands, that sounds like a good balance, Blair.
+<Genoce> Next issue?
+<eldersphinx> I'm not sure we ever fully got into the Skills and CP issue.
+<eldersphinx> Are the Skills and CP available to characters as they gain levels fair? If not, 
+how do we change it?
+<Genoce> Well, Skills are problematic twofold.
+<Genoce> One: most of them are uselss.
+<KillerB> As being someone who has ran a campaign to Level 99, I haven't had any problems with 
+CP balance...
+<KillerB> ...aside from the uselessness, as mentione.
+<Genoce> Two: the CPs are too limited to improve anything more than the basic 'essentials'.
+<KillerB> mentioned.
+<KillerB> ...I should scan one of my player's character sheets and show you.
+<Ixquic[AFK]> I agree with M.
+<Hiro> There's several other factors that 2.5/R&E is going to bring up. One would be the 
+introduction of Knowledge Skills. 
+<eldersphinx> Okay, IIRC characters get 20 CP per level. One CP raises a skill by 1%; ten CP 
+raise skills by 10%.
+<KillerB> ...but yeah, about 50% or more of the Skills are useless, unless the campaign is more 
+roleplay than combat.
+<eldersphinx> And ten CP also raise a stat by 1 point, come to think of it.
+<eldersphinx> I may be able to do something on an independent Artist, given a couple days to 
+think and write.
+<Genoce> Go for it, Rodger.
+<KillerB> Ok, Rodger.  Looking forward to it.
+<Genoce> I was going to haul in the Berserker for 'balancing'.
+<eldersphinx> Good call on the Berserker.
+<Genoce> I suppose I should release the new Chemist to the list at some point.
+<Genoce> There's not that much there, other than the fact that Throw Potion and Throw Item now 
+just allow them to-- I'm inclined to believe that Berserkers get on just fine without Titan 
+Crusher, Adam.
+<Ixquic[AFK]> Titan Crusher is weaker than most ultimate abilities.
+<eldersphinx> Not backed up by DC it isn't.
+<KillerB> ...one can say the same with Elan, but that's backed up by the sheer power of Two Swords 
+and Throw.
+<KillerB> ...as well as multitargetting all other abilities.
+<eldersphinx> Which would you rather have - a 11d6 attack with a x7 bonus, or a 10d6 attack with 
+a x10 bonus?
+<Genoce> Berserkers are already insanely powerful.
+<Captain_Vittles> Mind Guard is useless.  How could a Berserker be confused if they're berserk?
+<Genoce> Are you automatically immune to Charm and other Mystify effects if you're Berserk normally?
+<eldersphinx> Well, if the Berserker is overpowered, do we need to *add* a power to replace Mind 
+Guard?
+<Genoce> No. 
+<KillerB> Another question: does a Berserker need a ten-string?
+<Genoce> Probably not.
+<KillerB> ...they're basically just a pound-the-hell-out-of-everything Job, and doesn't need much 
+in the way of abilities.
+<Genoce> For no delay or MP cost.
+<Hiro> Do they need the +50% HP bonus?
+<eldersphinx> Not when its main power - Berserk - stacks with every other power it's got, basically.
+<Genoce> +25, surely?
+<Hiro> I thougth it was +50%.
+<Hiro> I guess I'm wrong.
+<Genoce> Even if it was, +50% is insane.
+<eldersphinx> I'd like to send the Worldbook Guidelines across the channel real quick.
+<eldersphinx> Anyone here not had a chance to see M's guidelines?
+*** Morbieus has joined #returners
+<Genoce> Hi, Robert.
+<Morbieus> Hello
+<Genoce> Like I said the other day -- there's not really that much to discuss.
+<Genoce> If you disagree with the guidelines or need something clarified, just say so now.
+<eldersphinx> M - I do know that many people - including me - managed to miss the returners2 list.
+<Genoce> That's why it's been linked to in the FAQ, Beginner's Guide and Worldbook pages on the HQ.
+<eldersphinx> Web subscription can be done at http://groups.yahoo.com/group/returners2 for anybody 
+who's interested.
+<Genoce> And Rob should update the welcome message to mention it as well.
+<Captain_Vittles> I've got no comments for now.  I only skimmed the article, as I'm not writing 
+any WBs right now.
+<KillerB> Hmmm...are there any other Jobs that haven't been addressed yet that need to be?
+<Genoce> Aside from the Fighter and the Artist?
+<Genoce> I think we've got the lot, pretty much.
+<KillerB> As for the Black Belt, was there a suitable replacement for Spiraler?
+<KillerB> Let's look at the possible choices:
+<KillerB> No Mercy: maybe.
+<KillerB> Demi Shock: random gravity damage.
+<KillerB> Curse: debilitator, I think this was ruled out a while back.
+<Captain_Vittles> Random gravity damage makes no sense.
+<Captain_Vittles> Gravity is a definite thing, eg 1/4 HP, 1/2 HP
+<KillerB> So we have No Mercy, Demi Shock (out), Curse (most likely out), Countdown/Secret Fist,
+<Captain_Vittles> No Mercy seems best.
+<Hiro> I think Demi Shock is the best replacement, IMO>
+<Morbieus> I like the Demi Shock idea
+<KillerB> Demi Shock's % could depend on the Black Belt's level.
+<Hiro> We can make it non-random.
+<Hiro> ie, Demi.
+<Hiro> 50% off.
+<KillerB> There's enough projectile abilities: Aura Bolt, Fire Dance, Air Blade.
+<KillerB> Demi Shock may be the most unique.
+<Morbieus> We just need to think of the formula
+<Hiro> Not to mention they already have Four physical attacks.
+<Hiro> Five if you count Counter.
+<Morbieus> What level would Demi Shock be gained at?
+<Hiro> 57.
+<Captain_Vittles> I suppose Demi Shock could work, but no random crap.
+<Captain_Vittles> Just a flat 50% HP cut
+<Morbieus> Just have it do a higher amount as you get higher in level
+<KillerB> Damage could either be a formula or it could be equal to the Black Belt's Level, 
+Diablos style.
+<Hiro> It is called *Demi* Shock. Giving it the ability reduce the opponent's HP by 50% wouldn't 
+be out of the question.
+<Captain_Vittles> They're not Time Mages.  50% damage is a gift.
+<KillerB> ...then again, that reminds me:
+<KillerB> ...are there any Gravity abilities (percentages of damage) on our current non-Mage, 
+initiative penalty dependent Jobs?
+<Hiro> Nope.
+<Hiro> Another possibility is move up some of the lower powers and put in Demi Shock around the 
+5th or 6th slot.
+<KillerB> ...but with Minus Strike and Dragon Breath in the fray now, that may not be the case 
+anymore.
+<KillerB> ...so a flat 50% damage restriction isn't a complete "must".
+<KillerB> ...but if it works, it works, I guess...
+<Genoce> What are the modifiers, if any?
+<Hiro> 55 + (LVL) + (Stat)
+<KillerB> For Demi Shock?
+<Morbieus> What stat?
+<Genoce> SPR.
+<Hiro> We need to settle Magic vs. Spirit for Job abilities. 
+<KillerB> Isn't Magic used for modifiers, while Spirit for bonuses?
+<Hiro> Magic is supposed to be the 'offensive' supernatural attribute.
+<KillerB> I thought all "ki" related powers had Magic as a modifier, while Spirit is a stat for 
+determining MP bonuses?
+<Genoce> That makes SPR kind of useless.
+<Genoce> I thought SPR was the standard 'chi' stat.
+<Captain_Vittles> Str - physical damage.  Vit - physical defense.  Mag - magical damage.  Spr - 
+magical defense.
+<Morbieus> Unless yout need MP why would you need a high SPR
+<Genoce> Magic should be restricted to Spells, in my opinion. 
+<KillerB> I guess Magic = spells, Spirit = ki-like abilities and other non-spells?
+<miamiw> Luna does
+<Genoce> The Samurai uses SPR.
+<KillerB> IOW, if it uses MP, use Magic.  If not, use Spirit.
+<Genoce> SPR does need more usage, though.
+<Genoce> If it's just a way to get more MP...
+<Hiro> Another point: Spirit has some relevance due to M. Armor & M. Defense. Magic doesn't.
+<KillerB> It should be even use w. Magic = stuff that uses MP; Spirit = stuff that doesn't.
+<KillerB> even use = even balance.
+<Hiro> A non-magic using Warrior Job like a Fighter or Dragoon doesn't need to ever increase 
+his Magic stat.
+<KillerB> Yeah. :)
+<Genoce> Considering MAG = intelligence...
+<Genoce> Yeah, I can buy that.
+<Genoce> Didn't the General use SPR, too?
+<Genoce> Mm. Well, it was a thought.
+Session Close: Mon Aug 27 05:43:55 2001
