@@ -1,0 +1,588 @@
+original link (waybackmachine didn't want to back this up for some reason): https://projects.inklesspen.com/fatal-and-friends/zeetoo/final-fantasy-rpg-2nd-ed/#7
+
+Final Fantasy RPG 2nd Ed. by ZeeToo
+1 	Introduction
+2 	Character Creation/Races
+3 	"Range? What's that?" (Fighter classes)
+4 	"Wait, can I just roll on a chart instead of deciding?" (Ranger/Bard classes)
+5 	"Hey, don't you think I have too much money?" (Thief/Engineer classes)
+6 	"What's wrong with a 5-minute adventuring week?" (Mage classes)
+7 	"What do I want to roll now?" (Skills)
+8 	"One, two... five?" (Equipment)
+9 	"I'm adjacent... so can I hit him or not?" (Physical combat)
+10 	"So is there any chance of a miss or not?" (Magical combat)
+11 	"Isn't Gygaxian Naturalism grand?" (Monster creation)
+
+Introduction
+posted by ZeeToo Original SA post
+
+Returner Games Final Fantasy RPG 2nd, or "Wait, what the hell is this supposed to mean?" , part 1
+
+Probably the single most notable tabletop RPG project developed specifically by and for "the Internet", the Returner Games Final Fantasy RPG (which I'm going to call the Returner RPG) is a work that's been around for well over a decade. So, one thing at least clearly distinguishes this from other games we'll see in this thread: it's not meant to be bought or sold, and it's not exactly a 'pro' product. Actually, it seems to mostly have been built by committee. We've all seen that demotivational poster about how none of us are as dumb as all of us, and this is amazingly apt here.
+
+I don't actually know the full story here, so I'll be brief and say I'm not speaking with full authority, but as I understand it, Returner Games put out a fairly basic "first edition" of their game in the 90s, realized it had some fundamental issues, and pumped out a "second edition" that tried to patch those up. The foreword here has the project leader talking about how he hoped that this would be the last edition for a long time. Sadly, it was; what was supposed to be a quick update from 2.01 to 2.1 and fix the last holes in the system just fell apart. Trying to fix and balance the game proved nigh-impossible, leading to a years-long re-envisioning and overhaul that culminated in the current, actually playable third edition that you can get here . Whatever you think about it, it's playable; I won't judge that edition further unless I go to specifically review that.
+
+This? this is the second edition. 44 people are credited with its development, and none of them could agree what they were actually making. It's not playable, because they were actually making two or more distinct games that got half-assedly mashed together. Some people thought they were making "FFIV the Tabletop", others "FFT the Tabletop", it sure looks like at least some of them tossed that idea out completely and were working on "SNES-era JRPG the Tabletop", and one was probably one of those hex-only wargaming purists.
+
+Oh, superficially it looks like a playable game, and with some house-ruling you could even play it for a bit, but I don't think it could actually just be played rules-as-written. We'll pick that apart as we come to it.
+
+The introduction starts with a red flag: in describing good RPGs, the opening paragraph name-drops AD&D and RIFTS. After that, though, it looks okay. The basic system is supposed to be a roll-under percentage game, which is eminently workable, though depending on what you're trying to do you might want to roll as low as possible, or get close to your target without going over. Characters have six attributes which are Strength, Vitality, Agility, Speed, Magery, and Willpower. Fairly self-explanatory, except that "Magery" is Intelligence as well.
+
+From there, we get a pretty good glossary that goes over the basics in pretty good detail. There's only three surprises here: 1) I'm pretty sure this is the only place that "Magic%" gets defined (which is a vital roll for some types of magic), 2) there's some hilariously missing lines like an entry that ends with "All characters start with their starting MP +" (plus what? shut up), and 3) a couple of unexpected entries that explain this game's version of Synnibar's "tenths".
+
+Which, of course, I'll get to next time, as I start the review proper and what looks good to this point starts to break down.
+
+Character Creation/Races
+posted by ZeeToo Original SA post
+
+Returner RPG, or "Where did that even come from?" , part 2.
+
+Right after the introduction and glossary, the first chapter of the book is dedicated to character creation. First we pick a concept, then we fill in race, class, and start sticking stats to it, then fill in the blanks. Fair enough. Pretty much D&D here, so it's no surprise that that's decent.
+
+Races are pretty standard... Dwarves, elves, half-elves, humans... Moogles, werewolves, yetis, those little green imps that are some of the first enemies you fight in Final Fantasy games... er... cat people, sprites, and mushroom people. Okaaaay. Someone threw in stats for the Mana series species, apparently. Okay, whatever. After a brief blurb about the races, it says crunch for races/classes are found in their chapters.
+
+And then we get to attributes. Depending on whether you want to have 'normal', 'heroic', or 'legendary' characters, you roll either 6d10, 4d10+20, or 2d10+40 to determine your totals. Ugh. After a brief alternative for just using 40 points, it's time to divvy up your stat totals. You can't start with more than your racial maximum, go.
+
+Roll 6d10, then use that for 1-for-1 stat point buy.
+
+Whatever. That's not the dumbest thing in the chapter. The next section is. We now learn about "Damage Capacity" and "Magic Damage Capacity" (DC and MDC). These are a multiplier for your damage output. Depending on your class, they increase once every 7-10 levels.
+
+Don't have a class with an every seven DC/MDC multiplier? Tough. You get to watch other classes do double damage for one or more levels before you do, and then twice as long at the 50% upgrade and so on. Eventually they'll lap you. Also this comes before armor (which is damage reduction), so enjoy your even greater proportional failure!
+
+Or, as the book helpfully describes it, "Thus, a 15th level fighter would have a damage capacity of x." Yes, "x". With 44 credited contributors, I'm going to mock when they mess up examples or rules, as I feel those should have been caught. Fluff and typos I ignore, but really now.
+
+Next bit is picking skills. Skills are measured in 0-200%, with costs doubling after 100. Roll 10 or less under your skill, and it's a critical success.
+
+Whoa, wait. Back up a second. Most of the time you're going to want to roll high, but not too high, right? Well, guess what? If you're too good at a skill, you can't critically succeed at it unless you have some penalty to your roll! Dumb.
+
+If you don't have any ranking in a skill, you can try it anyway by converting your 0-30 attribute into a 0-40% chance to succeed, with starting characters hitting 30-35% in the attributes you're focusing on. So don't split up your skills too much; it only hurts you because you'll have a better chance with a 0% skill than a 20% skill. If you're rolling based on your skill, though, you have zero need for the attribute. No bonuses for having a high attribute here.
+
+Next up is starting equipment. 500 gold (not gil?) for everyone. Randomly, we continue the section still labeled 'Starting Equipment' up with carrying items (this won't be repeated elsewhere). The game gives us the option of just saying "you can carry fifteen 'things' whatever they are", or just giving everyone infinitely large pockets.
+
+For magic-using classes, you have two options: either you start with three spells, or you start with any number of spells as long as the total cost for all of them doesn't exceed your MP. For once, the game offers two or more rules options where there are no really dumb options.
+
+The game follows up by explaining level-up benefits; you gain 20 skill points and an increase to HP and MP with a bonus based on your Vitality and Willpower, respectively. So if you don't front-load those two, your end-game HP and MP potential is far choked by someone who raised those at the start then focused on their other stats later. I actually read a campaign story where someone was bitching about this one.
+
+Now we go into a grab bag of "Advantages" and "Disadvantages". You've seen most of these before; you have to offset any advantages with disadvantages of the same cost. Buried at the end of one section and almost lost in the next header is a mention that it's 'stressed' that this section is optional. Nowhere else does it say (optional) like it does with other optional rules.
+
+Of course, they're hilariously badly balanced. Your options vary from "Absolute Timing" (you always know the time) to "Skill Aptitude", which gives you a 50% bonus when you put points into the skill, which is stupidly good since skill points are your primary advancement for everything. Disadvantages similarly range from Elemental Ineptitude, which thanks to ridiculously poor phrasing actually reduces your damage taken by 20%, all the way to Dependent, which means you're perpetually playing escort mission.
+
+All of those are either +1 or -1, except for Elemental Ineptitude, which is marked as being both a -1 and a -2. Most of the higher point total options (up to +/- 5) are less exciting and less worth it.
+
+The next chapter is races.
+
+
+
+You can't start at higher than the listed maximum, but over time can raise it to up to double that, and have to have the minimum at any rate. Of course, with the 6d10 method, you could have a character who doesn't qualify for anything. Each race also has innate characteristics, which vary from pointless (yetis get defense against ice, which pretty much nothing has any reason to use exclusively) to broken beyond belief (half-elves get 25% more skill points and some free skill aptitudes, making them good at everything).
+
+If you want to be a physical fighter, there's no mechanical reason to be anything but a yeti or half-elf. If you want to be a black mage, there's no mechanical reason to be anything but a sprite or half-elf. White mage, and it's down to Moogle or half-elf. Humans also get bonus points, but not half-elves' skill aptitudes and have a strictly worse attribute line, which still makes them better than specialists.
+
+So the race tiers basically go:
+half-elf > human > yeti/sprite/Moogle (depending on class) > everything else
+
+Even within that 'everything else', there's distinctions, like there's no reason to play a Matango instead of a dwarf, but I'm not going to get too fine with the gradations there. The rest is fluff, explaining stuff like the mushroom-men Matango like monarchies, imps are basically kobolds, Moogles say 'kupo', and half-elves are so awesome that they breed true with both parent races.
+
+Half-elf half-elf half-elf.
+
+
+
+
+Next time we'll start dissecting the classes, which is where the game rules go from odd and bad choices to outright unplayable.
+
+"Range? What's that?" (Fighter classes)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "Range? What's that?" , part 3
+
+Now we're up to classes. This is the primary heart of the game, so I'll be dissecting each class with some depth. I know it's not the utter insanity of Captain Hats' review, but this is really where the worst part of the game lies. Turns out that having 44 designers means that they couldn't settle on much of a format, so things just sort of gently fall apart as we try to pick a class. We'll see that slow decline as we look at at each in turn.
+
+The chapter, keeping up with the tradition of rules being slapped in willy-nilly and never repeated other places you might wanna know, starts with initiative penalties. Basically, to 'balance out' not being limited by MP, weapons classes have abilities where you have to wait between declaration and using it. If you have low speed and poor initiative rolls, you can end up waiting three turns to get some abilities off, easy. We all like to stand around doing nothing for three turns, right?
+
+Mages, of course, have spells that go off instantly and are way better than any of these. Hey, they did say they were influenced by AD&D.
+
+Each base class has several "aspects", which are essentially other classes that just share the same DC/MDC and equipment use. I think AD&D had a similar format for its classes, right? Each class learns specific abilities at specific levels, except for magic-using classes that can pick their spells. Customization of powers is not for people stupid enough to not play mages.
+
+Whatever. The classes:
+
+Fighter : Fighter has some mildly useful powers (a power that draws aggro, another power that negates all physical damage--this could be a useful pairing), and some that are very stupid. The latter category includes Rapid Strike: roll well, and you get to act whenever you want to in the initiative order. Roll badly (almost guaranteed for the first 40 levels that you have the power), and you don't get to act at all that round.
+
+Fighter gets a counter chance of ((level/3)+(agi/2))%.
+
+Rating: sad
+
+Barbarian : Barbarians have a baffling unique rule: they can rage whenever they want, which gives them the condition "berserk". This makes the class almost unplayable. Not broken. Unplayable. First, they give the wrong definition of what "berserk" does, if you cross-reference the status effects (+25% HP in one, +50% HP in the other). Second, it's never explained if the increase is to current HP, max HP, or both. This is a very serious issue since there's no reason for the Barbarian to ever not be berserk. Like, ever. No downsides, no time limit. Either they are 50% (or maybe 25%) tougher than anyone else, or else that line just doesn't mean anything. They have no other abilities of any use.
+
+Barbarians get a counter chance of 'automatic'.
+
+Rating: useless
+
+Black Belt : The fluff tells us that Black Belts (monks) can't wear heavy armor. This is a dirty lie since the rules are that fighters can wear any armor. Black Belts are the first class to get listed ranges, vertical heights, and blast sizes on their skills. Which are... goofy. Like, they can attack everyone close to them (range 1, blast 2). So it's not centered at all, and not just people in reach of their fists. All a Black Belt's abilities starting at level 29 until level 64 are based on MDC (ie, where the every-ten MDC gets lapped by the every-seven MDC). So they stop being able to hurt people or do anything there.
+
+They get a counter chance of ((level/2) + agi)%. Why the fuck do the first three classes each have completely different chances to counter-attack? Also none of them have rules for what's valid for a counter-attack: if I get attacked from outside my range, do I get to counter-attack anyway? Rules as written... I think so. You just sort of teleport over and smack away at them.
+
+Rating: laughable.
+
+Dark Knight : Dark Knights are FFIV Cecil. Their level 1 skill does an "extra 150% damage" and might inflict Blind. They meant for that to be a total damage of, not an increase to, or else this would be their best move for the whole game, strictly beating out its similar but higher-level variants. Their capstone power starts out by saying it has a 33% chance to kill everything hit by it, then finishs up by saying it has a 30% chance. Er... which one? That's the same paragraph.
+
+They also learn black magic up to level 4 (out of 10). Remember the MDC multipliers? They get the spells too late and their power with them are sad. And you have to buy the relevant attribute if you plan on using them, costing you elsewhere. It's a newbie trap!
+
+Rating: probably passable, if we sorted out which contradictions are intended.
+
+Dragoon : Dragoons get to jump, which breaks the games' intended battlemat layout entirely. They take two turns to do it, and it doesn't have a listed range. So I assume it's just your weapon's range? If so, what happens if the enemy moves? How high is the dragoon, given that everything has an included vertical element in its reach and range of effect? If that seems like a problem to you, just give the dragoon a gun. Jumping doubles that, too.
+
+They also have a stupid skill where you basically pool everyone's HP and MP and then divy up who gets it based on random roll. I can't imagine where you'd ever want to risk the whole party's HP and MP on one roll. Other skills range from pointless to actually pretty swell, like an auto-revive spell once per battle.
+
+Rating: above-average... probably. Depends on how you think Jump works.
+
+General : Every single offensive General power is based on MDC.
+
+Rating: Picked on by small children
+
+Knight : The knight breaks enemy equipment and lowers their stats. Based on percentages. Get out your calculator. Their higher-tier skills have a flat chance of success that's so low at that level that they'll almost never hit.
+
+Rating: 34% of being reduced by 28% per round, cumulative.
+
+Magic Knight : Magic Knights have to spend some MP and one turn to 'enchant' their blade so that they can use it to gain extra damage, elemental typing, and other effects. Most of the spells are interesting, coherent, and enough of an increase to be valuable; unless the enemy get nuked in 2 or less rounds, you're pretty useful. Give these guys a ranged weapon (fuck "Sword" Magic), and they'll actually be pretty decent.
+
+Rating: Pretty cool
+
+Paladin : These guys have one skill with a "flat 43% chance" to inflict a status ailment. Jeez, I'm not even sure if that's a typo. Basically, they're a Dark Knight but worse. They also get White Magic where Darks get Black. Same deal, but slightly worse.
+
+Rating: does nothing others don't do better.
+
+Samurai : Hey, let's make up a whole new set of rules for this class! Let's see: we'll ignore the map range and effect notations completely, limit the class features to only katanas. we'll have the expensive weapons break regularly if used, not specify whether effects are based on DC (making them maybe okay) or MDC (making them a waste of time)
+
+Rating: Baffling, incomplete, and incoherent
+
+Swordmaster : These guys have a level 1 ability to always hit and do maximum damage for their weapon. To put that in D&D 4e terms, imagine having at at-will that lets you automatically assume you rolled a 20. Other abilities include shooting a laser that comes from nowhere near you, some utterly baffling random-multi-hit attacks that take so long you'd be better off just attacking normally, and some stupid counter-if-you-don't attack move, but none of that matters because that first ability is so good it just neutered every single other fighter class in the game utterly.
+
+Rating: the half-elf of swordsmen
+
+
+
+Now aren't you glad I forced you to read all the other entries first?
+
+
+How did 44 people think that this was coherent enough to play? How bad could first edition even have been? These and other questions won't be answered next time, when we look at some of the other classes. This was only the fighter variants; there's ten other base classes. No three of which have this many variants all together...
+
+"Wait, can I just roll on a chart instead of deciding?" (Ranger/Bard classes)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "Wait, can I just roll on a chart instead of deciding?" , part 4
+
+Last time we wrapped up the Fighter aspects. Today, we're on the Ranger aspects. These guys have an 8-level DC, and a 9-level MDC. So, they're already going to have trouble keeping up with other classes. Well, maybe their class features are powerful enough to balance this out, right?
+
+I crack me up.
+
+Ranger : The Ranger-aspect Ranger has a goofy grab-bag of powers: at level 45, it gets the Swordmaster's level 36 move (four attacks at half-damage to random enemies), a "Charge" move (choose an initiative penalty with a corresponding damage upgrade) which is actually way better than a lot of Fighter-abilities, but not enough to overcome the DC problem (also it only works with bows), and then their ability to call animals, which is their largest and signature move.
+
+Calling animals has no range listed on any animal, you gain animals at certain levels, and instead of picking it's a random chance. There's no listed method for picking, so I'm guessing it's 1dX, where X is the highest level power you've unlocked. Just to annoy you, some of these are healing powers that you use on your team and others are offensive powers. Take a gamble on what you'll do this turn! There's a decent chance it'll be the 'nothing' power or another low-level power. Also all the attacks are obnoxiously weak, on top of the every-9 MDC.
+
+Rating: The best of the Ranger aspects. Really.
+
+Beastmaster : Beastmasters are Gau of FF6. They find a monster, they train with the monster, they go into a rage based on the monster (not to be confused with the totally different berserk). The rage gets all the monsters' attacks.
+
+And then the GM (explicitly the GM) rolls on a chart to see which power the character uses. The player chooses nothing in a fight.
+
+Rating: Perfect, assuming you don't actually want to pay attention during battles.
+
+Geomancer : Hey, remember that random animal table for Rangers? Let's get rid of the useful secondary powers like Charge, and then give them even more tables! There's ten listed terrains, and you ask the GM which one you get to roll on, then roll to see which of the four powers relevant to that area you actually get, with a modification based on level. You can't pick anything 'up to' that level or anything--just that one specifically. And the ranges change. Except for where they aren't included at all. At least ranges only go up in rank, so you can't roll "too good" to have targets.
+
+Their other power is to ignore terrain, except for when the GM says they can't. Listed example: they can walk across lava just fine. Of course, if the GM says "not this lava", they're screwed. No way to check except jumping in!
+
+Rating: whim-dependent
+
+Monster Trainer : Wanted to play Pokemon in Final Fantasy? Now's your chance! Sort of. They have the ability to inflict some status effects, and to convince monsters to hang around for either one week or one attack of the Trainer's choice, whichever comes first. Nothing says you can't have more than one monster at a time, and I'm not sure if that's a feature or an oversight.
+
+Rating: utterly DM-dependent; what monsters do you get?
+
+
+Now we go to the "Bard" classes, which share the same 8/9 DC/MDC multiplier, but are much better.
+
+Bard : Bards get songs ranked 1-8 at the same rate that Red Mages get spells. Bards have weaker MDC, of course, and their songs have an initiative penalty to get going, but they all have a range, they get to pick which songs they know, and many of the songs are actually really useful because they're not direct damage. Bards are more about buffing, debuffing, and status effects, and they're good at that. The low-rank songs that you can use every turn even if your initiative is low stay useful even as levels rise.
+
+Rating: Very nice!
+
+Artist : Knew it couldn't last. Artists have "Peep", which lets them learn about stuff like monster HP and weaknesses... and also works on pets, inanimate objects, and other characters. Yes, they explicitly are able to peep on party members. Ew.
+
+Their painting abilities are sometimes inexplicable (the ability to repaint a spell to a different element? How does that work when the spell is instantaneous and not on your turn?) to lame (wanna spend two and a half months to have a 50% chance of creating something with a minor bonus to the party?) to unusable (one painting ability is rolled at a -200% skill, to make it clear it's for high-level characters, forgetting that skills max out at 200%).
+
+Rating: Atrocious
+
+Battle Dancer : Hey, let's combine the random chart usage of the Ranger with the initiative penalties of the Bard! Got close to the enemy and rolled for a good, high-level dance? Good for you! I'll get back to you in two turns when your initiative penalty wears off; hope your target hasn't moved on by then!
+
+Rating: I really hope this is a joke class
+
+Dancer : Bard, Artist, Battle Dancer, and now Dancer? Ugh. Anyway, the Dancer is the Geomancer with a worse twist. The difference is that you can use powers that aren't actually appropriate for the current terrain if you roll well, and if you decide to stop using your dance (say you've noticed you're using fire against an enemy that heals from fire), you do nothing for two turns before you can act again.
+
+Rating: Why does this even exist?
+
+Mimic : Mimics can use any power that the party is using, or copy class features, including spells but without an MP cost, for a day to a week depending on level.
+
+This makes them dependent on a mess of attributes, though, and their DC and MDC are weak. So they can do anything the rest of the party can do, just worse.
+
+Rating: Exactly one-half of the rest of the party's average rating.
+
+
+Next time, we'll look at thieves, gamblers, ninjas, engineers, and other disreputable sorts. Two or three more updates to get through these classes.
+
+"Hey, don't you think I have too much money?" (Thief/Engineer classes)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "Hey, don't you think I have too much money?" , part 5
+
+Still going through classes, here; we're up to the Thief-aspect classes, which also have the 8/9 DC/MDC split. These guys specialize in losing money, except for the Thief proper, who can steal a paltry amount to offset the other guys.
+
+Thief : Thieves can steal items, with no rules as to what they'll actually find. They can steal 1d4*10*level gold, which is fairly anemic. Then they have lame stuff--they have one ability that spends your whole action to turn the enemy around (can't be worth it compared to just hitting them), they can Charm very limited sorts of enemies, can turn invisible so enemy magic hits them without fail (er...), and have a super final attack based on their MDC, which is the only time they'd ever need it... and it's at such a high level that it's useless.
+
+Other players will demand you stop wasting your time picking up nickels instead of actually stabbing monsters, unless they're Chemists (more on that in a bit).
+
+Rating: Like a D&D3.5 Rogue in an Undead campaign.
+
+Gambler : Nope, the book doesn't come with a slot machine. It's percentile dice time! You have to buy tools before you can use them, but it's not clear whether you have to pay the gil gold each time you use them, or if it's a one-time fee. On the one hand, 300 or 500 gold is pocket change when weapons can cost five digits, but on the other hand, do dice go away after you roll them once?
+
+The results, of course, are stupid. Highest-level gamble, and you draw a free escape? Yuck. Minus that sort of silliness and a few status effects, the rest is all random healing or damage, and you have a 9 MDC rating. So you're wasting money but otherwise are pretty much interchangeable with a Geomancer or the like.
+
+Rating: How are they supposed to win big when they're literally throwing money away?
+
+Mystic Ninja : The Mystic Ninja gets the steal-items power of thieves (the only somewhat useful one), and can throw stuff for damage. You know this from the FF games--item is destroyed but does double damage. They also have special ninja-only throwing items you can purchase. You know, so you can continue to throw money away.
+
+Ninja magic (these guys are also wizards!) is stolen almost wholesale from D&D. The first spells listed are Alter Self (renamed), Legend Lore, Locate Person, and Lock (not renamed). Other spells include Expeditious Retreat, Mirror Image, Water Breathing (renamed), Feather Fall, Locate Monster, Detect Traps, Tongues, and Teleport (not renamed). Why does Mystic Ninja get all the non-combat utility spells?
+
+Rating: Frankenstein's Monster of random class features
+
+Ninja : Ninjas trade the random magic mix for the ability to use two weapons without paying for a very expensive skill. Naturally, Swordmasters already do this better. That's the only difference between Ninjas and Mystic Ninjas.
+
+Rating: Ninjutsu isn't conserved here
+
+
+That's it for the "Thief" classes. Next up is the "Engineer" classes, which are... pretty goofy. They get 8 DC, as we're used to now, but their MDC has dropped to the worst rating of 10.
+
+Engineer : Engineer's get the copy/pasted "Peep" from Artist, and can invent stuff. Which is all buried in Appendix II, but I'm going to look at it now. And it's... incomplete. It has a list of advantages and drawbacks and then says to calculate the level, but there's absolutely nothing that says what you use to determine the level. Then there's effects that occur in an "Invention level x3 radius", without saying what the radius is--feet? Yards? Hexes? Abstract combat zones? Then there's stuff like stat boosters and some sort of insane armor thing. On top of that, there's rules buried all over the place, like in the middle of one disadvantage it tells us that there's a default of 20 uses that isn't mentioned anywhere else and...
+
+Okay, so let's assume that everything that doesn't state a level is +/- 1 invention level, depending on whether it's a feature or a drawback. Let's further assume that an invention that does nothing starts out at level 0. Now let's assume we're trying to make a level 5 invention.
+
+We want our invention to be a lightsaber that makes us good at singing. Why? Because I fucking can . So our weapon is a sword (no rules cover this, just going to call it a sword, but it could just as well be a book or a gun) that does 4d6 damage (+4) with a Light affinity (+1) that raises our singing by 30% (+3) that can only be used 3 times a day (-2) and that blows up 25% of the time it's used (-1).
+
+So now every time I activate my invention, I hit you with a melee-range laser sword and bust into an opera song and you're forced to admit that it was really good, except that one time in four it explodes instead and we both get hurt more than if it had worked and I don't sing.
+
+This is how this class is supposed to work.
+
+Rating:
+
+Chemist : Instead of the mess of invention rules, chemists can use items to double effect (which could be okay), and get a special mixing table of random crap that they can use assuming that the party has a thief or ninja to acquire these otherwise never heard of items. Wanna make a potion that inflicts 7d6xDC damage on the drinker? Here ya go. The chart also makes regular reference to "Mag bonus", which looks to me like someone came in off of D&D to make this and didn't realize that there's no such thing as an ability score bonus here; just the ability itself.
+
+Half these mixes have offensive uses, others are used on the dead, the target has to drink them, and there's nothing to say what happens if the target isn't willing. And it can't just be 'if the target is in range, they drink it', when one of the mixes reduces HP and MP to 1, which would end every boss fight in one move.
+
+Rating: ...Probably very good? Depends how fast your GM gets annoyed and stops giving you good mixture items.
+
+
+Next time: the wizards!
+
+"What's wrong with a 5-minute adventuring week?" (Mage classes)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "What's wrong with a 5-minute adventuring week?" , part 6
+
+The quote will make sense when we get partway through the combat chapter. Anyway, now we're looking at the glut of primary magic classes; despite all officially being different classes, they all have a per-10 DC, per-7 MDC, and the same armor usage, so they're pretty much interchangeable.
+
+The only mold breakers are the Blue Mage, Red Mage, Magitek Knight, and Sage, who run with 8/8 and more armor options. They're plopped down in the middle of the rest of these guys.
+
+Black Mage : Melee classes start out wielding weapons that go from 1d6 to 1d12, and their legendary, unique, artifact weapons top out at 4d6 to 4d12 damage. Level 1 black magic starts at 4d6 damage, comes in a variety of flavors to hit elemental weaknesses, and has a few other random useful spells in there--like a level 1 spell that has a good chance of costing the target his turn. Wanna cheese a boss battle of any level? Keep that up and let everyone else peck the boss to death.
+
+Black Magic can deal up to 12d8 damage, and many of its spells are multi-target. The only melee class that can even potentially keep up with these guys is the Swordmaster. Everyone else might qualify as meatshield, but honestly these guys aren't all that frail.
+
+Rating: Nuclear bomb crossed with a Swiss Army Knife.
+
+White Mage : White Mages are black mages with less elements to choose from and they do one less dice of damage with their offensive spells. On top of that, they get healing spells and plenty of buffing options as well. It's not quite a D&D 3e Cleric, but these guys are no slouches and will likely always be a great asset.
+
+Rating: Atomic bomb crossed with Swiss Army Knife crossed with the Mayo Clinic
+
+Healer : Oh, here's an aspect option of White Mages. Instead of getting a wide variety of spells and using MP, they get a handful of specific powers at specific levels, and they're used by initiative count. The best powers--stuff like full cures--can only be used once per day, has the usual maybe-multi-turn initiative penalties, and shuts them off from using any other powers at all for 1d6 or 2d6 rounds afterwards. They're just healers, but are kinda slow and useless about it.
+
+Oh, and of course they're the lamest possible melee combatants and have no offensive spells. Don't expect much out of these guys.
+
+Rating: Aw, it thinks it's people
+
+Red Mage : These guys take most black mage spells, toss in white's healing, and stir in a lamer MDC rating, slower gain of magic, and no capstone spells ever. They're okay, I suppose, but there's nothing they do that a white mage couldn't do better except for using certain elements of attack spells. Also another class makes them completely superfluous. More on that after this next entry.
+
+Rating: Second stringer
+
+Magitek Knight : Oh, hey, it's Celes. These guys can absorb single-target spells aimed at them, but not any aimeed at the rest of the party or area-attack. They also get spells, but slower than the Red Mage.
+
+I can't see much use for these guys unless the DM is willing to play as badly as a SNES AI.
+
+Rating: One-trick pony, where the trick isn't very good
+
+Sage : Sages are Tellah. They can use both White and Black magic, making them better than Red Mages in every respect. Having both literally makes them "Red Mages but better". Red Mages aren't even any better at physical combat with how Aspects work. The weakness of this class is the lower MDC than other primary mages.
+
+The goofy thing here is a mention that "In order to gain more spells than they can gain innately, they'll have to hunt for their magic." ...Huh? Nowhere else in the game do they hint that it's possible to gain magic from anything but leveling gains.
+
+Rating: Goofy, but the best class there is at levels where the MDC progression is still kind to them.
+
+Blue Mage : Blue Mages get Blue Magic when monsters use it on them. The Monster creation rules allow for monsters to use white, black, grey, red, ninja, and sword magic. There are no rules for giving monsters blue magic, which means this guy can't learn any more than he starts with.
+
+Rating:
+
+Cosmic Mage : Time Mages to anyone else, these guys are given pretty nasty offensive spells along with some buffing, debuffing, and percentage-based damage. They also get a spell that inflicts the "Pig" status effect, which DOES NOT EXIST. Comedy option: it doesn't do anything because men are already pigs.
+
+Rating: A bunker buster crossed with a cheaper knock-off of a Swiss Army Knife
+
+Caller : Hey, it's the forgotten class! These guys don't have a listed MDC in the table, and only have a DC because that chart has a "all others" option. Anyway, these guys are summoners. Summoning is... goofy. Every summon has a fixed cost, but three effects, depending on the summoner's level, statically. That is, all summons use their medium attack at summoner level 30, and their best one at level 60. Summons are also larger than most other spells, and clock in some absurd damages, up to 11d10. Others give better healing and support than most of white and grey/cosmic magic. These guys can burn through MP like nobody's business, but they are crazy while the MP holds out.
+
+Well, assuming you think that they're meant to be a 7 MDC class, which they probably were. If they're 8, they're still competitive, but not so overwhelmingly so.
+
+Their primary weakness is that you have to go get the summons via roleplaying, which means that even if they're a x7 class, they're exactly as bad as the GM lets them be. Poor game design, but within a single campaign, probably not so bad.
+
+Rating: ...Probably tops? Zero if you think that the lack of an MDC improvement line means they don't improve MDC at all.
+
+Black Caller : Hey, it's a caller, except they can use black magic to a passable extent. Also they can only have 2/3 as many summons on hand, but I can't imagine that ever being a problem; you wouldn't ever need that many summons.
+
+Rating: ...Probably a bit better than a stock Caller?
+
+Red Caller : It's a Black Caller with Red magic instead. They also lose a point off their MP dice (d8 instead of d10) and gain a point on their HP (d8 instead of d6). Still, with them gaining magic at the same rate as a black, red magic is now extremely competitive instead of very weak. These guys are probably a step up.
+
+Rating: ...A step higher yet, I guess?
+
+White Caller : It's a black caller with White magic instead of Black. Pick your flavor and summon the other effects.
+
+Rating: Color-inversion doesn't make a new class.
+
+
+
+Next time we'll talk about skills and skill contests, and how you don't want to get critical successes!
+
+"What do I want to roll now?" (Skills)
+posted by ZeeToo Original SA post
+
+Returners RPG, or "What do I want to roll now?" , part 7
+
+We're up to the Skills chapter, which of course has random inclusion of other rules in it as well. Twice on the first page of the chapter, it notes that skills have a maximum of 200. Also on the same page it has a rating for when your skill is at 200+.
+
+Basically, you can put up to 10 of your 20 (or 25 for human or elf) points towards any given skill per levelup, no matter how much this increases it by. There's some points that give a bonus or penalty to how much the increase is actually affected, and it all stacks. So if you have a double and a halving, 1 skill point increases the rating by 1.
+
+Okay, sensible enough. Now, there's two methods of increasing your skills (yes, this is the order things are explained in: first explain how it works, then say that there's two methods): first, you can put skill points learned from leveling up towards a skill, or you can get trained in it.
+
+If you're trained in a skill, you get the rating for free. So there's no actual real limits as to what you can know.
+
+Skill contests are up next! Remember how rolling within 10% of your skill is a critical success, so you want to roll as high as possible without being past your skill? Essentially these are opposed rolls, where two characters try to beat the other. You compare how much you beat your target number by to how much your opponent beat theirs, but a critical success beats a non-critical success.
+
+So if you have a rating of 60, 50-59 is a critical success, <50 is a success, and 60+ is a failure. A 50 beats anything but an enemy critical success, but a 49 is the worst possible successful roll.
+
+Further, skills can increase past 100, so if we throw that guy with a rating of 60 in a competition against the grand master legendary guy with 200, he has a 10% chance of winning, and the grand master cannot get a critical success without hamstringing himself somehow by stacking up negative modifiers.
+
+Oh, you can also increase your six basic stats with your skill points; it's 10 for 1 up to racial maximums, or 20 for 1 up to double that. The game takes a moment to tell us about attribute increasing potions here (they are never mentioned anywhere else) and then I interject here that this is what makes humans and half-elves so good: they get their attribute increases faster thanks to getting more points.
+
+Now we go into skill groups. Each just has the skills within it, certain classes get obvious groups for cheaper and less relevant skills cost double.
+
+Weapon skills covers a whole bunch of weapon types. Eh. The only odd man out is Two-Weapon Fighting, which costs double for everyone but the thief (why not the thief?), and notes that Black Belts don't need to use this skill to punch twice (they don't? Really? Shouldn't that have been mentioned in their class features somewhere?). There's also a martial arts skill that notes that you need it to use the unarmed attacks in chapter 6, but there's no such thing in chapter 6 or elsewhere.
+
+Physical skills cover pretty obvious athletic stuff, including climbing and riding animals.
+
+Then... combat skills. Oh, neat a Disarm move... that doesn't take into account the target's skill with his weapon at all. It's as easy to disarm a master swordsman as it is to knock a stick out of some nervous kid's hands. There's an ill-considered Dodging move that can hugely buff your ability to avoid attacks. Next up is jumping... solely expressed in terms of feet, just so you can't use it in a map combat, I guess? That uses a different jumping statistic that doesn't interact with this at all. Ghhk . Next up is parrying, which lets you weaken incoming attacks to a huge degree. The last two are Size Up (lets you Eyeball a Fella) and Strategy (spend TEN MINUTES to get a +1 to attack or defense in a percentile system).
+
+Scholastic is up next. Alchemy lets you use it to create potions, according to the rules found later in this chapter. Flipping over to those rules... you can make healing items for free, unless the GM forces you to acquire one-shot items to brew into them. There are no rules covering this in any form. The only other interesting skill in this section is teaching, which lets you give other people your skills for free, at a rate of 10% of his rating per month.
+
+Social: act, lead, sing, know etiquette. Solid enough.
+
+Then comes wilderness. Basically ranger stuff, plus climbing riding animals--hey, wait, weren't these skills already placed in Physical? Yes. Yes they were. Wilderness also covers tracking, which includes penalties in the -300 and -500 range. Because you can totally have a skill over 200 (you can't).
+
+Thievery is up next. We get our third entry for Climbing--recall there are no rules for what it means if this means you have a bonus and a penalty for the same skill--and... Trap Lore. Well, D&D does it, right? Pity there are no rules on traps anywhere. There's also concealment, which lets a 3 foot sprite conceal a 10 foot pole about her person, successfully.
+
+General... stuff everybody should know, like perception and cooking. Also piloting airships.
+
+Crafting. Ah, crafting. I'm sure this will be a bastion of careful thought and sanity. Let's see... Alchemy didn't make it in. Invent, which Engineers use to make their inventions, did. Hey, wait, does this mean that non-Engineers can use invention rules to make a combination egg whisk/automatic lockpicker and all the other stuff that's supposed to be the primary draw of the Engineer class? Yes, I think so. Why shouldn't other classes duplicate your whole class as a minor part of their own?
+
+We wrap up with Artistic skills. Dancing, singing (both duplicates), playing instruments, 2d and 3d art... and not the Painting skill used by the Artist class. Guess they can't actually use their class features, then, if it's not in the skill list!
+
+Now we go into Weapon Masteries. What's a weapon mastery? It's stupid. But more precisely, it's a series of 8 skills you can get once your weapon skill is at least 100. You can't raise any mastery rank higher than the lower ones--so if you have mastery 2 at 80%, mastery 3 can be 0-80%, but no higher. So if you really feel like sinking 800 skill points into perfecting these, well, hey, that's only 40 full levels, or 32 if you're a human or half-elf.
+
+There's some goofiness regarding counters and when you can use these things--it looks like, for every time you use a mastery, you must use a normal attack [mastery rank] times to get to use it again. Every decent class has much better things to do than normal attack.
+
+Also they're pretty stock Fighter-type attacks, complete with initiative penalties. I can sum them all up by saying that the Swordmaster's Dispatch is better than any of them.
+
+
+Cripes. That's the whole steaming chapter in a single update. Tune in next time when we try to outfit our characters and can't even count to 3.
+
+"One, two... five?" (Equipment)
+posted by ZeeToo Original SA post
+
+Return RPG, or "One, two... five?" , part 8
+
+We're on to the equipment section. This starts out by telling us that at level 1 our PCs get 300 gold to buy stuff with. Okay... that actually matches the number mentioned in character creation. Minor miracles.
+
+Next section is availability. There are five ranks of available stuff, and you roll to see which level is around whenever you're in a new shop. There's Common (100%), Uncommon (75%), Rare (50%), Very Rare (25%), and Artifact (can't be purchased). So, yes, there's a pretty good chance that Alpine Thorp #46 has better equipment than Capital City of the Expanding Evil Empire, no matter which one you visit first. That's... novel.
+
+Unwanted equipment can be sold for a flat 2/3 of its original price. Alpine Thorp #46 has a shopkeeper sitting on an infinitely large bank and is desperately greedy for your used Leather Armor. Yes, that's from the games, but best not to dwell on it.
+
+Okay, let's rip something off of D&D directly! Feel free to call your gold "gil", "meseta", "fol", or whatever, but the denominations are non-negotiable. Tenth piece, half piece (both made from silver and worth less than 1 gp), gold piece, er... Tooka Piece (10 gp), Quarter Piece (25 gp), Century Piece (100 gp), and... Hyaku piece (500 gp). What's a Tooka and a Hyaku? Now that these have been identified as a 'thing', not just an arbitrary credit number, doesn't this mean that each coin should count as one item in the "you can carry 15 items" method? I'm a bastard
+
+Next up we go into weapon prices. There's five columns, and each weapon type is associated with one of the columns, overlapping. Rows represent xd*+y, so one row is 2d[6/8/10/12 as appropriate]+3, for instance. Mostly the more expensive weapons are more powerful, but that isn't uniformly true.
+
+The charts are fairly uninteresting; each weapon type scales up and some ranks of item have special abilities drawn from a list. Imagine if a Holy Avenger was the only sort of +5 Sword to exist. The bad thing with this set-up is that if the weapon you're trained with just so happens to have a Fire Elemental attached to it at this rank, your weapon deals fire damage. Target absorbs fire? Tough. Should've been a caster.
+
+Also someone messed up alphabetizing and Bows come before Books.
+
+Armor! Everyone gets to use certain types of armor, restricted by class. Unlike weapons, where you can go against type if you're sufficiently determined, armor is just a 'tough'. Naturally, the caster-only armor is pretty much better--robes are just mail with the physical and magical damage reduction swapped, better avoid ratings, better rider effects, and they're cheaper. This is why I said mages aren't so fragile that they need a fighter-class meatshield; if your enemies use magic roughly as often as physical blows, mages aren't just better attackers, they're better tanks. For less.
+
+Many armor items, like the Tiger-Striped Bikini, are restricted to female characters. No items are restricted to male characters.
+
+For those of you keeping track at home, this means the mechanically ideal character is a female half-elf in revealing robes... or less.
+
+Accessories. One per character, yadda, yadda. The first few sets give defense against certain elements or status effects, improve usage of MP, or similar stuff. Then we get to attribute boosters. Much like King Arthur of Monty Python fame, they come in three strengths: +1, +2, +5. The only real issue with this lot is that a lot of them don't have any sort of price listed.
+
+Then we get into the weird ones. Backguard: protects against being snuck up on. No mechanics support any sort of sneak attack. Blizzard Orb: allows Yetis, the worst possible casters who are only good at classes with weak MDC, to cast a spell based on their MDC. Coin Toss: piss away your ability to buy decent weaponry for damage now. Dragon Horn: lets you do... d6-1 attacks, without telling you what sort of attacks... does this mean you could be using Dispatch 0-5 times per round with this? Who knows! That's the fun of Returner RPG!
+
+Anyway, Fake Mustache that lets you charm monsters with no description of how to invoke its powers. Merit Award: lets mages wear armor, just in case that's situationally better (there is no equivalent to let fighters learn to wear the very complicated intricacies of robes). Offering: lets the user strike four times per round... er... can this be used for four spells? What initiative do the other three attacks go off on? What about if I use four attacks with different initiative penalties? If my initiative goes negative, what then?
+
+
+Potions: heal HP, MP, or status effects. No surprises, no problems.
+
+One-shot items: offensive or buffing items. About half of these have no purchase price in the appropriate column. 75% of stores carry Vampire Fangs, but none of them have any idea what the hell sort of price it should sell for!
+
+
+
+General problem with the chapter that doesn't fit in with the page-by-page review: how much money are you supposed to have at a given level? There's no sort of wealth-by-level guideline, but costs go up from 30 gp for a basic 1d6 weapon up to 30000 gp for a top-tier bought weapon. The top quarter of weapons and armor and half the useful accessories don't have a price (and aren't supposed to since they're artifacts; it's not just missing), and I don't know what level these things are supposed to be handed out. Even trying to add up how much you should have gotten to your current level is tough, because the level-up chart is potentially screwy (more on this in the appendix) and you're supposed to be using items and selling old equipment.
+
+And if you have a Chemist cranking out elixirs at hyperspeed to sell, what does that do to your money? What about the stuff that turns gold into straight damage?
+
+I just don't know!
+
+Basically, mages get the better end of this no matter how much money the party gets, anyway. They do eke out proportionately better in low-money games since they don't need to buy good weapons and their armor is cheaper as well, but it doesn't really matter; they'd be competitive at level 1 if you handed out free top-tier relic weapons to every fighter at creation.
+
+
+Next time: we learn how to hit stuff in combat! Maybe!
+
+"I'm adjacent... so can I hit him or not?" (Physical combat)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "I'm adjacent... so can I hit him or not?" , part 9
+
+This section covers "combat". It says combat, but it's actually just the initiative and physical attacks chapter. Magic is next time. Anyway, the chapter starts out explaining rounds: each round, you get to move and do 'something' (Fight/Magic/Item/Run). Rounds are 30 seconds long, because all characters take that long to pull off just one swing of their oversized swords. I'm editorializing.
+
+Initiative is rerolled every round (has to be, with the way initiative penalties work), and is 1d10 + your speed stat. Each enemy, even if they're goblins 1-4, get their own tick in the initiatives.
+
+Basic attacks work like: roll under (your weapon skill-enemy defense). Damage is (weapon listed + str or agi based on type) x DC. We get a chart of conditions that give further pluses/minuses to the to-hit roll, like fighting in the dark, while blinded, if you can get behind the enemy (there's no rules on facing), or if they're behind full cover. Yeah, that last one is only a -35. I'm going to stab you through castle walls! The chart also gives bonuses to hit based on height differences between the attacker and target. Keep this in mind; it means that attacks have a non-zero vertical reach.
+
+If you roll a 1, a 100, or within 10 over your target, you 'botch', which means the DM has carte blanche to have you suffer such amusing plights as having your weapon break on you.
+
+The description of Item says that you either drink a potion or use a one-shot item on your opponents. Er... doesn't that mean there's no way to use Phoenix Downs?
+
+Healing via rest is randomly shoved in here now. You recover Vitality + 1/2 level of HP per day of normal adventuring, or full level if you don't spend the afternoon trying to stab demons to death. MP is restored by Willpower + level per day. Keep in mind that every level, a wizard gets d8 (or more likely d10) + 1/2 Willpower per level . With max Willpower and about average rolls for MP, this means that you could be out of action for three weeks while your MP regenerates from 0. A week to ten days is probably more 'normal'. Hence my comment on the five-minute adventuring week before.
+
+Death: at 0 HP to -50% HP, you're unconscious. At -50% to -100% you're dead but revivable. At lower than -100%, only Life2 can bring you back. ...Sure, okay.
+
+The game goes into optional rules now, like halving all stats when lower than 25%. Sure, ability damage was always such a hit in D&D 3e. To give death a bit more impact, the game suggests rolling on some charts to determine what maladies remain after you come back from beyond the grave, like... bruises, or a personality switch. It's kind of a lame chart.
+
+We get a chart of status conditions next. Kind of odd placement, but at least they're all defined together. We get such classics here as Blood Suck, which turns you into a vampire and I don't think I've ever seen anything in the book that can inflict that. Others just don't look finished. Like Confusion, which gives a -20% to hit and says you 'might' hit friends. How likely is that? What rules govern what makes a valid target? In map battles, can you avoid that by walking to where only foes are in reach? Guess!
+
+Equipment also can get broken, just to annoy people who were dumb enough to not be casters.
+
+Next up is optional advanced poison rules, which really just makes using poison more pointless, so we'll skip that.
+
+Now it's into map combat! You can deal with squares, hexes, or abstract. Abstract is the default which is why almost everything up until now has carefully given ranges and vertical reach suitable for the other two, and hexes are the only good choice even if no FF game has ever used them, let me tell you other 43 people. We'll be hearing from the hex guy again next chapter.
+
+Now, each map square is about equal to one yard/meter (except when it isn't, like with the Swordmaster capstone ability), and your base move/jump is 3, with bonuses based on a high speed, or being the right class/race. Remember how a round is 30 seconds? A default Returner RPG character at a dead run can cover the hundred yard dash in just under 17 minutes. A half-elf ninja with 30 speed (to max out movement) still takes over five.
+
+Ain't that great?
+
+Then we get into water, lava, snows, swamps, and other things that make it even more of a pain to move.
+
+Weapon ranges: half the weapons have a range of 'adjacent'. They can be used against target on the same level, one level lower, or the level lower than that. That's it. Wait... why did the big chart have a listed penalty for attacking a higher enemy if you can't attack a higher enemy? Why can characters jump at least three times higher than they can hit with a sword? What sort of vertical reach do the weapons with a range greater than 1 offer?
+
+And this is the form of combat that the game goes to some effort to steer you towards. The game isn't playable without houserulings because there's just chunks missing.
+
+Line of sight: line of sight blocks crossbows, pistols, boomerangs, and rifles, but not bows. Okay. Lifted from the Tactics games without any thought, I see. This doesn't affect polearms or whipe, which have a range of 2.
+
+Then we get into some goofy explanations of heights with area effect things. Allied units can be hurt by attack spells unless they can't (next chapter).
+
+Now we finally get into the 'default' abstract rules, tucked at the very back of the chapter as an afterthought. It takes four pages to set up "range two lets you hit enemy backrow from your front, enemy frontrow if you're in the back, here's some basic conversions for area of effect stuff, backrow gets a defense boost but offensive reduction, everything else is just what you'd think".
+
+Also this section tells us that books and musical instruments are ranged weapons, which the other section suggested were melee weapons. Which one is right? I don't know! It's unclear which one should take precedence. Or are they melee in hex combat and ranged in abstract, maybe...?
+
+
+
+Tune in next time for the chapter on magic, which misses the most important rule of magic, which can pretty much only be found in the glossary!
+
+"So is there any chance of a miss or not?" (Magical combat)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "So is there any chance of a miss or not?" , part 10
+
+Now we're up to magic. A very important rule about magic is not mentioned in this chapter at all--see if you can figure out what it is before I reveal it at the very end of the review!
+
+The chapter tells us of the types of magic (I already gave an overview of them with the associated classes), tells us how to calculate damage, then explains ranges.
+
+See, the big spells, that have an effect range of 4, are "unfocused". They attack all enemies, friend or foe, in their area of effect. That's their drawback. Spells of effect 2 or 3 are officially, explicitly, unclear on if they can strike allies. The game suggests that they should be hit by them. Whu...? If you're so sure that 4 should have a big trumpeted drawback of hitting everyone, shouldn't you make sure that that doesn't hold true for the other ones? If you don't let this sort of thing only target enemies, you end up with some classes (mostly fighters) who end up rolling randomly on a targeting table that they can't exclude themselves from . Boy, I just love cutting off my own face after waiting for two turns and anyway being significantly weaker in any damage comparison than the mages even if it goes well!
+
+Now we talk about learning magic. Apparently once you get past your main line of learning spells, and get to the point where you can learn spells of "any level", you have to start randomly rolling to see if you learn spells. If you fail? Fuck you! Well, at least that's aimed at mages this time, but they already innately, before this, and without chance of failure have all the spells they could need. Especially if you look at the next page, where you can learn spells via a good skill roll every level, on top of what you gain normally. Huh.
+
+Then there's some nonsense about spellbooks. Spellbooks are mentioned nowhere else . Apparently they work by letting you use magic that is on your class list but not on your spells known. So like D&D 3e wands. Also they have an initiative penalty of twice the spell level (1-10). Then there's some mention of a penalty to a roll for learning a spell... what? Can you learn spells from books? It doesn't say you can. First it talks about casting from a book, then goes into a penalty to learning from it. So can you just add it to your spells known? If so, what's the roll? If you just cast it from the book without trying to learn it, does that take a roll? Does it take MP? Or is it like "use item"?
+
+Then it goes into talking about how Materia and Magicite work, for a paragraph, then says to go read the section on them for actual mechanics. There isn't such a section.
+
+This chapter is pretty bad.
+
+
+
+Then... this. It seems to be an elements chart, but it's of no use whatsoever; they just wanted to throw in a bit about the metaphysics of magic there. It's followed by the even more baffling lists of 'para-elements' made by crossing the Greek four. I guess someone just liked his Planescape cosmology.
+
+The rest of the chapter is all just the spell lists; I gave a rough idea of each of these already. The game is very heavy on attack spells and light on other things, so there's not too much to go over.
+
+Now, can you figure out what's missing?
+
+It's not if flying foes can be hit by earth magic--although that's randomly given contradictory rulings all throughout the book.
+
+It's the chance to actually hit with magic. The glossary and intro chapter define a "Magic%" stat that you use to see if magic hits or is dodged, but in the chapters on magic-using classes and using magic, it is never mentioned. Partially removed legacy mechanic or an oversight in the rules where it should be mentioned? I think the latter.
+
+
+Next time, we'll look at Monster Creation, and... that's actually all there is in the book! No character sheets or chapter on GMing advice, tone, how to run anything that isn't a combat, or any of that rubbish. You know how to kill things, you know how to make a lightsaber invention that works like Autotune, you're done. I'll finish up the review by making some sample characters and monsters, maybe running an example combat if I'm feeling ambitious, and then we're done! All there is to see here, folks!
+
+"Isn't Gygaxian Naturalism grand?" (Monster creation)
+posted by ZeeToo Original SA post
+
+Returner RPG, or "Isn't Gygaxian Naturalism grand? , part 11
+
+We're up to the appendixes! There's two: one on monster creation, one on engineer and chemist creations which I went over with those classes, since, well, that's specifically and solely their class features.
+
+That just leaves monsters, which seems like it includes human adversaries, but that's never mentioned. Just keep the idea of making wizards and town guards in mind as we go along, okay?
+
+Monster creation is fairly involved: first we need a concept, then we'll define its habitat, appearance, and behavior. Because, you know, that's the most important parts of a monster. We're building a world here, dammit, and little things like when (or if) it'll come up in the campaign aren't important to us!
+
+You're supposed to draw up random encounter charts for each region, and then roll on them... actually, it doesn't say how often to check.
+
+Well, we've got the vitals down about what sort of monster to create, now we just need to fill in the little details. First, pick a level (no guidance for what a level means in the deeply rich world we're creating) that should be a few points ahead of our PCs, ignoring this whole 'make a chart and roll on it' silliness (how many people were putting together paragraphs that got stitched into this appendix?).
+
+Stats: monsters have six base stats, just like PCs. They purchase them like a human, but they 30+(2xlevel) to distribute, instead of just rolling 6d10 and then not getting any free increases by level.
+
+All monsters have the same to-hit rating as any other monster of their level.
+
+HP is determined by vitality, level, and a new thing called 'size' that we haven't seen mentioned before. Big guys get more HP and do more damage with their attacks. There's no other benefits or drawbacks.
+
+Defense scales with level and stats. Armor and magic armor (damage reduction, recall) are level x a chosen number (1, 1.5, 2, or 3). They don't scale against each other or take some manner of points that could be applied elsewhere. Just pick. Luckily it doesn't matter much since PC damage is so high that this is barely a speedbump even if you give all monsters x3 armor and m.armor. Monsters, on the other hand, all get 8 DC and 10 MDC. Making a manifested spirit of magical potential and a brainless golem of the same level? They both get the same magical multiplier.
+
+We get a series of monster powers up next; monsters purchase elemental affinities, special attacks, counter-moves and more here, from a point total determined by level that can be increased by taking drawbacks.
+
+This is why the Blue Mage doesn't work without severe houseruling, incidentally: monsters purchase spellcasting or specific spells as powers based on the level of the spell. The only magic list that isn't broken up into spell levels? Blue. Dumb.
+
+Monsters give 200xlevel XP. Characters need 500xlevel xp to level up each time. Now, here's where habit could throw you. If you're used to experience being a constant pool, you look at that and think each new level comes every 500 xp, and then suddenly a level 10 monster gives you four level-ups at any level, and so on. Really could have used a notice that it resets, although thankfully it blows up fast enough that you'll doubtless sort it out before long.
+
+GP: 1/3 of its XP value.
+
+If you're using Magicite/Materia/etc, it gets some points here as well, but there's no rules on those anywhere.
+
+Basic attack damage is just a chart and a dice sized based on monster size.
+
+We get an alphabetized list and description of monster powers that we can add to our little beasties now. This is actually pretty good. If this had been adapted and used to build your own class features instead of what we got for classes, the game would have been much improved.
+
+The chapter finishes up with example monster: yellow, black, red, and blue chocobos. Nifty.
+
+Honestly? This isn't a particularly bad section. I rather like some of the stuff, and it even has some good advice that D&D 3e (the modern one at the time) didn't always follow, like making sure every enemy has at least two attack types and mixing them up a bit so battles don't get stale.
+
+If the rest of the book had been worked on by whoever did the monster mechanics, then had someone else go over it to tweak oversights, this game would've played much better.
+
+It's always nice to end on a high note!
+
+
+
+Next time: example characters, and the very last update of the review. If you have any features/classes/effects/whatever that you'd like me to include, let me know now; otherwise I'll just default to the classes and such I've picked to show off how things work.

@@ -1,0 +1,1 @@
+In this folder you can find subjective documents such as reviews and opinion pieces.
